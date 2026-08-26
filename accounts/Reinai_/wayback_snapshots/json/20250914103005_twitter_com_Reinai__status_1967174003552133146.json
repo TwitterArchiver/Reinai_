@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966856952094617609"
+      ],
+      "media_source_tweet_id": [
+        "1966856963188511098"
+      ]
+    },
+    "author_id": "1668234754125344768",
+    "conversation_id": "1967174003552133146",
+    "created_at": "2025-09-14T10:30:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T11:30:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967174003552133146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1893209290921672704",
+          "start": 3,
+          "username": "guagua_me"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zQ44i8edcF",
+          "end": 38,
+          "expanded_url": "https://x.com/guagua_me/status/1966856963188511098/photo/1",
+          "media_key": "3_1966856952094617609",
+          "start": 15,
+          "url": "https://t.co/zQ44i8edcF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967174003552133146",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1144
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966856963188511098",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @guagua_me: https://t.co/zQ44i8edcF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1966856952094617609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0ut-iGbcAkuDip.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966856952094617609"
+          ],
+          "media_source_tweet_id": [
+            "1966856963188511098"
+          ]
+        },
+        "author_id": "1668234754125344768",
+        "conversation_id": "1967174003552133146",
+        "created_at": "2025-09-14T10:30:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T11:30:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967174003552133146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1893209290921672704",
+              "start": 3,
+              "username": "guagua_me"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zQ44i8edcF",
+              "end": 38,
+              "expanded_url": "https://x.com/guagua_me/status/1966856963188511098/photo/1",
+              "media_key": "3_1966856952094617609",
+              "start": 15,
+              "url": "https://t.co/zQ44i8edcF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967174003552133146",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1144
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966856963188511098",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @guagua_me: https://t.co/zQ44i8edcF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966856952094617609"
+          ]
+        },
+        "author_id": "1893209290921672704",
+        "conversation_id": "1966856963188511098",
+        "created_at": "2025-09-13T13:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T14:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966856963188511098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zQ44i8edcF",
+              "end": 23,
+              "expanded_url": "https://x.com/guagua_me/status/1966856963188511098/photo/1",
+              "media_key": "3_1966856952094617609",
+              "start": 0,
+              "url": "https://t.co/zQ44i8edcF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966856963188511098",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 690,
+          "impression_count": 89138,
+          "like_count": 9384,
+          "quote_count": 48,
+          "reply_count": 53,
+          "retweet_count": 1144
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zQ44i8edcF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 344,
+          "like_count": 436,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 249
+        },
+        "username": "Reinai_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T08:01:01.000Z",
+        "description": "",
+        "id": "1893209290921672704",
+        "name": "瓜",
+        "pinned_tweet_id": "1919592074896183468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922933433099223040/rOaUlFix_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15972,
+          "following_count": 19,
+          "like_count": 551,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 71
+        },
+        "username": "guagua_me",
+        "verified": false
+      }
+    ]
+  }
+}

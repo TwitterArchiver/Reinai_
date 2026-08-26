@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "1983831522139632117",
+    "created_at": "2025-10-30T09:41:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T10:41:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983831522139632117"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1983831522139632117",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "也許真的很喜歡很喜歡他吧\n不過我到現在還是會想 他是真的喜歡我嗎 還是只是想玩玩我 \n我還是不相信他真的喜歡我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "1983831522139632117",
+        "created_at": "2025-10-30T09:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T10:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983831522139632117"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983831522139632117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "也許真的很喜歡很喜歡他吧\n不過我到現在還是會想 他是真的喜歡我嗎 還是只是想玩玩我 \n我還是不相信他真的喜歡我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 412,
+          "like_count": 630,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 396
+        },
+        "username": "Reinai_",
+        "verified": false
+      }
+    ]
+  }
+}

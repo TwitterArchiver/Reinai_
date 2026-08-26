@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "1996130406132056424",
+    "created_at": "2025-12-03T08:12:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T09:12:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996130406132056424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1920308340737126400",
+          "start": 3,
+          "username": "fusedjiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996130406132056424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995537137094328328",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fusedjiii: 什么叫逃避啊？我本来就不该承受那些痛苦啊？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "1996130406132056424",
+        "created_at": "2025-12-03T08:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T09:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996130406132056424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1920308340737126400",
+              "start": 3,
+              "username": "fusedjiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996130406132056424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995537137094328328",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fusedjiii: 什么叫逃避啊？我本来就不该承受那些痛苦啊？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920308340737126400",
+        "conversation_id": "1995537137094328328",
+        "created_at": "2025-12-01T16:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T17:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995537137094328328"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995537137094328328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6542,
+          "like_count": 210,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "什么叫逃避啊？我本来就不该承受那些痛苦啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "pinned_tweet_id": "1984216096094962091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 460,
+          "like_count": 923,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 532
+        },
+        "username": "Reinai_",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-08T02:42:51.000Z",
+        "description": "一般路过门槛妹，私信只想回口令。互联网是我的墓地🪦，爱你们，你们也爱我只爱我好吗",
+        "id": "1920308340737126400",
+        "location": "家",
+        "name": "裴裴小猫好吗",
+        "pinned_tweet_id": "1994016765752549629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994917273942007808/XUPRB-WI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5000,
+          "following_count": 165,
+          "like_count": 675,
+          "listed_count": 10,
+          "media_count": 113,
+          "tweet_count": 1724
+        },
+        "username": "fusedjiii",
+        "verified": false
+      }
+    ]
+  }
+}

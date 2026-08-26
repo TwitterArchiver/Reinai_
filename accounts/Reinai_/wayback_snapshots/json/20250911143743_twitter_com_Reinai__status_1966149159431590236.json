@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "1966149159431590236",
+    "created_at": "2025-09-11T14:37:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T15:37:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966149159431590236"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1966149159431590236",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如何一隻手洗澡另一隻不碰到水。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "1966149159431590236",
+        "created_at": "2025-09-11T14:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T15:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966149159431590236"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966149159431590236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如何一隻手洗澡另一隻不碰到水。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 339,
+          "like_count": 418,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 239
+        },
+        "username": "Reinai_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "1977408405305512014",
+    "created_at": "2025-10-12T18:30:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T19:30:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977441732456595693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1486755570694729729",
+          "start": 0,
+          "username": "inks_chain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977441732456595693",
+    "in_reply_to_user_id": "1486755570694729729",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977408405305512014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@inks_chain 別割"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "1977408405305512014",
+        "created_at": "2025-10-12T18:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T19:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977441732456595693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1486755570694729729",
+              "start": 0,
+              "username": "inks_chain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977441732456595693",
+        "in_reply_to_user_id": "1486755570694729729",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977408405305512014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inks_chain 別割"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1486755570694729729",
+        "conversation_id": "1977408405305512014",
+        "created_at": "2025-10-12T16:17:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T17:17:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977408405305512014"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1977408405305512014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在想割不割，其实蛮想割的，倒也不是情绪上多难受，只是单纯的想。。但是我拿纸擦血的声音会不会被室友认为我在那啥，纠结"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 380,
+          "like_count": 538,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 351
+        },
+        "username": "Reinai_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-27T17:38:56.000Z",
+        "description": "本体很丑陋 请不要讨厌我 请不要对我抱有希望 我是肮脏的臭虫 只是喜欢贴贴抱抱。。。不，请不要这样，我害怕。日常活动区域：重庆/四川/（以后可能有广东和上海） 。本体@Chain_Inks 可能。。。能算个男妈妈（？）请需要帮助的时候来找我，我会尽力帮助你，我希望所有人跟我交友前先明确我的性别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 83,
+                "username": "Chain_Inks"
+              }
+            ]
+          }
+        },
+        "id": "1486755570694729729",
+        "name": "ヰ时间优泠",
+        "pinned_tweet_id": "1977343003393229202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971357818285613056/uztkWkW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 304,
+          "like_count": 3067,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 972
+        },
+        "username": "inks_chain",
+        "verified": false
+      }
+    ]
+  }
+}

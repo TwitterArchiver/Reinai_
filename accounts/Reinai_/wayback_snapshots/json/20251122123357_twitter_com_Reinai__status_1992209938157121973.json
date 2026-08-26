@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "1992209938157121973",
+    "created_at": "2025-11-22T12:33:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T13:33:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992209938157121973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1164139915623333888",
+          "start": 3,
+          "username": "2uoii__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992209938157121973",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992099588493504606",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @2uoii__: 其實我某程度來說是個健全逼\n完全健逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "1992209938157121973",
+        "created_at": "2025-11-22T12:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T13:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992209938157121973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1164139915623333888",
+              "start": 3,
+              "username": "2uoii__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992209938157121973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992099588493504606",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @2uoii__: 其實我某程度來說是個健全逼\n完全健逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1164139915623333888",
+        "conversation_id": "1992099588493504606",
+        "created_at": "2025-11-22T05:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T06:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992099588493504606"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992099588493504606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 159,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "其實我某程度來說是個健全逼\n完全健逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "pinned_tweet_id": "1984216096094962091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 453,
+          "like_count": 825,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 494
+        },
+        "username": "Reinai_",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-21T11:39:26.000Z",
+        "description": "天上天下 唯我獨尊",
+        "id": "1164139915623333888",
+        "location": "香港",
+        "name": "՞⸝⸝o̴̶̷̥᷅ ̫ o̴̶̷᷄⸝⸝՞",
+        "pinned_tweet_id": "1992170407747788858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902559243334774788/x-wKzDJB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 64,
+          "like_count": 5777,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 509
+        },
+        "username": "2uoii__",
+        "verified": false
+      }
+    ]
+  }
+}

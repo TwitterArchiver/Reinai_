@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "2087183485588967773",
+    "created_at": "2026-08-11T14:59:00.000Z",
+    "display_text_range": [
+      16,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T15:59:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087192060826628296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1923957736590671874",
+          "start": 0,
+          "username": "leavingwinters"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087192060826628296",
+    "in_reply_to_user_id": "1923957736590671874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087191250055078232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leavingwinters 發血圖的炸的老快了結果一群不知道福黑不黑的管都不管"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "2087183485588967773",
+        "created_at": "2026-08-11T14:59:00.000Z",
+        "display_text_range": [
+          16,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T15:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087192060826628296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1923957736590671874",
+              "start": 0,
+              "username": "leavingwinters"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087192060826628296",
+        "in_reply_to_user_id": "1923957736590671874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087191250055078232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leavingwinters 發血圖的炸的老快了結果一群不知道福黑不黑的管都不管"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923957736590671874",
+        "conversation_id": "2087183485588967773",
+        "created_at": "2026-08-11T14:55:46.000Z",
+        "display_text_range": [
+          9,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T15:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087191250055078232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1668234754125344768",
+              "start": 0,
+              "username": "Reinai_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087191250055078232",
+        "in_reply_to_user_id": "1668234754125344768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087190827215073594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reinai_ 真的好苦啊我不明白到底是咋了，这种号居然都不封"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "聽團.查成分回fo",
+        "id": "1668234754125344768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087192060826628296",
+        "name": "魚",
+        "pinned_tweet_id": "1984216096094962091",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1668234754125344768/1756263536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087066267199143936/q9jo3pQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 419,
+          "like_count": 1279,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 454
+        },
+        "url": "",
+        "username": "Reinai_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-18T04:24:16.000Z",
+        "description": "💗🖤",
+        "id": "1923957736590671874",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087191250055078232",
+        "name": "Tloml9",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1923957736590671874/1769095651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087144248877670400/726ReycZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 13,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 60
+        },
+        "url": "",
+        "username": "leavingwinters",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

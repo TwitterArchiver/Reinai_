@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "1953441524320235553",
+    "created_at": "2025-08-07T13:02:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T14:02:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953441524320235553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1676228046247038976",
+          "start": 3,
+          "username": "ElP15_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953441524320235553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953438856595783973",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ElP15_: 跟我互fo（氣泡音）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "1953441524320235553",
+        "created_at": "2025-08-07T13:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T14:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953441524320235553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1676228046247038976",
+              "start": 3,
+              "username": "ElP15_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953441524320235553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953438856595783973",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ElP15_: 跟我互fo（氣泡音）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676228046247038976",
+        "conversation_id": "1953438856595783973",
+        "created_at": "2025-08-07T12:51:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T13:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953438856595783973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Reinai_/status…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/Reinai_/status/1953434644361232683",
+              "start": 11,
+              "url": "https://t.co/9VfCNlFQtz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953438856595783973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953434644361232683",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "跟我互fo（氣泡音） https://t.co/9VfCNlFQtz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952648141670350848/gqswgxe__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 229,
+          "like_count": 201,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 91
+        },
+        "username": "Reinai_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-04T13:55:00.000Z",
+        "description": "cn鸢安（0_an）/已毕业初三牲/maimai/鸣潮/喵斯/phigros/cytoid/o!m 4k/cs(完美&官匹)/友跨/成分正常的都会回\nfo/好朋友@Quitewaterqwq | @Allknowbody2/最喜欢的姐姐@JadezKayoko/👉🏻@5leep1ng_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 81,
+                "username": "Quitewaterqwq"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "Allknowbody2"
+              },
+              {
+                "end": 130,
+                "start": 118,
+                "username": "JadezKayoko"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "5leep1ng_"
+              }
+            ]
+          }
+        },
+        "id": "1676228046247038976",
+        "location": "Internet",
+        "name": "0_an（互fo）",
+        "pinned_tweet_id": "1942815353442066715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953341066863943680/nBSsTFzC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 800,
+          "following_count": 1047,
+          "like_count": 28113,
+          "listed_count": 4,
+          "media_count": 286,
+          "tweet_count": 8369
+        },
+        "username": "ElP15_",
+        "verified": false
+      }
+    ]
+  }
+}

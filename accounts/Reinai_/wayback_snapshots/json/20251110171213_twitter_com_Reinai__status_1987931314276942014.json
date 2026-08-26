@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987931298539925504",
+        "3_1987931299504680960"
+      ]
+    },
+    "author_id": "1668234754125344768",
+    "conversation_id": "1987931314276942014",
+    "created_at": "2025-11-10T17:12:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T18:12:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987931314276942014"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ds7m1uckgA",
+          "end": 45,
+          "expanded_url": "https://x.com/Reinai_/status/1987931314276942014/photo/1",
+          "media_key": "3_1987931298539925504",
+          "start": 22,
+          "url": "https://t.co/Ds7m1uckgA"
+        },
+        {
+          "display_url": "pic.x.com/Ds7m1uckgA",
+          "end": 45,
+          "expanded_url": "https://x.com/Reinai_/status/1987931314276942014/photo/1",
+          "media_key": "3_1987931299504680960",
+          "start": 22,
+          "url": "https://t.co/Ds7m1uckgA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987931314276942014",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "腿腿跟手\n打算以後都割跟這裡差不多能遮住的 https://t.co/Ds7m1uckgA"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1987931314276942014].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1987931314276942014",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1987931314276942014"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987931298539925504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5aM-8dacAAy8VH.jpg",
+        "width": 1542
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1987931299504680960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5aM_ADbcAAVvcx.jpg",
+        "width": 1542
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "pinned_tweet_id": "1984216096094962091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 434,
+          "like_count": 710,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 450
+        },
+        "username": "Reinai_",
+        "verified": true
+      }
+    ]
+  }
+}

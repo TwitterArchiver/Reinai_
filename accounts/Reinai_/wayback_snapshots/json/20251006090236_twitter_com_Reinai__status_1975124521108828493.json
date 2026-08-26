@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975054680339419136",
+        "3_1975054680339472385",
+        "3_1975054680351965184",
+        "3_1975054680360386560"
+      ],
+      "media_source_tweet_id": [
+        "1975054686500839731",
+        "1975054686500839731",
+        "1975054686500839731",
+        "1975054686500839731"
+      ]
+    },
+    "author_id": "1668234754125344768",
+    "conversation_id": "1975124521108828493",
+    "created_at": "2025-10-06T09:02:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T10:02:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975124521108828493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1886459650289410049",
+          "start": 3,
+          "username": "bingling9895"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iUb2FnxvqK",
+          "end": 82,
+          "expanded_url": "https://x.com/bingling9895/status/1975054686500839731/photo/1",
+          "media_key": "3_1975054680339419136",
+          "start": 59,
+          "url": "https://t.co/iUb2FnxvqK"
+        },
+        {
+          "display_url": "pic.x.com/iUb2FnxvqK",
+          "end": 82,
+          "expanded_url": "https://x.com/bingling9895/status/1975054686500839731/photo/1",
+          "media_key": "3_1975054680339472385",
+          "start": 59,
+          "url": "https://t.co/iUb2FnxvqK"
+        },
+        {
+          "display_url": "pic.x.com/iUb2FnxvqK",
+          "end": 82,
+          "expanded_url": "https://x.com/bingling9895/status/1975054686500839731/photo/1",
+          "media_key": "3_1975054680351965184",
+          "start": 59,
+          "url": "https://t.co/iUb2FnxvqK"
+        },
+        {
+          "display_url": "pic.x.com/iUb2FnxvqK",
+          "end": 82,
+          "expanded_url": "https://x.com/bingling9895/status/1975054686500839731/photo/1",
+          "media_key": "3_1975054680360386560",
+          "start": 59,
+          "url": "https://t.co/iUb2FnxvqK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975124521108828493",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975054686500839731",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bingling9895: 讓我們成為朋友吧ฅ՞•ﻌ•՞ฅ\n\n注意⚠️會紫餐/OD\n\n求轉帖 貓貓會回fo噢 https://t.co/iUb2FnxvqK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 632,
+        "media_key": "3_1975054680339419136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2jNxHmakAAEqwJ.jpg",
+        "width": 474
+      },
+      {
+        "height": 267,
+        "media_key": "3_1975054680339472385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2jNxHmbYAEF-Rm.jpg",
+        "width": 474
+      },
+      {
+        "height": 632,
+        "media_key": "3_1975054680351965184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2jNxHpaAAADDsb.jpg",
+        "width": 474
+      },
+      {
+        "height": 632,
+        "media_key": "3_1975054680360386560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2jNxHragAAnbaI.jpg",
+        "width": 474
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975054680339419136",
+            "3_1975054680339472385",
+            "3_1975054680351965184",
+            "3_1975054680360386560"
+          ],
+          "media_source_tweet_id": [
+            "1975054686500839731",
+            "1975054686500839731",
+            "1975054686500839731",
+            "1975054686500839731"
+          ]
+        },
+        "author_id": "1668234754125344768",
+        "conversation_id": "1975124521108828493",
+        "created_at": "2025-10-06T09:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T10:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975124521108828493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1886459650289410049",
+              "start": 3,
+              "username": "bingling9895"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iUb2FnxvqK",
+              "end": 82,
+              "expanded_url": "https://x.com/bingling9895/status/1975054686500839731/photo/1",
+              "media_key": "3_1975054680339419136",
+              "start": 59,
+              "url": "https://t.co/iUb2FnxvqK"
+            },
+            {
+              "display_url": "pic.x.com/iUb2FnxvqK",
+              "end": 82,
+              "expanded_url": "https://x.com/bingling9895/status/1975054686500839731/photo/1",
+              "media_key": "3_1975054680339472385",
+              "start": 59,
+              "url": "https://t.co/iUb2FnxvqK"
+            },
+            {
+              "display_url": "pic.x.com/iUb2FnxvqK",
+              "end": 82,
+              "expanded_url": "https://x.com/bingling9895/status/1975054686500839731/photo/1",
+              "media_key": "3_1975054680351965184",
+              "start": 59,
+              "url": "https://t.co/iUb2FnxvqK"
+            },
+            {
+              "display_url": "pic.x.com/iUb2FnxvqK",
+              "end": 82,
+              "expanded_url": "https://x.com/bingling9895/status/1975054686500839731/photo/1",
+              "media_key": "3_1975054680360386560",
+              "start": 59,
+              "url": "https://t.co/iUb2FnxvqK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975124521108828493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975054686500839731",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bingling9895: 讓我們成為朋友吧ฅ՞•ﻌ•՞ฅ\n\n注意⚠️會紫餐/OD\n\n求轉帖 貓貓會回fo噢 https://t.co/iUb2FnxvqK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975054680339419136",
+            "3_1975054680339472385",
+            "3_1975054680351965184",
+            "3_1975054680360386560"
+          ]
+        },
+        "author_id": "1886459650289410049",
+        "conversation_id": "1975054686500839731",
+        "created_at": "2025-10-06T04:25:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T05:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975054686500839731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iUb2FnxvqK",
+              "end": 64,
+              "expanded_url": "https://x.com/bingling9895/status/1975054686500839731/photo/1",
+              "media_key": "3_1975054680339419136",
+              "start": 41,
+              "url": "https://t.co/iUb2FnxvqK"
+            },
+            {
+              "display_url": "pic.x.com/iUb2FnxvqK",
+              "end": 64,
+              "expanded_url": "https://x.com/bingling9895/status/1975054686500839731/photo/1",
+              "media_key": "3_1975054680339472385",
+              "start": 41,
+              "url": "https://t.co/iUb2FnxvqK"
+            },
+            {
+              "display_url": "pic.x.com/iUb2FnxvqK",
+              "end": 64,
+              "expanded_url": "https://x.com/bingling9895/status/1975054686500839731/photo/1",
+              "media_key": "3_1975054680351965184",
+              "start": 41,
+              "url": "https://t.co/iUb2FnxvqK"
+            },
+            {
+              "display_url": "pic.x.com/iUb2FnxvqK",
+              "end": 64,
+              "expanded_url": "https://x.com/bingling9895/status/1975054686500839731/photo/1",
+              "media_key": "3_1975054680360386560",
+              "start": 41,
+              "url": "https://t.co/iUb2FnxvqK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975054686500839731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 993,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "讓我們成為朋友吧ฅ՞•ﻌ•՞ฅ\n\n注意⚠️會紫餐/OD\n\n求轉帖 貓貓會回fo噢 https://t.co/iUb2FnxvqK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 367,
+          "like_count": 478,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 318
+        },
+        "username": "Reinai_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T17:00:29.000Z",
+        "description": "泥嚎這裡是貓貓 ~ 台灣｜15｜INFP-T｜女孩紙｜自傷自殘｜OD｜🚪250 *此帳號不慫恿或助長自我傷害相關行為，相關內容皆為紀錄用。*姐姐@xiao_yuan1221",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 72,
+                "username": "xiao_yuan1221"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tw.shp.ee/BQBZm2U",
+                "end": 23,
+                "expanded_url": "https://tw.shp.ee/BQBZm2U",
+                "start": 0,
+                "url": "https://t.co/a14vsTZS30"
+              }
+            ]
+          }
+        },
+        "id": "1886459650289410049",
+        "location": "美好的幻想中",
+        "name": "窗邊的貓貓🐾",
+        "pinned_tweet_id": "1975054686500839731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886459759135744004/CN5DbgQ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 267,
+          "like_count": 879,
+          "listed_count": 1,
+          "media_count": 326,
+          "tweet_count": 2462
+        },
+        "url": "https://t.co/a14vsTZS30",
+        "username": "bingling9895",
+        "verified": false
+      }
+    ]
+  }
+}

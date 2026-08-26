@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987952067085037573"
+      ]
+    },
+    "author_id": "1668234754125344768",
+    "conversation_id": "1987952075616252292",
+    "created_at": "2025-11-10T18:34:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T19:34:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987952075616252292"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/roplZ4ZD8I",
+          "end": 39,
+          "expanded_url": "https://x.com/Reinai_/status/1987952075616252292/photo/1",
+          "media_key": "3_1987952067085037573",
+          "start": 16,
+          "url": "https://t.co/roplZ4ZD8I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987952075616252292",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "左手左手\n不知道左手多久沒割了 https://t.co/roplZ4ZD8I"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1987952075616252292].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1987952075616252292",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1987952075616252292"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987952067085037573",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5af31UbcAUtrzO.jpg",
+        "width": 1542
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "pinned_tweet_id": "1984216096094962091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 435,
+          "like_count": 712,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 452
+        },
+        "username": "Reinai_",
+        "verified": true
+      }
+    ]
+  }
+}

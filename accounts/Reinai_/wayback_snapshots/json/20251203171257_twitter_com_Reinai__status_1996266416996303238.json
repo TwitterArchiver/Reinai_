@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "1996266416996303238",
+    "created_at": "2025-12-03T17:12:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T18:12:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996266416996303238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1880306944784887811",
+          "start": 3,
+          "username": "yuyuYYUU0901"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996266416996303238",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996242988414980357",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuyuYYUU0901: 我真的想把一切都付出給對象"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "1996266416996303238",
+        "created_at": "2025-12-03T17:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T18:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996266416996303238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1880306944784887811",
+              "start": 3,
+              "username": "yuyuYYUU0901"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996266416996303238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996242988414980357",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuyuYYUU0901: 我真的想把一切都付出給對象"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880306944784887811",
+        "conversation_id": "1996242988414980357",
+        "created_at": "2025-12-03T15:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T16:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996242988414980357"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996242988414980357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我真的想把一切都付出給對象"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "pinned_tweet_id": "1984216096094962091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 462,
+          "like_count": 937,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 534
+        },
+        "username": "Reinai_",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-17T17:31:36.000Z",
+        "description": "不太相信有人能对另一个人一直保持纯粹的单恋的。单恋久了是会恨的，会痛的，痛到忍不住弯下腰来，酸胀满溢，想流着泪去质问她为什么不爱我，又想告诉她我恨你，我恨你，都是你把我变成这个样子，凭什么痛苦的饱受折磨的只有我一个，你只顾享受我对你付出的一切，你真的好自私，其实最想的还是跪下去抓着她的裙角抬头哀求她，爱我吧，你爱我吧",
+        "id": "1880306944784887811",
+        "location": "New Taipei City, Taiwan",
+        "name": "死鱼",
+        "pinned_tweet_id": "1988738828975382842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971540131166535680/ICkAyUwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 696,
+          "like_count": 4451,
+          "listed_count": 0,
+          "media_count": 376,
+          "tweet_count": 5108
+        },
+        "username": "yuyuYYUU0901",
+        "verified": false
+      }
+    ]
+  }
+}

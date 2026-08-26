@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "1986951291407638790",
+    "created_at": "2025-11-08T00:17:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T01:17:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986951291407638790"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1986951291407638790",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我夢到你了\n不知道是看什麼東西 我被朋友拉著一起進了那班看 你也在那裡 我跟朋友站在你後面 不知道你有沒有注意到我 我覺得很尷尬我就先出去了 然後過了一下你朋友把你抓過來 你朋友問我：你要不要跟他複合 \n我愣了一下 打鐘了 你跟你朋友直接走了 我忍不住一直看著你 \n我醒了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "1986951291407638790",
+        "created_at": "2025-11-08T00:17:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T01:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986951291407638790"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1986951291407638790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我夢到你了\n不知道是看什麼東西 我被朋友拉著一起進了那班看 你也在那裡 我跟朋友站在你後面 不知道你有沒有注意到我 我覺得很尷尬我就先出去了 然後過了一下你朋友把你抓過來 你朋友問我：你要不要跟他複合 \n我愣了一下 打鐘了 你跟你朋友直接走了 我忍不住一直看著你 \n我醒了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "pinned_tweet_id": "1984216096094962091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 430,
+          "like_count": 693,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 437
+        },
+        "username": "Reinai_",
+        "verified": true
+      }
+    ]
+  }
+}

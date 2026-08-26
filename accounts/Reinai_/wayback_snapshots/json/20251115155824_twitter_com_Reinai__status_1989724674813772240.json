@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "1989724674813772240",
+    "created_at": "2025-11-15T15:58:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T16:58:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989724674813772240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1960187829687885824",
+          "start": 3,
+          "username": "huaxuejilebaike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989724674813772240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989616938629423153",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huaxuejilebaike: 宝宝，想开点，虽然你的父母没有给你过人的天赋，惊艳的容貌，富庶的经济条件，聪明的头脑，但是他们给了你一双健全的腿，你可以凭着这条件，从楼顶三二一跳呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "1989724674813772240",
+        "created_at": "2025-11-15T15:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T16:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989724674813772240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1960187829687885824",
+              "start": 3,
+              "username": "huaxuejilebaike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989724674813772240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989616938629423153",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huaxuejilebaike: 宝宝，想开点，虽然你的父母没有给你过人的天赋，惊艳的容貌，富庶的经济条件，聪明的头脑，但是他们给了你一双健全的腿，你可以凭着这条件，从楼顶三二一跳呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960187829687885824",
+        "conversation_id": "1989616938629423153",
+        "created_at": "2025-11-15T08:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T09:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989616938629423153"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989616938629423153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3598,
+          "like_count": 74,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝，想开点，虽然你的父母没有给你过人的天赋，惊艳的容貌，富庶的经济条件，聪明的头脑，但是他们给了你一双健全的腿，你可以凭着这条件，从楼顶三二一跳呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "pinned_tweet_id": "1984216096094962091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 446,
+          "like_count": 765,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 468
+        },
+        "username": "Reinai_",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-26T03:49:38.000Z",
+        "description": "化学极乐/享受化学物质带来的极致快乐\n官方网站:https://t.co/DM4fmdhdkn\nTG频道:https://t.co/YoXqIDrwpe\n交流群:https://t.co/JfbYdIujGy\n社区:https://t.co/JwQ9mOTHUy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 47,
+                "expanded_url": "https://overdose.day/",
+                "start": 24,
+                "url": "https://t.co/DM4fmdhdkn"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaike",
+                "end": 76,
+                "expanded_url": "https://t.me/huaxuejilebaike",
+                "start": 53,
+                "url": "https://t.co/YoXqIDrwpe"
+              },
+              {
+                "display_url": "t.me/huaxuejile",
+                "end": 104,
+                "expanded_url": "https://t.me/huaxuejile",
+                "start": 81,
+                "url": "https://t.co/JfbYdIujGy"
+              },
+              {
+                "display_url": "pr80.bid",
+                "end": 131,
+                "expanded_url": "https://pr80.bid/",
+                "start": 108,
+                "url": "https://t.co/JwQ9mOTHUy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://overdose.day/",
+                "start": 0,
+                "url": "https://t.co/DM4fmdhdkn"
+              }
+            ]
+          }
+        },
+        "id": "1960187829687885824",
+        "name": "化学极乐百科🍥",
+        "pinned_tweet_id": "1989571076804989237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988121341233606656/UFOxlPsN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2427,
+          "following_count": 655,
+          "like_count": 342,
+          "listed_count": 2,
+          "media_count": 107,
+          "tweet_count": 594
+        },
+        "url": "https://t.co/DM4fmdhdkn",
+        "username": "huaxuejilebaike",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044372185515687936",
+        "3_2044372185507299328"
+      ]
+    },
+    "author_id": "1668234754125344768",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2044372192641896534",
+    "created_at": "2026-04-15T11:08:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T12:08:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044372192641896534"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Uw30GwnsPe",
+          "end": 58,
+          "expanded_url": "https://x.com/Reinai_/status/2044372192641896534/photo/1",
+          "media_key": "3_2044372185515687936",
+          "start": 35,
+          "url": "https://t.co/Uw30GwnsPe"
+        },
+        {
+          "display_url": "pic.x.com/Uw30GwnsPe",
+          "end": 58,
+          "expanded_url": "https://x.com/Reinai_/status/2044372192641896534/photo/1",
+          "media_key": "3_2044372185507299328",
+          "start": 35,
+          "url": "https://t.co/Uw30GwnsPe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044372192641896534",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "右手！\n我的右手現在不乾淨了\n哈哈哈哈我超級不會用左手割 超級淺天吶 https://t.co/Uw30GwnsPe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2044372185515687936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF8Rq9JaAAAuxSO.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2044372185507299328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF8Rq9HaAAAfvov.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044372185515687936",
+            "3_2044372185507299328"
+          ]
+        },
+        "author_id": "1668234754125344768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2044372192641896534",
+        "created_at": "2026-04-15T11:08:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T12:08:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044372192641896534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uw30GwnsPe",
+              "end": 58,
+              "expanded_url": "https://x.com/Reinai_/status/2044372192641896534/photo/1",
+              "media_key": "3_2044372185515687936",
+              "start": 35,
+              "url": "https://t.co/Uw30GwnsPe"
+            },
+            {
+              "display_url": "pic.x.com/Uw30GwnsPe",
+              "end": 58,
+              "expanded_url": "https://x.com/Reinai_/status/2044372192641896534/photo/1",
+              "media_key": "3_2044372185507299328",
+              "start": 35,
+              "url": "https://t.co/Uw30GwnsPe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044372192641896534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "右手！\n我的右手現在不乾淨了\n哈哈哈哈我超級不會用左手割 超級淺天吶 https://t.co/Uw30GwnsPe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "pinned_tweet_id": "1984216096094962091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002681444473434112/70RJO0s1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 433,
+          "like_count": 1134,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 421
+        },
+        "username": "Reinai_",
+        "verified": false
+      }
+    ]
+  }
+}

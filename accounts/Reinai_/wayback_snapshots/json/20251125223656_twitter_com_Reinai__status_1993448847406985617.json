@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "1993448847406985617",
+    "created_at": "2025-11-25T22:36:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T23:36:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993448847406985617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1667965451325046784",
+          "start": 3,
+          "username": "Xaonaii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993448847406985617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992975462956777741",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xaonaii: 這裡小茉&gt;𖥦&lt;\n日系 宅女子 二次元 \n喜歡可愛的事物！՞ ̳o̴̶̷̤  ̫ o̴̶̷̤ ̳՞\n\n重鬰 焦慮 被害妄想 \n思覺失調 躁鬱 自傷 od\n-\n歡迎互fo 互轉直接轉 會回~\n門檻如下圖，線下詳細私~！｡› ·̫ ‹｡\n匯款入門後可+哀居…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1993448847406985617].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1993448847406985617",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1993448847406985617"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1919,
+        "media_key": "3_1992975458900877312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6h4nuHboAAao0T.jpg",
+        "width": 1439
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992975458900877312"
+          ]
+        },
+        "author_id": "1667965451325046784",
+        "conversation_id": "1992975462956777741",
+        "created_at": "2025-11-24T15:15:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T16:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992975462956777741"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "門檻"
+            },
+            {
+              "end": 145,
+              "start": 141,
+              "tag": "門檻妹"
+            },
+            {
+              "end": 150,
+              "start": 146,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 154,
+              "start": 151,
+              "tag": "门槛"
+            },
+            {
+              "end": 158,
+              "start": 155,
+              "tag": "纯绿"
+            },
+            {
+              "end": 162,
+              "start": 159,
+              "tag": "純綠"
+            },
+            {
+              "end": 166,
+              "start": 163,
+              "tag": "線下"
+            },
+            {
+              "end": 172,
+              "start": 167,
+              "tag": "付費約會"
+            },
+            {
+              "end": 176,
+              "start": 173,
+              "tag": "线下"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ctIC64HxDP",
+              "end": 200,
+              "expanded_url": "https://x.com/Xaonaii/status/1992975462956777741/photo/1",
+              "media_key": "3_1992975458900877312",
+              "start": 177,
+              "url": "https://t.co/ctIC64HxDP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992975462956777741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1482,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "這裡小茉&gt;𖥦&lt;\n日系 宅女子 二次元 \n喜歡可愛的事物！՞ ̳o̴̶̷̤  ̫ o̴̶̷̤ ̳՞\n\n重鬰 焦慮 被害妄想 \n思覺失調 躁鬱 自傷 od\n-\n歡迎互fo 互轉直接轉 會回~\n門檻如下圖，線下詳細私~！｡› ·̫ ‹｡\n匯款入門後可+哀居 或 微信\n#門檻 #門檻妹 #门槛妹 #门槛 #纯绿 #純綠 #線下 #付費約會 #线下 https://t.co/ctIC64HxDP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "pinned_tweet_id": "1984216096094962091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 455,
+          "like_count": 859,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 503
+        },
+        "username": "Reinai_",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-11T18:42:23.000Z",
+        "description": "不混圈 歡迎抖內  備用帳 @Sakuno_61 哪天消失可以去備用帳看看。🚪600/800/1000 詳細置頂也可私",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "Sakuno_61"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xaonaii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xaonaii",
+                "start": 0,
+                "url": "https://t.co/WqBGZB12e2"
+              }
+            ]
+          }
+        },
+        "id": "1667965451325046784",
+        "name": "默許已成常態",
+        "pinned_tweet_id": "1992975462956777741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990425946801983488/szfDyrrU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 107,
+          "like_count": 88,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 633
+        },
+        "url": "https://t.co/WqBGZB12e2",
+        "username": "Xaonaii",
+        "verified": false
+      }
+    ]
+  }
+}

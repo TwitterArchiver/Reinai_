@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088058352299360257"
+      ],
+      "media_source_tweet_id": [
+        "2088058356023878093"
+      ]
+    },
+    "author_id": "1668234754125344768",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2088347307083477294",
+    "created_at": "2026-08-14T19:29:32.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T20:29:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088347307083477294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1478723202025152516",
+          "start": 3,
+          "username": "Sarg_Hirasawa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LlIqokgJfS",
+          "end": 42,
+          "expanded_url": "https://x.com/Sarg_Hirasawa/status/2088058356023878093/photo/1",
+          "media_key": "3_2088058352299360257",
+          "start": 19,
+          "url": "https://t.co/LlIqokgJfS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088347307083477294",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2088058352299360257"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 678
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088058356023878093",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sarg_Hirasawa: https://t.co/LlIqokgJfS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1054,
+        "media_key": "3_2088058352299360257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPpGAicXQAE3LJ0.jpg",
+        "width": 822
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088058352299360257"
+          ],
+          "media_source_tweet_id": [
+            "2088058356023878093"
+          ]
+        },
+        "author_id": "1668234754125344768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088347307083477294",
+        "created_at": "2026-08-14T19:29:32.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T20:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088347307083477294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1478723202025152516",
+              "start": 3,
+              "username": "Sarg_Hirasawa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LlIqokgJfS",
+              "end": 42,
+              "expanded_url": "https://x.com/Sarg_Hirasawa/status/2088058356023878093/photo/1",
+              "media_key": "3_2088058352299360257",
+              "start": 19,
+              "url": "https://t.co/LlIqokgJfS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088347307083477294",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2088058352299360257"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 678
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088058356023878093",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sarg_Hirasawa: https://t.co/LlIqokgJfS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088058352299360257"
+          ]
+        },
+        "author_id": "1478723202025152516",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088058356023878093",
+        "created_at": "2026-08-14T00:21:20.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T01:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088058356023878093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LlIqokgJfS",
+              "end": 23,
+              "expanded_url": "https://x.com/Sarg_Hirasawa/status/2088058356023878093/photo/1",
+              "media_key": "3_2088058352299360257",
+              "start": 0,
+              "url": "https://t.co/LlIqokgJfS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088058356023878093",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2088058352299360257"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 133,
+          "impression_count": 59473,
+          "like_count": 5188,
+          "quote_count": 29,
+          "reply_count": 18,
+          "retweet_count": 678
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/LlIqokgJfS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "查成分回fo回私信\n不聊騷不賣福不約",
+        "id": "1668234754125344768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088347307083477294",
+        "name": "魚",
+        "pinned_tweet_id": "2088014202200068324",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1668234754125344768/1756263536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087966983476436992/PFSRGZXf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 562,
+          "like_count": 1659,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 513
+        },
+        "url": "",
+        "username": "Reinai_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-05T13:41:13.000Z",
+        "description": "Fanatico de K-ON,.Anime, manga",
+        "id": "1478723202025152516",
+        "is_identity_verified": false,
+        "location": "It's wicked outside",
+        "most_recent_tweet_id": "2088060602614763888",
+        "name": "Sargento Hirasawa 𓆟",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1478723202025152516/1784427622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071633783938265088/g-fcgnGr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6577,
+          "following_count": 948,
+          "like_count": 85086,
+          "listed_count": 6,
+          "media_count": 5909,
+          "tweet_count": 34226
+        },
+        "url": "",
+        "username": "Sarg_Hirasawa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

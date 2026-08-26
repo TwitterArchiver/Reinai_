@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "1961965723552821574",
+    "created_at": "2025-08-31T01:34:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T02:34:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961965723552821574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1948779307045978112",
+          "start": 3,
+          "username": "Wo2luosifen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961965723552821574",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 63
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961330967471169687",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Wo2luosifen: 你们到底怎么谈上的。？怎么认识的怎么聊天的怎么约会的怎么互相了解的怎么发展成亲密关系的怎么就在一起了。？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "1961965723552821574",
+        "created_at": "2025-08-31T01:34:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T02:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961965723552821574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1948779307045978112",
+              "start": 3,
+              "username": "Wo2luosifen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961965723552821574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 63
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961330967471169687",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Wo2luosifen: 你们到底怎么谈上的。？怎么认识的怎么聊天的怎么约会的怎么互相了解的怎么发展成亲密关系的怎么就在一起了。？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948779307045978112",
+        "conversation_id": "1961330967471169687",
+        "created_at": "2025-08-29T07:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T08:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961330967471169687"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961330967471169687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 98870,
+          "like_count": 878,
+          "quote_count": 14,
+          "reply_count": 94,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "你们到底怎么谈上的。？怎么认识的怎么聊天的怎么约会的怎么互相了解的怎么发展成亲密关系的怎么就在一起了。？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 319,
+          "like_count": 343,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 186
+        },
+        "username": "Reinai_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-25T16:16:27.000Z",
+        "description": "话特别特别特别多。介意的可以双取或者屏蔽。不认识的人补药来私信我。想跟我说话给我发钱谢谢。不做免费陪聊。没🚪。非要过🚪888纯绿好友位",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iuuio16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iuuio16",
+                "start": 0,
+                "url": "https://t.co/oqtlQVhTsI"
+              }
+            ]
+          }
+        },
+        "id": "1948779307045978112",
+        "name": "做饭总被烫",
+        "pinned_tweet_id": "1960329154626519322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957072175334350848/yHF9Z5a2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 740,
+          "following_count": 156,
+          "like_count": 5495,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 1905
+        },
+        "url": "https://t.co/oqtlQVhTsI",
+        "username": "Wo2luosifen",
+        "verified": false
+      }
+    ]
+  }
+}

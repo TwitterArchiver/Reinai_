@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "2087213638226739337",
+    "created_at": "2026-08-11T16:37:32.000Z",
+    "display_text_range": [
+      17,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T17:37:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087216859041173641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1904901587786752001",
+          "start": 0,
+          "username": "yt0797143225498"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087216859041173641",
+    "in_reply_to_user_id": "1904901587786752001",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087216211134443538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yt0797143225498 沒有人找我聊天呀。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "2087213638226739337",
+        "created_at": "2026-08-11T16:37:32.000Z",
+        "display_text_range": [
+          17,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T17:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087216859041173641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1904901587786752001",
+              "start": 0,
+              "username": "yt0797143225498"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087216859041173641",
+        "in_reply_to_user_id": "1904901587786752001",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087216211134443538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yt0797143225498 沒有人找我聊天呀。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904901587786752001",
+        "conversation_id": "2087213638226739337",
+        "created_at": "2026-08-11T16:34:57.000Z",
+        "display_text_range": [
+          9,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T17:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087216211134443538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1668234754125344768",
+              "start": 0,
+              "username": "Reinai_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087216211134443538",
+        "in_reply_to_user_id": "1904901587786752001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087214431772282997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reinai_ 真有那麼無聊就開私信找人聊天就好XD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "聽團.查成分回fo",
+        "id": "1668234754125344768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087216859041173641",
+        "name": "魚",
+        "pinned_tweet_id": "1984216096094962091",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1668234754125344768/1756263536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087066267199143936/q9jo3pQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 426,
+          "like_count": 1293,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 465
+        },
+        "url": "",
+        "username": "Reinai_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-26T14:21:54.000Z",
+        "description": "",
+        "id": "1904901587786752001",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087216211134443538",
+        "name": "伊特",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915513391386689536/JSfO9yiq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 294,
+          "like_count": 355,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 234
+        },
+        "url": "",
+        "username": "yt0797143225498",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

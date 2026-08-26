@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960853447160553472"
+      ]
+    },
+    "author_id": "1668234754125344768",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1960853456882930003",
+    "created_at": "2025-08-27T23:54:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T00:54:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960853456882930003"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GaZsKS2RGV",
+          "end": 23,
+          "expanded_url": "https://x.com/Reinai_/status/1960853456882930003/photo/1",
+          "media_key": "3_1960853447160553472",
+          "start": 0,
+          "url": "https://t.co/GaZsKS2RGV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960853456882930003",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/GaZsKS2RGV"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1960853456882930003].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1960853456882930003",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1960853456882930003"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1960853447160553472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzZZ0jaa4AACKWC.jpg",
+        "width": 1542
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 297,
+          "like_count": 292,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 162
+        },
+        "username": "Reinai_",
+        "verified": false
+      }
+    ]
+  }
+}

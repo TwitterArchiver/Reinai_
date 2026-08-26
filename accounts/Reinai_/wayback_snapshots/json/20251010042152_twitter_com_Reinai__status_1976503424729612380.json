@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976317065352118272"
+      ],
+      "media_source_tweet_id": [
+        "1976317073417748706"
+      ]
+    },
+    "author_id": "1668234754125344768",
+    "conversation_id": "1976503424729612380",
+    "created_at": "2025-10-10T04:21:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T05:21:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976503424729612380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1599125227786608655",
+          "start": 3,
+          "username": "momoko8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pktugRtEzX",
+          "end": 42,
+          "expanded_url": "https://x.com/momoko8964/status/1976317073417748706/photo/1",
+          "media_key": "3_1976317065352118272",
+          "start": 19,
+          "url": "https://t.co/pktugRtEzX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976503424729612380",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976317073417748706",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @momoko8964: 过节 https://t.co/pktugRtEzX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1976317065352118272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G21J5mPbAAA_CDY.jpg",
+        "width": 1675
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976317065352118272"
+          ],
+          "media_source_tweet_id": [
+            "1976317073417748706"
+          ]
+        },
+        "author_id": "1668234754125344768",
+        "conversation_id": "1976503424729612380",
+        "created_at": "2025-10-10T04:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T05:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976503424729612380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1599125227786608655",
+              "start": 3,
+              "username": "momoko8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pktugRtEzX",
+              "end": 42,
+              "expanded_url": "https://x.com/momoko8964/status/1976317073417748706/photo/1",
+              "media_key": "3_1976317065352118272",
+              "start": 19,
+              "url": "https://t.co/pktugRtEzX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976503424729612380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976317073417748706",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @momoko8964: 过节 https://t.co/pktugRtEzX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976317065352118272"
+          ]
+        },
+        "author_id": "1599125227786608655",
+        "conversation_id": "1976317073417748706",
+        "created_at": "2025-10-09T16:01:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T17:01:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976317073417748706"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pktugRtEzX",
+              "end": 26,
+              "expanded_url": "https://x.com/momoko8964/status/1976317073417748706/photo/1",
+              "media_key": "3_1976317065352118272",
+              "start": 3,
+              "url": "https://t.co/pktugRtEzX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976317073417748706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2943,
+          "like_count": 27,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "过节 https://t.co/pktugRtEzX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 376,
+          "like_count": 514,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 333
+        },
+        "username": "Reinai_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T19:35:49.000Z",
+        "description": "不爱看就滚出去 喜欢我就请给我点钱让我生活得更好",
+        "id": "1599125227786608655",
+        "location": "🚪88/288 私信只回口令",
+        "name": "苦桃",
+        "pinned_tweet_id": "1970853738937221520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968671218787348480/0MQgTJ5D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7772,
+          "following_count": 293,
+          "like_count": 23291,
+          "listed_count": 10,
+          "media_count": 1382,
+          "tweet_count": 15493
+        },
+        "username": "momoko8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "1970141270296432888",
+    "created_at": "2025-09-22T15:00:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T16:00:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970141270296432888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1772241946050015232",
+          "start": 3,
+          "username": "Re1_y0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970141270296432888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969828732979577167",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Re1_y0: 我也希望我是那种脾气很好没有任何性格缺陷的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "1970141270296432888",
+        "created_at": "2025-09-22T15:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T16:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970141270296432888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1772241946050015232",
+              "start": 3,
+              "username": "Re1_y0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970141270296432888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969828732979577167",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Re1_y0: 我也希望我是那种脾气很好没有任何性格缺陷的人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1772241946050015232",
+        "conversation_id": "1969828732979577167",
+        "created_at": "2025-09-21T18:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T19:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969828732979577167"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1969828732979577167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 362,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我也希望我是那种脾气很好没有任何性格缺陷的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 351,
+          "like_count": 449,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 267
+        },
+        "username": "Reinai_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-25T12:39:51.000Z",
+        "description": "=蕾（Rei）♀︎｜中国語&ENG ｜日本語勉强中｜MHA🍰推し｜OD&自傷｜焦虑抑郁障碍合并强迫｜直fo选回｜非互fo私信不回 推广请私信联系｜⚠️DO NOT re-upload or use my photos｜📪 https://t.co/tAHbDDr0m1 ｜GF @Asszeqr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 139,
+                "username": "Asszeqr"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rei51208",
+                "end": 134,
+                "expanded_url": "https://ngl.link/rei51208",
+                "start": 111,
+                "url": "https://t.co/tAHbDDr0m1"
+              }
+            ]
+          }
+        },
+        "id": "1772241946050015232",
+        "location": "有女朋友|彼女いる",
+        "name": "レイ",
+        "pinned_tweet_id": "1966855385115136444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941105999663742976/hbTbUloE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2719,
+          "following_count": 275,
+          "like_count": 2119,
+          "listed_count": 2,
+          "media_count": 659,
+          "tweet_count": 4843
+        },
+        "username": "Re1_y0",
+        "verified": false
+      }
+    ]
+  }
+}

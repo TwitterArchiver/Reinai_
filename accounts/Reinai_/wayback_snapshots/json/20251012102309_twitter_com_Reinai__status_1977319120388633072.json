@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "1977319120388633072",
+    "created_at": "2025-10-12T10:23:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T11:23:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1977319120388633072"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1977319120388633072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "對不起 好像還是忍不住想了前男友 如果是他的話 四小時我一直睡沒找他 起來的話肯定能收到很多很多訊息的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "1977319120388633072",
+        "created_at": "2025-10-12T10:23:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T11:23:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977319120388633072"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1977319120388633072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "對不起 好像還是忍不住想了前男友 如果是他的話 四小時我一直睡沒找他 起來的話肯定能收到很多很多訊息的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 379,
+          "like_count": 532,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 343
+        },
+        "username": "Reinai_",
+        "verified": false
+      }
+    ]
+  }
+}

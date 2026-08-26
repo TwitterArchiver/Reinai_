@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "1977312102089158837",
+    "created_at": "2025-10-12T10:13:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T11:13:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977316776594841916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1486755570694729729",
+          "start": 0,
+          "username": "inks_chain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977316776594841916",
+    "in_reply_to_user_id": "1486755570694729729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977312569410171172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@inks_chain 挺難過的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "1977312102089158837",
+        "created_at": "2025-10-12T10:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T11:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977316776594841916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1486755570694729729",
+              "start": 0,
+              "username": "inks_chain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977316776594841916",
+        "in_reply_to_user_id": "1486755570694729729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977312569410171172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inks_chain 挺難過的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1486755570694729729",
+        "conversation_id": "1977312102089158837",
+        "created_at": "2025-10-12T09:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T10:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977312569410171172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1668234754125344768",
+              "start": 0,
+              "username": "Reinai_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977312569410171172",
+        "in_reply_to_user_id": "1668234754125344768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977312102089158837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reinai_ 我也是这种感受~感觉大家都好忙没空理我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 379,
+          "like_count": 531,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 341
+        },
+        "username": "Reinai_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-27T17:38:56.000Z",
+        "description": "本体很丑陋 请不要讨厌我 请不要对我抱有希望 我是肮脏的臭虫 只是喜欢贴贴抱抱。。。不，请不要这样，我害怕。日常活动区域：重庆/四川/（以后可能有广东和上海） 。本体@Chain_Inks 可能。。。能算个男妈妈（？）请需要帮助的时候来找我，我会尽力帮助你，我希望所有人跟我交友前先明确我的性别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 83,
+                "username": "Chain_Inks"
+              }
+            ]
+          }
+        },
+        "id": "1486755570694729729",
+        "name": "ヰ时间优泠",
+        "pinned_tweet_id": "1968515087435530611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971357818285613056/uztkWkW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 301,
+          "like_count": 3037,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 948
+        },
+        "username": "inks_chain",
+        "verified": false
+      }
+    ]
+  }
+}

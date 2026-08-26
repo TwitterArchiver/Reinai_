@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "2090706805148271005",
+    "created_at": "2026-08-21T14:46:57.000Z",
+    "display_text_range": [
+      15,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T15:46:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090812910486606032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2064542363595493376",
+          "start": 0,
+          "username": "ToriNoelle003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090812910486606032",
+    "in_reply_to_user_id": "2064542363595493376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090706805148271005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ToriNoelle003 沃趣我也想吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2090706788190674944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQOuvy-aYAAypkV.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "2090706805148271005",
+        "created_at": "2026-08-21T14:46:57.000Z",
+        "display_text_range": [
+          15,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T15:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090812910486606032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2064542363595493376",
+              "start": 0,
+              "username": "ToriNoelle003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090812910486606032",
+        "in_reply_to_user_id": "2064542363595493376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090706805148271005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ToriNoelle003 沃趣我也想吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090706788190674944"
+          ]
+        },
+        "author_id": "2064542363595493376",
+        "conversation_id": "2090706805148271005",
+        "created_at": "2026-08-21T07:45:20.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T08:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090706805148271005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zYTKWtOwRv",
+              "end": 28,
+              "expanded_url": "https://x.com/ToriNoelle003/status/2090706805148271005/photo/1",
+              "media_key": "3_2090706788190674944",
+              "start": 5,
+              "url": "https://t.co/zYTKWtOwRv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090706805148271005",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090706788190674944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "調貨了。 https://t.co/zYTKWtOwRv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "🇹🇼|2011|生理女|🩸💊\n查成分回fo回私信\n不聊騷不賣福不約\n直fo就是喜歡你",
+        "id": "1668234754125344768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090812910486606032",
+        "name": "魚",
+        "pinned_tweet_id": "2088014202200068324",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1668234754125344768/1756263536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087966983476436992/PFSRGZXf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 699,
+          "following_count": 698,
+          "like_count": 2049,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 608
+        },
+        "url": "",
+        "username": "Reinai_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-10T02:58:59.000Z",
+        "description": "“為遠去的鳥兒獻上革命的花朵。”\n（前世@DKR_World）同類互fo大歡迎！\n🚪52/101",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "DKR_World"
+              }
+            ]
+          }
+        },
+        "id": "2064542363595493376",
+        "is_identity_verified": false,
+        "location": "東京暴動革命支部",
+        "most_recent_tweet_id": "2090769667560517867",
+        "name": "◎東アジア躁鬱革委會",
+        "pinned_tweet_id": "2085343225972244522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2064542363595493376/1783695885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064542992820830208/n5svD8S2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 154,
+          "like_count": 3206,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 435
+        },
+        "url": "",
+        "username": "ToriNoelle003",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "1971381235927875592",
+    "created_at": "2025-10-04T11:33:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T12:33:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974437663643197697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1970870161595887616",
+          "start": 0,
+          "username": "looolzaoziminhh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974437663643197697",
+    "in_reply_to_user_id": "1970870161595887616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971381235927875592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@looolzaoziminhh 別信 這個假的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 832,
+        "media_key": "3_1971381194194337792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1vAwFTWwAAE_m6.jpg",
+        "width": 908
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "1971381235927875592",
+        "created_at": "2025-10-04T11:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T12:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974437663643197697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970870161595887616",
+              "start": 0,
+              "username": "looolzaoziminhh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974437663643197697",
+        "in_reply_to_user_id": "1970870161595887616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971381235927875592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@looolzaoziminhh 別信 這個假的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971381194194337792"
+          ]
+        },
+        "author_id": "1970870161595887616",
+        "conversation_id": "1971381235927875592",
+        "created_at": "2025-09-26T01:08:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T02:08:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971381235927875592"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "下坠下坠下坠"
+            },
+            {
+              "end": 22,
+              "start": 8,
+              "tag": "looolzaozimin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ACstfMcmzK",
+              "end": 92,
+              "expanded_url": "https://x.com/looolzaoziminhh/status/1971381235927875592/photo/1",
+              "media_key": "3_1971381194194337792",
+              "start": 69,
+              "url": "https://t.co/ACstfMcmzK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971381235927875592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2615,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#下坠下坠下坠 #looolzaozimin\n😭 我的账号被封锁，推特账号全面失去发文和私信权限。\n后续精彩尽在新平台，点主页链接查看。 https://t.co/ACstfMcmzK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 366,
+          "like_count": 506,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 304
+        },
+        "username": "Reinai_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T15:17:19.000Z",
+        "description": "#下坠下坠下坠 #looolzaozimin\n我是小藻｜🚪188｜合作私信",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "下坠下坠下坠"
+              },
+              {
+                "end": 22,
+                "start": 8,
+                "tag": "looolzaozimin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "afans1.xyz/looolzaozimin",
+                "end": 23,
+                "expanded_url": "https://afans1.xyz/looolzaozimin",
+                "start": 0,
+                "url": "https://t.co/rmIcakEWcI"
+              }
+            ]
+          }
+        },
+        "id": "1970870161595887616",
+        "location": "别迷路！新订阅在这👉",
+        "name": "下坠下坠下坠|looolzaozimin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971376588391411712/qWM4ncks_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "url": "https://t.co/rmIcakEWcI",
+        "username": "looolzaoziminhh",
+        "verified": false
+      }
+    ]
+  }
+}

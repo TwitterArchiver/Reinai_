@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993261526984105984",
+        "3_1993261526644404224"
+      ],
+      "media_source_tweet_id": [
+        "1993261530847076823",
+        "1993261530847076823"
+      ]
+    },
+    "author_id": "1668234754125344768",
+    "conversation_id": "1993616292985847936",
+    "created_at": "2025-11-26T09:42:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T10:42:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993616292985847936"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 22,
+          "tag": "shtwt"
+        },
+        {
+          "end": 38,
+          "start": 29,
+          "tag": "selfharm"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1778178492888150017",
+          "start": 3,
+          "username": "pocoacat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/O6MnNhEVEn",
+          "end": 62,
+          "expanded_url": "https://x.com/pocoacat/status/1993261530847076823/photo/1",
+          "media_key": "3_1993261526984105984",
+          "start": 39,
+          "url": "https://t.co/O6MnNhEVEn"
+        },
+        {
+          "display_url": "pic.x.com/O6MnNhEVEn",
+          "end": 62,
+          "expanded_url": "https://x.com/pocoacat/status/1993261530847076823/photo/1",
+          "media_key": "3_1993261526644404224",
+          "start": 39,
+          "url": "https://t.co/O6MnNhEVEn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993616292985847936",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993261530847076823",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pocoacat: heart❤️ #shtwt #selfharm https://t.co/O6MnNhEVEn"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1993616292985847936].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1993616292985847936",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1993616292985847936"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2122,
+        "media_key": "3_1993261526984105984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6l8zExXIAAuv2K.jpg",
+        "width": 2261
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1993261526644404224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6l8zDgXsAAIKDR.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993261526984105984",
+            "3_1993261526644404224"
+          ]
+        },
+        "author_id": "1778178492888150017",
+        "conversation_id": "1993261530847076823",
+        "created_at": "2025-11-25T10:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T11:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993261530847076823"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 8,
+              "tag": "shtwt"
+            },
+            {
+              "end": 24,
+              "start": 15,
+              "tag": "selfharm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O6MnNhEVEn",
+              "end": 48,
+              "expanded_url": "https://x.com/pocoacat/status/1993261530847076823/photo/1",
+              "media_key": "3_1993261526984105984",
+              "start": 25,
+              "url": "https://t.co/O6MnNhEVEn"
+            },
+            {
+              "display_url": "pic.x.com/O6MnNhEVEn",
+              "end": 48,
+              "expanded_url": "https://x.com/pocoacat/status/1993261530847076823/photo/1",
+              "media_key": "3_1993261526644404224",
+              "start": 25,
+              "url": "https://t.co/O6MnNhEVEn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993261530847076823",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 1828,
+          "like_count": 332,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "heart❤️ #shtwt #selfharm https://t.co/O6MnNhEVEn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "pinned_tweet_id": "1984216096094962091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 456,
+          "like_count": 869,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 508
+        },
+        "username": "Reinai_",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-10T21:49:31.000Z",
+        "description": "i got that sonic autism        ⠀⠀⠀⠀                     ⠀\n⠀⠀⠀        ⠀\n⠀⠀           ⠀              ⠀mostly shtwt ⸝⸝ call me cat😼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kittycatmiau.straw.page",
+                "end": 23,
+                "expanded_url": "https://kittycatmiau.straw.page",
+                "start": 0,
+                "url": "https://t.co/ELXKYoT8eI"
+              }
+            ]
+          }
+        },
+        "id": "1778178492888150017",
+        "location": "dyke",
+        "name": "sonic of shedtwt .ᐟ ᡣ𐭩",
+        "pinned_tweet_id": "1993319283581931660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953305812396339201/RA6WxdWc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2317,
+          "following_count": 833,
+          "like_count": 33930,
+          "listed_count": 42,
+          "media_count": 1774,
+          "tweet_count": 12978
+        },
+        "url": "https://t.co/ELXKYoT8eI",
+        "username": "pocoacat",
+        "verified": false
+      }
+    ]
+  }
+}

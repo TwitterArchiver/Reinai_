@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "2091368171932668148",
+    "created_at": "2026-08-23T05:01:11.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T06:01:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091390271955345634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1908227405527080961",
+          "start": 0,
+          "username": "Camunoki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091390271955345634",
+    "in_reply_to_user_id": "1908227405527080961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091379909231026259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Camunoki 喜歡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "2091368171932668148",
+        "created_at": "2026-08-23T05:01:11.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T06:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091390271955345634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1908227405527080961",
+              "start": 0,
+              "username": "Camunoki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091390271955345634",
+        "in_reply_to_user_id": "1908227405527080961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091379909231026259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Camunoki 喜歡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908227405527080961",
+        "conversation_id": "2091368171932668148",
+        "created_at": "2026-08-23T04:20:00.000Z",
+        "display_text_range": [
+          9,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T05:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091379909231026259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1668234754125344768",
+              "start": 0,
+              "username": "Reinai_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091379909231026259",
+        "in_reply_to_user_id": "1668234754125344768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091368171932668148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reinai_ 最喜歡聽人們來了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "🇹🇼|2011|生理女|🩸💊\n查成分回fo回私信\n不聊騷不賣福不約\n直fo就是喜歡你",
+        "id": "1668234754125344768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091390271955345634",
+        "name": "魚",
+        "pinned_tweet_id": "2088014202200068324",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1668234754125344768/1756263536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087966983476436992/PFSRGZXf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 710,
+          "like_count": 2125,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 627
+        },
+        "url": "",
+        "username": "Reinai_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-04T18:37:29.000Z",
+        "description": "",
+        "id": "1908227405527080961",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091381442916016316",
+        "name": "銀色戰車",
+        "pinned_tweet_id": "2025606201581649969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908227405527080961/1771576610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948137354637742080/zsserxsP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 624,
+          "like_count": 16858,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 2895
+        },
+        "url": "",
+        "username": "Camunoki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

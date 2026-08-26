@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "2088209006544465938",
+    "created_at": "2026-08-15T04:58:13.000Z",
+    "display_text_range": [
+      11,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T05:58:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088490422972850324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1889249085099819008",
+          "start": 0,
+          "username": "W79413756"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088490422972850324",
+    "in_reply_to_user_id": "1889249085099819008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088483442841342438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@W79413756 聽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "2088209006544465938",
+        "created_at": "2026-08-15T04:58:13.000Z",
+        "display_text_range": [
+          11,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T05:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088490422972850324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1889249085099819008",
+              "start": 0,
+              "username": "W79413756"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088490422972850324",
+        "in_reply_to_user_id": "1889249085099819008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088483442841342438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@W79413756 聽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889249085099819008",
+        "conversation_id": "2088209006544465938",
+        "created_at": "2026-08-15T04:30:29.000Z",
+        "display_text_range": [
+          9,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T05:30:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088483442841342438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1668234754125344768",
+              "start": 0,
+              "username": "Reinai_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088483442841342438",
+        "in_reply_to_user_id": "1668234754125344768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088209006544465938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reinai_ 走啊 一起聽團"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "🇹🇼|2011|生理女|🔪💊\n查成分回fo回私信\n不聊騷不賣福不約",
+        "id": "1668234754125344768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088490422972850324",
+        "name": "魚",
+        "pinned_tweet_id": "2088014202200068324",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1668234754125344768/1756263536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087966983476436992/PFSRGZXf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 601,
+          "like_count": 1676,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 519
+        },
+        "url": "",
+        "username": "Reinai_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-11T09:44:28.000Z",
+        "description": "",
+        "id": "1889249085099819008",
+        "is_identity_verified": false,
+        "location": "高雄",
+        "most_recent_tweet_id": "2088488814658699347",
+        "name": "W",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962420265553698816/gaw5s5Ql_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 432,
+          "like_count": 4554,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "W79413756",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

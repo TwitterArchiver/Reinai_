@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "2089731195894665457",
+    "created_at": "2026-08-18T22:44:19.000Z",
+    "display_text_range": [
+      16,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T23:44:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089845878974755281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1998820105627770880",
+          "start": 0,
+          "username": "TenpennyL62429"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089845878974755281",
+    "in_reply_to_user_id": "1998820105627770880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089731195894665457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TenpennyL62429 沃趣 還好我想說可能被盜號了就沒理私信"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "2089731195894665457",
+        "created_at": "2026-08-18T22:44:19.000Z",
+        "display_text_range": [
+          16,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T23:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089845878974755281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1998820105627770880",
+              "start": 0,
+              "username": "TenpennyL62429"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089845878974755281",
+        "in_reply_to_user_id": "1998820105627770880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089731195894665457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TenpennyL62429 沃趣 還好我想說可能被盜號了就沒理私信"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998820105627770880",
+        "conversation_id": "2089731195894665457",
+        "created_at": "2026-08-18T15:08:37.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T16:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089731195894665457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1998820105627770880",
+              "start": 10,
+              "username": "TenpennyL62429"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/GEACPS1940629/…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/GEACPS1940629/status/2088625039663042631",
+              "start": 143,
+              "url": "https://t.co/jA771lYUpr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089731195894665457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 486,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088625039663042631",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就在剛剛，這個小號 @TenpennyL62429 終於被找回了，現在我已經重新登錄了這個賬號；\n\n從北京時間2026年8月14日夜晚，直到2026年8月18日22時46分之前，這個賬號並不在我的掌控之下，這個時間段內，該賬號的一切活動（包括發出的消息）均為盜號者所為，並非出自我本意 https://t.co/jA771lYUpr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "🇹🇼|2011|生理女|🔪💊\n查成分回fo回私信\n不聊騷不賣福不約 順直男別對我開黃腔🙏",
+        "id": "1668234754125344768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089845878974755281",
+        "name": "魚",
+        "pinned_tweet_id": "2088014202200068324",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1668234754125344768/1756263536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087966983476436992/PFSRGZXf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 626,
+          "like_count": 1831,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 545
+        },
+        "url": "",
+        "username": "Reinai_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-10T18:20:45.000Z",
+        "description": "本賬號是 @Mr.湯普尼 （@GEACPS1940629）的小號，會發一些歷史老照片，感興趣的話就點個關注吧🥰 \n\n提問箱：https://t.co/mjqSr7BHDw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 5,
+                "username": "Mr"
+              },
+              {
+                "end": 28,
+                "start": 14,
+                "username": "GEACPS1940629"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mr.tenpenny2",
+                "end": 85,
+                "expanded_url": "https://ngl.link/mr.tenpenny2",
+                "start": 62,
+                "url": "https://t.co/mjqSr7BHDw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/xi1939",
+                "end": 23,
+                "expanded_url": "http://telegram.me/xi1939",
+                "start": 0,
+                "url": "https://t.co/KpamqcoWrf"
+              }
+            ]
+          }
+        },
+        "id": "1998820105627770880",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089784041755259374",
+        "name": "Mr.湯普尼▐┛（二代目）",
+        "pinned_tweet_id": "2089731195894665457",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1998820105627770880/1765390941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998820195599790082/UtF-9mcg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 5476,
+          "like_count": 51272,
+          "listed_count": 0,
+          "media_count": 1415,
+          "tweet_count": 3907
+        },
+        "url": "https://t.co/KpamqcoWrf",
+        "username": "TenpennyL62429",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

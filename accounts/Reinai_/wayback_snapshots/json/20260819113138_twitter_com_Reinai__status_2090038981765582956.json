@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "2090004967948214508",
+    "created_at": "2026-08-19T11:31:38.000Z",
+    "display_text_range": [
+      15,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T12:31:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090038981765582956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1782889638283096064",
+          "start": 0,
+          "username": "fan_deng81217"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090038981765582956",
+    "in_reply_to_user_id": "1782889638283096064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090021523595874569",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fan_deng81217 我在意( ̀⌄ ́)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "2090004967948214508",
+        "created_at": "2026-08-19T11:31:38.000Z",
+        "display_text_range": [
+          15,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T12:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090038981765582956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1782889638283096064",
+              "start": 0,
+              "username": "fan_deng81217"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090038981765582956",
+        "in_reply_to_user_id": "1782889638283096064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090021523595874569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fan_deng81217 我在意( ̀⌄ ́)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782889638283096064",
+        "conversation_id": "2090004967948214508",
+        "created_at": "2026-08-19T10:22:16.000Z",
+        "display_text_range": [
+          9,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T11:22:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090021523595874569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1668234754125344768",
+              "start": 0,
+              "username": "Reinai_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090021523595874569",
+        "in_reply_to_user_id": "1668234754125344768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090004967948214508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reinai_ 我不受影響（根本沒人在意我"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "🇹🇼|2011|生理女|🔪💊\n查成分回fo回私信\n不聊騷不賣福不約 順直男別對我開黃腔🙏",
+        "id": "1668234754125344768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090038981765582956",
+        "name": "魚",
+        "pinned_tweet_id": "2088014202200068324",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1668234754125344768/1756263536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087966983476436992/PFSRGZXf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 612,
+          "like_count": 1893,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 565
+        },
+        "url": "",
+        "username": "Reinai_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-23T21:49:53.000Z",
+        "description": "我想跟喜歡的人一起抽煙",
+        "id": "1782889638283096064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090021523595874569",
+        "name": "yunmnnnnnnn2.0",
+        "pinned_tweet_id": "2088602052771590547",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073537714201456640/z3AYGzQ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 12,
+          "like_count": 813,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 549
+        },
+        "url": "",
+        "username": "fan_deng81217",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "2045977155629379712",
+    "created_at": "2026-04-19T21:25:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T22:25:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045977155629379712"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045977155629379712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "幹你娘 誰懂我昨天歐了然後一起床看到黃色嘔吐物的救贖感\n我再也不會在上學前一天還吃自己沒試過的劑量"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "2045977155629379712",
+        "created_at": "2026-04-19T21:25:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T22:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045977155629379712"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045977155629379712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "幹你娘 誰懂我昨天歐了然後一起床看到黃色嘔吐物的救贖感\n我再也不會在上學前一天還吃自己沒試過的劑量"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "pinned_tweet_id": "1984216096094962091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002681444473434112/70RJO0s1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 433,
+          "like_count": 1168,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 423
+        },
+        "username": "Reinai_",
+        "verified": false
+      }
+    ]
+  }
+}

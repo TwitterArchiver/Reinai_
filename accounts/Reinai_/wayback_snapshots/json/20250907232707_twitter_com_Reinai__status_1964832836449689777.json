@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "1964766998845648990",
+    "created_at": "2025-09-07T23:27:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T00:27:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964832836449689777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1880306944784887811",
+          "start": 0,
+          "username": "yuyuYYUU0901"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964832836449689777",
+    "in_reply_to_user_id": "1880306944784887811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964766998845648990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuyuYYUU0901 怎麼了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "1964766998845648990",
+        "created_at": "2025-09-07T23:27:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T00:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964832836449689777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1880306944784887811",
+              "start": 0,
+              "username": "yuyuYYUU0901"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964832836449689777",
+        "in_reply_to_user_id": "1880306944784887811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964766998845648990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyuYYUU0901 怎麼了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880306944784887811",
+        "conversation_id": "1964766998845648990",
+        "created_at": "2025-09-07T19:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T20:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964766998845648990"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1964766998845648990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有些玩笑真的不好笑。我求求你们不要再乱开了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 337,
+          "like_count": 384,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 232
+        },
+        "username": "Reinai_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T17:31:36.000Z",
+        "description": "跨性別者，憂鬱症，焦慮症，擬似被害妄想症\ncoser/大量吃谷/缺愛/缺錢/od/飲血/自殺未遂/自殘/休學/mtf/性取向女/地雷/INFP\n求找我約純綠拜託拜託拜託\n這就是魚魚\n沒人愛沒人在意的魚魚",
+        "id": "1880306944784887811",
+        "location": "New Taipei City, Taiwan",
+        "name": "死鱼",
+        "pinned_tweet_id": "1961770503523434971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954133901695488000/kYRCO1qB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 517,
+          "like_count": 3592,
+          "listed_count": 1,
+          "media_count": 270,
+          "tweet_count": 3680
+        },
+        "username": "yuyuYYUU0901",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018394881484546048"
+      ],
+      "media_source_tweet_id": [
+        "2018394888665178413"
+      ]
+    },
+    "author_id": "1668234754125344768",
+    "conversation_id": "2018419161203097613",
+    "created_at": "2026-02-02T20:20:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T21:20:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018419161203097613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1754795826713686016",
+          "start": 3,
+          "username": "xxxxinTvT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oWMXoYacvj",
+          "end": 47,
+          "expanded_url": "https://x.com/xxxxinTvT/status/2018394888665178413/photo/1",
+          "media_key": "3_2018394881484546048",
+          "start": 24,
+          "url": "https://t.co/oWMXoYacvj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018419161203097613",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018394888665178413",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xxxxinTvT: (๑╹ω╹๑ ) https://t.co/oWMXoYacvj"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2018419161203097613].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2018419161203097613",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2018419161203097613"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1279,
+        "media_key": "3_2018394881484546048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HALHc2daYAAAvkT.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018394881484546048"
+          ]
+        },
+        "author_id": "1754795826713686016",
+        "conversation_id": "2018394888665178413",
+        "created_at": "2026-02-02T18:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T19:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018394888665178413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oWMXoYacvj",
+              "end": 32,
+              "expanded_url": "https://x.com/xxxxinTvT/status/2018394888665178413/photo/1",
+              "media_key": "3_2018394881484546048",
+              "start": 9,
+              "url": "https://t.co/oWMXoYacvj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018394888665178413",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 245,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "(๑╹ω╹๑ ) https://t.co/oWMXoYacvj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "零奈/白",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "pinned_tweet_id": "1984216096094962091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002681444473434112/70RJO0s1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 443,
+          "like_count": 1201,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 518
+        },
+        "username": "Reinai_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T09:15:12.000Z",
+        "description": "乞丐",
+        "id": "1754795826713686016",
+        "name": "xxxxin",
+        "pinned_tweet_id": "1984295872667193771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840479748897849344/7GMzuxFp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4923,
+          "following_count": 578,
+          "like_count": 24122,
+          "listed_count": 5,
+          "media_count": 52,
+          "tweet_count": 9226
+        },
+        "username": "xxxxinTvT",
+        "verified": false
+      }
+    ]
+  }
+}

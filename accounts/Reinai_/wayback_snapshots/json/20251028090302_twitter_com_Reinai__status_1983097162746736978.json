@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "1982861266629865819",
+    "created_at": "2025-10-28T09:03:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T10:03:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983097162746736978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1870825698744836096",
+          "start": 0,
+          "username": "ifiwereamoth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983097162746736978",
+    "in_reply_to_user_id": "1870825698744836096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982861266629865819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ifiwereamoth 我！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "1982861266629865819",
+        "created_at": "2025-10-28T09:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T10:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983097162746736978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1870825698744836096",
+              "start": 0,
+              "username": "ifiwereamoth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983097162746736978",
+        "in_reply_to_user_id": "1870825698744836096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982861266629865819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ifiwereamoth 我！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870825698744836096",
+        "conversation_id": "1982861266629865819",
+        "created_at": "2025-10-27T17:25:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T18:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982861266629865819"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982861266629865819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 721,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有沒有人和我做朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 404,
+          "like_count": 609,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 386
+        },
+        "username": "Reinai_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-22T13:36:35.000Z",
+        "description": "請祢把我悶死在祢懷中",
+        "id": "1870825698744836096",
+        "location": "🚪88好处只有認識我",
+        "name": "s!xpence",
+        "pinned_tweet_id": "1921937677420576808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907322747556184064/FfYUgUtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 74,
+          "like_count": 1275,
+          "listed_count": 5,
+          "media_count": 46,
+          "tweet_count": 300
+        },
+        "username": "ifiwereamoth",
+        "verified": false
+      }
+    ]
+  }
+}

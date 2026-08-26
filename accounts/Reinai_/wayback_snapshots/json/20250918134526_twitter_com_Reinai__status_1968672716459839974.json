@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "1968672716459839974",
+    "created_at": "2025-09-18T13:45:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T14:45:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968672716459839974"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1968672716459839974",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "是這樣的我剛翻到一把美工刀\n然後往手上試了一下結果發現挺利 我好開心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "1968672716459839974",
+        "created_at": "2025-09-18T13:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T14:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968672716459839974"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1968672716459839974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是這樣的我剛翻到一把美工刀\n然後往手上試了一下結果發現挺利 我好開心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 347,
+          "like_count": 441,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 257
+        },
+        "username": "Reinai_",
+        "verified": false
+      }
+    ]
+  }
+}

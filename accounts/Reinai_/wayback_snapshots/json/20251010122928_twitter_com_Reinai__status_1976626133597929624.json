@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976626114220163072"
+      ]
+    },
+    "author_id": "1668234754125344768",
+    "conversation_id": "1976626133597929624",
+    "created_at": "2025-10-10T12:29:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T13:29:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976626133597929624"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jZjikDbizU",
+          "end": 23,
+          "expanded_url": "https://x.com/Reinai_/status/1976626133597929624/photo/1",
+          "media_key": "3_1976626114220163072",
+          "start": 0,
+          "url": "https://t.co/jZjikDbizU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976626133597929624",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/jZjikDbizU"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1976626133597929624].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1976626133597929624",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1976626133597929624"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1542,
+        "media_key": "3_1976626114220163072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G25i-m_agAAHbsj.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 376,
+          "like_count": 520,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 336
+        },
+        "username": "Reinai_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "1957837494873174476",
+    "created_at": "2025-08-19T16:10:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T17:10:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957837494873174476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1594178563799797760",
+          "start": 3,
+          "username": "dkwlsmwjwk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957837494873174476",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957348217898582479",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dkwlsmwjwk: 谢谢大家长久以来对我的忽视，我很喜欢这个软件，大家都各聊各的，没人鸟我，我也不想鸟你们，很温馨的一个软件，希望大家继续加油，我会一直和你们耗下去，你们这群叼毛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "1957837494873174476",
+        "created_at": "2025-08-19T16:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T17:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957837494873174476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1594178563799797760",
+              "start": 3,
+              "username": "dkwlsmwjwk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957837494873174476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957348217898582479",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dkwlsmwjwk: 谢谢大家长久以来对我的忽视，我很喜欢这个软件，大家都各聊各的，没人鸟我，我也不想鸟你们，很温馨的一个软件，希望大家继续加油，我会一直和你们耗下去，你们这群叼毛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594178563799797760",
+        "conversation_id": "1957348217898582479",
+        "created_at": "2025-08-18T07:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T08:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957348217898582479"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957348217898582479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 9885,
+          "like_count": 180,
+          "quote_count": 6,
+          "reply_count": 16,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢大家长久以来对我的忽视，我很喜欢这个软件，大家都各聊各的，没人鸟我，我也不想鸟你们，很温馨的一个软件，希望大家继续加油，我会一直和你们耗下去，你们这群叼毛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952648141670350848/gqswgxe__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 280,
+          "like_count": 262,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 131
+        },
+        "username": "Reinai_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-20T03:59:36.000Z",
+        "description": "我只是一个宅。 可以叫我眠眠！sub/brat intp双鱼o(≧v≦)o 不定时掉落废话/思考 我喜欢喜欢喜欢好看的青筋好看好看好看的手",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dkwlsmwjwk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dkwlsmwjwk",
+                "start": 0,
+                "url": "https://t.co/1yOTRxbqst"
+              }
+            ]
+          }
+        },
+        "id": "1594178563799797760",
+        "location": "纯绿 🚪52",
+        "name": "dkwlsmwjwk",
+        "pinned_tweet_id": "1929897135065182603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923901101780189184/dX5FdsD7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 630,
+          "like_count": 13483,
+          "listed_count": 5,
+          "media_count": 105,
+          "tweet_count": 2919
+        },
+        "url": "https://t.co/1yOTRxbqst",
+        "username": "dkwlsmwjwk",
+        "verified": false
+      }
+    ]
+  }
+}

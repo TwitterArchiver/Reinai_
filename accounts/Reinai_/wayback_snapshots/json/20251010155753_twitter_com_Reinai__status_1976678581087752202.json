@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976405774977896449"
+      ],
+      "media_source_tweet_id": [
+        "1976405787359719616"
+      ]
+    },
+    "author_id": "1668234754125344768",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1976678581087752202",
+    "created_at": "2025-10-10T15:57:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T16:57:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976678581087752202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1887832428766535680",
+          "start": 3,
+          "username": "coffeeebreaak"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vjFErfsbS3",
+          "end": 42,
+          "expanded_url": "https://x.com/coffeeebreaak/status/1976405787359719616/photo/1",
+          "media_key": "3_1976405774977896449",
+          "start": 19,
+          "url": "https://t.co/vjFErfsbS3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976678581087752202",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20847
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976405787359719616",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @coffeeebreaak: https://t.co/vjFErfsbS3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1104,
+        "media_key": "3_1976405774977896449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G22alLWWkAEN6ER.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976405774977896449"
+          ],
+          "media_source_tweet_id": [
+            "1976405787359719616"
+          ]
+        },
+        "author_id": "1668234754125344768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1976678581087752202",
+        "created_at": "2025-10-10T15:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T16:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976678581087752202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1887832428766535680",
+              "start": 3,
+              "username": "coffeeebreaak"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vjFErfsbS3",
+              "end": 42,
+              "expanded_url": "https://x.com/coffeeebreaak/status/1976405787359719616/photo/1",
+              "media_key": "3_1976405774977896449",
+              "start": 19,
+              "url": "https://t.co/vjFErfsbS3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976678581087752202",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20847
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976405787359719616",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @coffeeebreaak: https://t.co/vjFErfsbS3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976405774977896449"
+          ]
+        },
+        "author_id": "1887832428766535680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1976405787359719616",
+        "created_at": "2025-10-09T21:53:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T22:53:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976405787359719616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vjFErfsbS3",
+              "end": 23,
+              "expanded_url": "https://x.com/coffeeebreaak/status/1976405787359719616/photo/1",
+              "media_key": "3_1976405774977896449",
+              "start": 0,
+              "url": "https://t.co/vjFErfsbS3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976405787359719616",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4633,
+          "impression_count": 2651759,
+          "like_count": 188538,
+          "quote_count": 914,
+          "reply_count": 299,
+          "retweet_count": 20847
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vjFErfsbS3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 376,
+          "like_count": 521,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 337
+        },
+        "username": "Reinai_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-07T11:55:10.000Z",
+        "description": "coffee break for everything.",
+        "id": "1887832428766535680",
+        "location": "dm for promotion.",
+        "name": "ᅠ ᅠ",
+        "pinned_tweet_id": "1944487335044710735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937581410711142400/x0bNPEfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17823,
+          "following_count": 1,
+          "like_count": 66,
+          "listed_count": 50,
+          "media_count": 1176,
+          "tweet_count": 1188
+        },
+        "username": "coffeeebreaak",
+        "verified": true
+      }
+    ]
+  }
+}

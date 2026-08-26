@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "1991650296607699375",
+    "created_at": "2025-11-20T23:30:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T00:30:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991650296607699375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1821560692140544000",
+          "start": 3,
+          "username": "Numiouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991650296607699375",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991475430608847031",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Numiouo: 现在控制自残不是因为不抑郁，也不是因为怕疼，单纯的怕显眼怕留疤。全都无所谓，只是社会化。觉得好累，连自残也要为了世界去克制，这辈子所有的一切都是为了他人的目光，活了那么久，居然连自残的资格都没完全拥有？？？\n疼痛到底算什么？\n表皮的疼痛是世界上最不值一…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "1991650296607699375",
+        "created_at": "2025-11-20T23:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T00:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991650296607699375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1821560692140544000",
+              "start": 3,
+              "username": "Numiouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991650296607699375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991475430608847031",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Numiouo: 现在控制自残不是因为不抑郁，也不是因为怕疼，单纯的怕显眼怕留疤。全都无所谓，只是社会化。觉得好累，连自残也要为了世界去克制，这辈子所有的一切都是为了他人的目光，活了那么久，居然连自残的资格都没完全拥有？？？\n疼痛到底算什么？\n表皮的疼痛是世界上最不值一…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821560692140544000",
+        "conversation_id": "1991475430608847031",
+        "created_at": "2025-11-20T11:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T12:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991475430608847031"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991475430608847031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3682,
+          "like_count": 157,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "现在控制自残不是因为不抑郁，也不是因为怕疼，单纯的怕显眼怕留疤。全都无所谓，只是社会化。觉得好累，连自残也要为了世界去克制，这辈子所有的一切都是为了他人的目光，活了那么久，居然连自残的资格都没完全拥有？？？\n疼痛到底算什么？\n表皮的疼痛是世界上最不值一提的事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "pinned_tweet_id": "1984216096094962091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 450,
+          "like_count": 794,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 486
+        },
+        "username": "Reinai_",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-08T14:55:11.000Z",
+        "description": "糯米守护与互关的大家庭👨‍👩‍👦疯狗狂犬病弱智神经病狂野精神病滥用自残啥都碰不可理喻无药可救精力旺盛躁郁圣体❤️绝赞病b小心染病❤️同类fo必回-漏fo请私-爱互关宝宝❤️点赞评论bot-讨厌不熟的人闲聊♡喜欢sex与drug♡不提供任何咨询♡non-binary友跨友全部🏳️‍🌈🏳️‍⚧️",
+        "id": "1821560692140544000",
+        "name": "ᨳ 糯米糖纸ઉ ᖭིᖫྀ",
+        "pinned_tweet_id": "1988581028534059496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984461180929523715/z3O7oiOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1242,
+          "following_count": 937,
+          "like_count": 3159,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 2215
+        },
+        "username": "Numiouo",
+        "verified": false
+      }
+    ]
+  }
+}

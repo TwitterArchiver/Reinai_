@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "2090611112912015763",
+    "created_at": "2026-08-21T01:26:07.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T02:26:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090611372363329730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1880306944784887811",
+          "start": 0,
+          "username": "yuyuYYUU0901"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090611372363329730",
+    "in_reply_to_user_id": "1880306944784887811",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090611112912015763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuyuYYUU0901 111"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "2090611112912015763",
+        "created_at": "2026-08-21T01:26:07.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T02:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090611372363329730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1880306944784887811",
+              "start": 0,
+              "username": "yuyuYYUU0901"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090611372363329730",
+        "in_reply_to_user_id": "1880306944784887811",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090611112912015763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyuYYUU0901 111"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880306944784887811",
+        "conversation_id": "2090611112912015763",
+        "created_at": "2026-08-21T01:25:05.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T02:25:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090611112912015763"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090611112912015763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我缺朋友。谁当"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "🇹🇼|2011|生理女|🩸💊\n查成分回fo回私信\n不聊騷不賣福不約\n直fo就是喜歡你",
+        "id": "1668234754125344768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090611372363329730",
+        "name": "魚",
+        "pinned_tweet_id": "2088014202200068324",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1668234754125344768/1756263536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087966983476436992/PFSRGZXf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 636,
+          "following_count": 694,
+          "like_count": 2016,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 603
+        },
+        "url": "",
+        "username": "Reinai_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-17T17:31:36.000Z",
+        "description": "沒線下別問了",
+        "id": "1880306944784887811",
+        "is_identity_verified": false,
+        "location": "New Taipei City, Taiwan",
+        "most_recent_tweet_id": "2090611112912015763",
+        "name": "死鱼",
+        "pinned_tweet_id": "2061132868538212389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880306944784887811/1739784170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971540131166535680/ICkAyUwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 789,
+          "like_count": 4497,
+          "listed_count": 0,
+          "media_count": 402,
+          "tweet_count": 5740
+        },
+        "url": "",
+        "username": "yuyuYYUU0901",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

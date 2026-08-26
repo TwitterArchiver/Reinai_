@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1959113377068064768"
+      ],
+      "media_source_tweet_id": [
+        "1959113397007532283"
+      ]
+    },
+    "author_id": "1668234754125344768",
+    "conversation_id": "2016185818017394840",
+    "created_at": "2026-01-27T16:25:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T17:25:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016185818017394840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1857966707245199361",
+          "start": 3,
+          "username": "wirhfu3gr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/X4ikVxZLY0",
+          "end": 43,
+          "expanded_url": "https://x.com/wirhfu3gr/status/1959113397007532283/video/1",
+          "media_key": "7_1959113377068064768",
+          "start": 20,
+          "url": "https://t.co/X4ikVxZLY0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016185818017394840",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 225
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959113397007532283",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @wirhfu3gr: 학교에서 https://t.co/X4ikVxZLY0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4202,
+        "height": 1280,
+        "media_key": "7_1959113377068064768",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1959113377068064768/pu/img/syA8xPRFjmD6w7xt.jpg",
+        "public_metrics": {
+          "view_count": 20288
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1959113377068064768/pu/vid/avc1/320x568/FhKBHnESRz3Psxk9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1959113377068064768/pu/vid/avc1/480x852/lt0VAwQpEBmZJ7Br.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1959113377068064768/pu/vid/avc1/720x1280/-54R8aE6597JSfIB.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1959113377068064768/pu/pl/vz1weKJP5Ijdlea7.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1959113377068064768"
+          ],
+          "media_source_tweet_id": [
+            "1959113397007532283"
+          ]
+        },
+        "author_id": "1668234754125344768",
+        "conversation_id": "2016185818017394840",
+        "created_at": "2026-01-27T16:25:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T17:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016185818017394840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1857966707245199361",
+              "start": 3,
+              "username": "wirhfu3gr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X4ikVxZLY0",
+              "end": 43,
+              "expanded_url": "https://x.com/wirhfu3gr/status/1959113397007532283/video/1",
+              "media_key": "7_1959113377068064768",
+              "start": 20,
+              "url": "https://t.co/X4ikVxZLY0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016185818017394840",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 225
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959113397007532283",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @wirhfu3gr: 학교에서 https://t.co/X4ikVxZLY0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1959113377068064768"
+          ]
+        },
+        "author_id": "1857966707245199361",
+        "conversation_id": "1959113397007532283",
+        "created_at": "2025-08-23T04:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T05:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959113397007532283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X4ikVxZLY0",
+              "end": 28,
+              "expanded_url": "https://x.com/wirhfu3gr/status/1959113397007532283/video/1",
+              "media_key": "7_1959113377068064768",
+              "start": 5,
+              "url": "https://t.co/X4ikVxZLY0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959113397007532283",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 321,
+          "impression_count": 27329,
+          "like_count": 1787,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 225
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "학교에서 https://t.co/X4ikVxZLY0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "零奈/白",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "pinned_tweet_id": "1984216096094962091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002681444473434112/70RJO0s1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 444,
+          "like_count": 1186,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 515
+        },
+        "username": "Reinai_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-17T01:59:32.000Z",
+        "description": "https://t.co/Wo4AF3VuFX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "open.kakao.com/o/sNFhptvh",
+                "end": 23,
+                "expanded_url": "https://open.kakao.com/o/sNFhptvh",
+                "start": 0,
+                "url": "https://t.co/Wo4AF3VuFX"
+              }
+            ]
+          }
+        },
+        "id": "1857966707245199361",
+        "name": "🚬",
+        "pinned_tweet_id": "1898365301525508476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857967307676594177/CHb5o7kz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7444,
+          "following_count": 103,
+          "like_count": 5380,
+          "listed_count": 6,
+          "media_count": 139,
+          "tweet_count": 151
+        },
+        "username": "wirhfu3gr",
+        "verified": false
+      }
+    ]
+  }
+}

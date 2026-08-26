@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "1954999982668517712",
+    "created_at": "2025-08-29T17:30:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T18:30:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961481577344696656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1739391734491086848",
+          "start": 0,
+          "username": "IXXA00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961481577344696656",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961313363197333644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IXXA00 睡著了現在才醒 怎麼了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "1954999982668517712",
+        "created_at": "2025-08-29T17:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T18:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961481577344696656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961481577344696656",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961313363197333644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 睡著了現在才醒 怎麼了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1954999982668517712",
+        "created_at": "2025-08-29T06:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T07:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961313363197333644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1668234754125344768",
+              "start": 0,
+              "username": "Reinai_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961313363197333644",
+        "in_reply_to_user_id": "1668234754125344768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954999982668517712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reinai_ 在吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 298,
+          "like_count": 303,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 167
+        },
+        "username": "Reinai_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla🎈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961009243521449984/ecixiSG__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3930,
+          "following_count": 3373,
+          "like_count": 27943,
+          "listed_count": 9,
+          "media_count": 2089,
+          "tweet_count": 27871
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

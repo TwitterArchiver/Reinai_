@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "1981650928672575547",
+    "created_at": "2025-10-24T16:48:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T17:48:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981764733146738994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1920694553503313920",
+          "start": 0,
+          "username": "hhhhc4567"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981764733146738994",
+    "in_reply_to_user_id": "1920694553503313920",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981696278867419523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhhhc4567 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "1981650928672575547",
+        "created_at": "2025-10-24T16:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T17:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981764733146738994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1920694553503313920",
+              "start": 0,
+              "username": "hhhhc4567"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981764733146738994",
+        "in_reply_to_user_id": "1920694553503313920",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981696278867419523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhhhc4567 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920694553503313920",
+        "conversation_id": "1981650928672575547",
+        "created_at": "2025-10-24T12:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T13:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981696278867419523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1668234754125344768",
+              "start": 0,
+              "username": "Reinai_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981696278867419523",
+        "in_reply_to_user_id": "1668234754125344768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981650928672575547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reinai_ 你是白痴吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 395,
+          "like_count": 585,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 379
+        },
+        "username": "Reinai_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-09T04:17:31.000Z",
+        "description": "不要真实我，我纯色懒",
+        "id": "1920694553503313920",
+        "location": "West New York, NJ",
+        "name": "hhhhc",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974447228153659393/gyUp-mXZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 229,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 84
+        },
+        "username": "hhhhc4567",
+        "verified": false
+      }
+    ]
+  }
+}

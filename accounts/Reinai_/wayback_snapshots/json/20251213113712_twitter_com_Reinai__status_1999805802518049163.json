@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999443859378700288"
+      ],
+      "media_source_tweet_id": [
+        "1999443865682751847"
+      ]
+    },
+    "author_id": "1668234754125344768",
+    "conversation_id": "1999805802518049163",
+    "created_at": "2025-12-13T11:37:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T12:37:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999805802518049163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1668234754125344768",
+          "start": 3,
+          "username": "Reinai_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SzreNoUwsQ",
+          "end": 36,
+          "expanded_url": "https://x.com/Reinai_/status/1999443865682751847/photo/1",
+          "media_key": "3_1999443859378700288",
+          "start": 13,
+          "url": "https://t.co/SzreNoUwsQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999805802518049163",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999443865682751847",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Reinai_: https://t.co/SzreNoUwsQ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1999805802518049163].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1999805802518049163",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1999805802518049163"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1999443859378700288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G79zmLqagAAZt41.jpg",
+        "width": 771
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999443859378700288"
+          ]
+        },
+        "author_id": "1668234754125344768",
+        "conversation_id": "1999443865682751847",
+        "created_at": "2025-12-12T11:39:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T12:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999443865682751847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SzreNoUwsQ",
+              "end": 23,
+              "expanded_url": "https://x.com/Reinai_/status/1999443865682751847/photo/1",
+              "media_key": "3_1999443859378700288",
+              "start": 0,
+              "url": "https://t.co/SzreNoUwsQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999443865682751847",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 85,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SzreNoUwsQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "零奈/白",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "pinned_tweet_id": "1984216096094962091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 461,
+          "like_count": 1001,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 551
+        },
+        "username": "Reinai_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992610368582303744"
+      ],
+      "media_source_tweet_id": [
+        "1992610373921640763"
+      ]
+    },
+    "author_id": "1668234754125344768",
+    "conversation_id": "1993449105109270658",
+    "created_at": "2025-11-25T22:37:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T23:37:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993449105109270658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1426753435806756866",
+          "start": 3,
+          "username": "hosikage4040"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NJLUFB6UNF",
+          "end": 41,
+          "expanded_url": "https://x.com/hosikage4040/status/1992610373921640763/photo/1",
+          "media_key": "3_1992610368582303744",
+          "start": 18,
+          "url": "https://t.co/NJLUFB6UNF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993449105109270658",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 686
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992610373921640763",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hosikage4040: https://t.co/NJLUFB6UNF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_1992610368582303744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6cskqsbwAAyqxP.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992610368582303744"
+          ],
+          "media_source_tweet_id": [
+            "1992610373921640763"
+          ]
+        },
+        "author_id": "1668234754125344768",
+        "conversation_id": "1993449105109270658",
+        "created_at": "2025-11-25T22:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T23:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993449105109270658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1426753435806756866",
+              "start": 3,
+              "username": "hosikage4040"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NJLUFB6UNF",
+              "end": 41,
+              "expanded_url": "https://x.com/hosikage4040/status/1992610373921640763/photo/1",
+              "media_key": "3_1992610368582303744",
+              "start": 18,
+              "url": "https://t.co/NJLUFB6UNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993449105109270658",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 686
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992610373921640763",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hosikage4040: https://t.co/NJLUFB6UNF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992610368582303744"
+          ]
+        },
+        "author_id": "1426753435806756866",
+        "conversation_id": "1992610373921640763",
+        "created_at": "2025-11-23T15:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T16:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992610373921640763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NJLUFB6UNF",
+              "end": 23,
+              "expanded_url": "https://x.com/hosikage4040/status/1992610373921640763/photo/1",
+              "media_key": "3_1992610368582303744",
+              "start": 0,
+              "url": "https://t.co/NJLUFB6UNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992610373921640763",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 431,
+          "impression_count": 40443,
+          "like_count": 7276,
+          "quote_count": 8,
+          "reply_count": 5,
+          "retweet_count": 686
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NJLUFB6UNF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "pinned_tweet_id": "1984216096094962091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 455,
+          "like_count": 863,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 506
+        },
+        "username": "Reinai_",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-15T03:52:08.000Z",
+        "description": "illustration◈創作ﾒｲﾝ◈｜FA▶#星ぽすと｜🐈‍⬛依頼募集中🩸依頼(必読)⇒『 https://t.co/1rwrtUOCO2 』｜sub▶ @da_211k｜",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 28,
+                "start": 23,
+                "tag": "星ぽすと"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 86,
+                "start": 78,
+                "username": "da_211k"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/4hosi",
+                "end": 70,
+                "expanded_url": "https://lit.link/4hosi",
+                "start": 47,
+                "url": "https://t.co/1rwrtUOCO2"
+              }
+            ]
+          }
+        },
+        "id": "1426753435806756866",
+        "location": "お別れ:B: 絵柄参考AI学習･無断転載･トレス禁止",
+        "name": "星影",
+        "pinned_tweet_id": "1884526923042509235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945768339269181440/lsOZHqpS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29260,
+          "following_count": 290,
+          "like_count": 38578,
+          "listed_count": 93,
+          "media_count": 947,
+          "tweet_count": 21931
+        },
+        "username": "hosikage4040",
+        "verified": false
+      }
+    ]
+  }
+}

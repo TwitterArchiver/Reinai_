@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "2018055040448294951",
+    "created_at": "2026-02-01T20:13:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T21:13:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018055040448294951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1764232461439897600",
+          "start": 3,
+          "username": "baobao_7777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018055040448294951",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 176
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017472278284669159",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @baobao_7777: 我希望我喜欢的人是个社交孤儿，每天只围着我转，没有我就会死掉。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "2018055040448294951",
+        "created_at": "2026-02-01T20:13:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T21:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018055040448294951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1764232461439897600",
+              "start": 3,
+              "username": "baobao_7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018055040448294951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 176
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017472278284669159",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @baobao_7777: 我希望我喜欢的人是个社交孤儿，每天只围着我转，没有我就会死掉。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764232461439897600",
+        "conversation_id": "2017472278284669159",
+        "created_at": "2026-01-31T05:37:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T06:37:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017472278284669159"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017472278284669159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 43937,
+          "like_count": 1032,
+          "quote_count": 26,
+          "reply_count": 33,
+          "retweet_count": 176
+        },
+        "reply_settings": "everyone",
+        "text": "我希望我喜欢的人是个社交孤儿，每天只围着我转，没有我就会死掉。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "零奈/白",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "pinned_tweet_id": "1984216096094962091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002681444473434112/70RJO0s1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 443,
+          "like_count": 1198,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 517
+        },
+        "username": "Reinai_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-03T10:13:08.000Z",
+        "description": "my name is burger im really glad to meet you🍔可以叫我小堡｜性别男取向男｜会发很多废话是个倾诉欲很强的人 身体里有一个表子人格偶尔会出来和呆萌主人格争夺身体控制权｜想和好看or有趣的人玩｜⬇️提问箱📪欢迎发消息",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/burger7777",
+                "end": 23,
+                "expanded_url": "https://ngl.link/burger7777",
+                "start": 0,
+                "url": "https://t.co/GIQCODGHiA"
+              }
+            ]
+          }
+        },
+        "id": "1764232461439897600",
+        "location": "^ω^",
+        "name": "雌香家母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016383384122228736/BvC1QVbF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 59,
+          "like_count": 10758,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 1191
+        },
+        "url": "https://t.co/GIQCODGHiA",
+        "username": "baobao_7777",
+        "verified": false
+      }
+    ]
+  }
+}

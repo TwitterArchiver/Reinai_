@@ -1,0 +1,142 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994065275713634304",
+        "3_1994065280470011904",
+        "3_1994065280595841027"
+      ]
+    },
+    "author_id": "1668234754125344768",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1994065298543317267",
+    "created_at": "2025-11-27T15:26:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T16:26:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994065298543317267"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5AxsFACHIa",
+          "end": 23,
+          "expanded_url": "https://x.com/Reinai_/status/1994065298543317267/photo/1",
+          "media_key": "3_1994065275713634304",
+          "start": 0,
+          "url": "https://t.co/5AxsFACHIa"
+        },
+        {
+          "display_url": "pic.x.com/5AxsFACHIa",
+          "end": 23,
+          "expanded_url": "https://x.com/Reinai_/status/1994065298543317267/photo/1",
+          "media_key": "3_1994065280470011904",
+          "start": 0,
+          "url": "https://t.co/5AxsFACHIa"
+        },
+        {
+          "display_url": "pic.x.com/5AxsFACHIa",
+          "end": 23,
+          "expanded_url": "https://x.com/Reinai_/status/1994065298543317267/photo/1",
+          "media_key": "3_1994065280595841027",
+          "start": 0,
+          "url": "https://t.co/5AxsFACHIa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994065298543317267",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/5AxsFACHIa"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1994065298543317267].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1994065298543317267",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1994065298543317267"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 771,
+        "media_key": "3_1994065275713634304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6xXzaHaQAA3GDS.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1994065280470011904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6xXzr1a0AAEyyq.jpg",
+        "width": 771
+      },
+      {
+        "height": 771,
+        "media_key": "3_1994065280595841027",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6xXzsTa0AMjyd-.jpg",
+        "width": 1024
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "pinned_tweet_id": "1984216096094962091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 458,
+          "like_count": 873,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 513
+        },
+        "username": "Reinai_",
+        "verified": true
+      }
+    ]
+  }
+}

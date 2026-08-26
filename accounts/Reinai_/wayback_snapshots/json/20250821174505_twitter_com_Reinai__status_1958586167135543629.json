@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "1954930382429987115",
+    "created_at": "2025-08-21T17:45:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T18:45:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958586167135543629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1947788228918185984",
+          "start": 0,
+          "username": "MXiaoshi8703"
+        },
+        {
+          "end": 23,
+          "id": "1252565771907002370",
+          "start": 14,
+          "username": "dustopus"
+        },
+        {
+          "end": 39,
+          "id": "1865419581206208512",
+          "start": 24,
+          "username": "DDzhanshou5150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958586167135543629",
+    "in_reply_to_user_id": "1947788228918185984",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958581086813913521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MXiaoshi8703 @dustopus @DDzhanshou5150 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "1954930382429987115",
+        "created_at": "2025-08-21T17:45:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T18:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958586167135543629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1947788228918185984",
+              "start": 0,
+              "username": "MXiaoshi8703"
+            },
+            {
+              "end": 23,
+              "id": "1252565771907002370",
+              "start": 14,
+              "username": "dustopus"
+            },
+            {
+              "end": 39,
+              "id": "1865419581206208512",
+              "start": 24,
+              "username": "DDzhanshou5150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958586167135543629",
+        "in_reply_to_user_id": "1947788228918185984",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958581086813913521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MXiaoshi8703 @dustopus @DDzhanshou5150 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947788228918185984",
+        "conversation_id": "1954930382429987115",
+        "created_at": "2025-08-21T17:24:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T18:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958581086813913521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1252565771907002370",
+              "start": 0,
+              "username": "dustopus"
+            },
+            {
+              "end": 18,
+              "id": "1668234754125344768",
+              "start": 10,
+              "username": "Reinai_"
+            },
+            {
+              "end": 34,
+              "id": "1865419581206208512",
+              "start": 19,
+              "username": "DDzhanshou5150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958581086813913521",
+        "in_reply_to_user_id": "1252565771907002370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955268882500919624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dustopus @Reinai_ @DDzhanshou5150 是因为看到你这奇形种了吗🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952648141670350848/gqswgxe__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 290,
+          "like_count": 274,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 140
+        },
+        "username": "Reinai_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T22:38:19.000Z",
+        "description": "中国人需要我，是因为需要忏悔",
+        "id": "1947788228918185984",
+        "name": "基本毛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947790760587497473/EE4V8mmU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 23
+        },
+        "username": "MXiaoshi8703",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-21T11:52:13.000Z",
+        "description": "Twitter is not a place for rational discussion.",
+        "id": "1252565771907002370",
+        "location": "BUPT",
+        "name": "dustopus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950471890847358978/SBEAnfdN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 225,
+          "like_count": 4422,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 992
+        },
+        "username": "dustopus",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6105,
+          "following_count": 5847,
+          "like_count": 20507,
+          "listed_count": 14,
+          "media_count": 3871,
+          "tweet_count": 29118
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

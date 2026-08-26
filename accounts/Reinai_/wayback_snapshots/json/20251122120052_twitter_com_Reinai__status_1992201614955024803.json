@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "1992201614955024803",
+    "created_at": "2025-11-22T12:00:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T13:00:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992201614955024803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1880306944784887811",
+          "start": 3,
+          "username": "yuyuYYUU0901"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992201614955024803",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991666441637228663",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuyuYYUU0901: 後女友我想你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "1992201614955024803",
+        "created_at": "2025-11-22T12:00:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T13:00:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992201614955024803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1880306944784887811",
+              "start": 3,
+              "username": "yuyuYYUU0901"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992201614955024803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991666441637228663",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuyuYYUU0901: 後女友我想你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880306944784887811",
+        "conversation_id": "1991666441637228663",
+        "created_at": "2025-11-21T00:34:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T01:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991666441637228663"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991666441637228663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 431,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "後女友我想你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "pinned_tweet_id": "1984216096094962091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 450,
+          "like_count": 810,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 488
+        },
+        "username": "Reinai_",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-17T17:31:36.000Z",
+        "description": "不太相信有人能对另一个人一直保持纯粹的单恋的。单恋久了是会恨的，会痛的，痛到忍不住弯下腰来，酸胀满溢，想流着泪去质问她为什么不爱我，又想告诉她我恨你，我恨你，都是你把我变成这个样子，凭什么痛苦的饱受折磨的只有我一个，你只顾享受我对你付出的一切，你真的好自私，其实最想的还是跪下去抓着她的裙角抬头哀求她，爱我吧，你爱我吧",
+        "id": "1880306944784887811",
+        "location": "New Taipei City, Taiwan",
+        "name": "死鱼",
+        "pinned_tweet_id": "1988738828975382842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971540131166535680/ICkAyUwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 703,
+          "like_count": 4377,
+          "listed_count": 0,
+          "media_count": 366,
+          "tweet_count": 5025
+        },
+        "username": "yuyuYYUU0901",
+        "verified": false
+      }
+    ]
+  }
+}

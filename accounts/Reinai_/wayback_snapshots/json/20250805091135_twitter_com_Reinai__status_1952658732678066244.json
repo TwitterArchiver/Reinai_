@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "1952648312504369427",
+    "created_at": "2025-08-05T09:11:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T10:11:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952658732678066244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1914046337903190016",
+          "start": 0,
+          "username": "omiyagetw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952658732678066244",
+    "in_reply_to_user_id": "1914046337903190016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952655537184690380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@omiyagetw 這很可愛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "1952648312504369427",
+        "created_at": "2025-08-05T09:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T10:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952658732678066244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1914046337903190016",
+              "start": 0,
+              "username": "omiyagetw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952658732678066244",
+        "in_reply_to_user_id": "1914046337903190016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952655537184690380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@omiyagetw 這很可愛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914046337903190016",
+        "conversation_id": "1952648312504369427",
+        "created_at": "2025-08-05T08:58:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T09:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952655537184690380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1668234754125344768",
+              "start": 0,
+              "username": "Reinai_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952655537184690380",
+        "in_reply_to_user_id": "1668234754125344768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952648312504369427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reinai_ 各有特色啦，這個剛好合圓圓的圖框"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952648141670350848/gqswgxe__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 211,
+          "like_count": 187,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 82
+        },
+        "username": "Reinai_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-20T19:59:56.000Z",
+        "description": "台灣/男/INTJ/極度厭惡約炮及嫖/喜愛遊戲、音樂/努力當個正常人/PC、steam小遊戲/匿名箱：https://t.co/Ym8YNh3M4i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/omiyagetw",
+                "end": 74,
+                "expanded_url": "https://ngl.link/omiyagetw",
+                "start": 51,
+                "url": "https://t.co/Ym8YNh3M4i"
+              }
+            ]
+          }
+        },
+        "id": "1914046337903190016",
+        "name": "歐米Omi",
+        "pinned_tweet_id": "1951027399522656747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930669088738828289/BPD-zSvM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 90,
+          "like_count": 5943,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 2862
+        },
+        "username": "omiyagetw",
+        "verified": false
+      }
+    ]
+  }
+}

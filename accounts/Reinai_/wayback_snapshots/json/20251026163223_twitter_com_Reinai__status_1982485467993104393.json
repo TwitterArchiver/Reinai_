@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "1981401173228998758",
+    "created_at": "2025-10-26T16:32:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T17:32:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982485467993104393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1385212581342683139",
+          "start": 0,
+          "username": "SKYEN20011217"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982485467993104393",
+    "in_reply_to_user_id": "1385212581342683139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982484965133836618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SKYEN20011217 還有兩本我也很喜歡 愛死了和我是很骯髒的那種怪物 三本都是同個作者"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "1981401173228998758",
+        "created_at": "2025-10-26T16:32:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T17:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982485467993104393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1385212581342683139",
+              "start": 0,
+              "username": "SKYEN20011217"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982485467993104393",
+        "in_reply_to_user_id": "1385212581342683139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982484965133836618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SKYEN20011217 還有兩本我也很喜歡 愛死了和我是很骯髒的那種怪物 三本都是同個作者"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1385212581342683139",
+        "conversation_id": "1981401173228998758",
+        "created_at": "2025-10-26T16:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T17:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982484965133836618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1668234754125344768",
+              "start": 0,
+              "username": "Reinai_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982484965133836618",
+        "in_reply_to_user_id": "1668234754125344768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982484625839792203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reinai_ 好！買了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 405,
+          "like_count": 602,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 383
+        },
+        "username": "Reinai_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-22T12:43:22.000Z",
+        "description": "我渴望已死為目的的愛\n我無法回應那些善意\n感覺不到被愛的你，嘗試著甚麼",
+        "id": "1385212581342683139",
+        "location": "Taiwan",
+        "name": "齋椧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978756699369705472/3eVJcceg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 241,
+          "like_count": 2803,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1496
+        },
+        "username": "SKYEN20011217",
+        "verified": false
+      }
+    ]
+  }
+}

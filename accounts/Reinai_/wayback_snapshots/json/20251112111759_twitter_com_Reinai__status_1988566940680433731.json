@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "1988566940680433731",
+    "created_at": "2025-11-12T11:17:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T12:17:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988566940680433731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1784624918484934656",
+          "start": 3,
+          "username": "meowmeowmeow0v0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988566940680433731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988209970396246184",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @meowmeowmeow0v0: 其实我觉得分手后至少三个月空窗期是对感情的基本尊重。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "1988566940680433731",
+        "created_at": "2025-11-12T11:17:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T12:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988566940680433731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1784624918484934656",
+              "start": 3,
+              "username": "meowmeowmeow0v0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988566940680433731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988209970396246184",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @meowmeowmeow0v0: 其实我觉得分手后至少三个月空窗期是对感情的基本尊重。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784624918484934656",
+        "conversation_id": "1988209970396246184",
+        "created_at": "2025-11-11T11:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T12:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988209970396246184"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988209970396246184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 117489,
+          "like_count": 600,
+          "quote_count": 6,
+          "reply_count": 51,
+          "retweet_count": 33
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "其实我觉得分手后至少三个月空窗期是对感情的基本尊重。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "pinned_tweet_id": "1984216096094962091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 437,
+          "like_count": 735,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 456
+        },
+        "username": "Reinai_",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-28T16:45:21.000Z",
+        "description": "^ ^我要稳稳的幸福^ ^",
+        "id": "1784624918484934656",
+        "location": "🚪",
+        "name": "小泡芙",
+        "pinned_tweet_id": "1987073899092451541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784625145946198016/oVr17f0k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30613,
+          "following_count": 68,
+          "like_count": 10469,
+          "listed_count": 67,
+          "media_count": 156,
+          "tweet_count": 2675
+        },
+        "username": "meowmeowmeow0v0",
+        "verified": false
+      }
+    ]
+  }
+}

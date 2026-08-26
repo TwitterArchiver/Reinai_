@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992954590841483264"
+      ],
+      "media_source_tweet_id": [
+        "1992954594172019194"
+      ]
+    },
+    "author_id": "1668234754125344768",
+    "conversation_id": "1993448883129925821",
+    "created_at": "2025-11-25T22:37:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T23:37:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993448883129925821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1532058956461375488",
+          "start": 3,
+          "username": "crivirdo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ufGw2olYVg",
+          "end": 37,
+          "expanded_url": "https://x.com/crivirdo/status/1992954594172019194/photo/1",
+          "media_key": "3_1992954590841483264",
+          "start": 14,
+          "url": "https://t.co/ufGw2olYVg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993448883129925821",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992954594172019194",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @crivirdo: https://t.co/ufGw2olYVg"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1993448883129925821].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1993448883129925821",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1993448883129925821"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1299,
+        "media_key": "3_1992954590841483264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6hlpCiXMAAJadm.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992954590841483264"
+          ]
+        },
+        "author_id": "1532058956461375488",
+        "conversation_id": "1992954594172019194",
+        "created_at": "2025-11-24T13:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T14:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992954594172019194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ufGw2olYVg",
+              "end": 23,
+              "expanded_url": "https://x.com/crivirdo/status/1992954594172019194/photo/1",
+              "media_key": "3_1992954590841483264",
+              "start": 0,
+              "url": "https://t.co/ufGw2olYVg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992954594172019194",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 1591,
+          "like_count": 253,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ufGw2olYVg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "pinned_tweet_id": "1984216096094962091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 455,
+          "like_count": 861,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 505
+        },
+        "username": "Reinai_",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-01T17:58:24.000Z",
+        "description": "Dont report just block!! Thank youc: | under 15 dni, thx &stay safe🫶 | priv: @crivird0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "crivird0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "crivirdos.straw.page",
+                "end": 23,
+                "expanded_url": "https://crivirdos.straw.page/",
+                "start": 0,
+                "url": "https://t.co/7FL009Qcl7"
+              }
+            ]
+          }
+        },
+        "id": "1532058956461375488",
+        "location": "HE/she,, ",
+        "name": "riຖ ໐f Şhtຟt 🍊 // discharged !",
+        "pinned_tweet_id": "1989319100452003873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924205142410153985/DIk-b4Sh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5850,
+          "following_count": 876,
+          "like_count": 10493,
+          "listed_count": 11,
+          "media_count": 623,
+          "tweet_count": 2287
+        },
+        "url": "https://t.co/7FL009Qcl7",
+        "username": "crivirdo",
+        "verified": false
+      }
+    ]
+  }
+}

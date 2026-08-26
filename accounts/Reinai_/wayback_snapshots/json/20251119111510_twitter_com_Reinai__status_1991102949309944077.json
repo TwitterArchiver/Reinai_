@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "1991102949309944077",
+    "created_at": "2025-11-19T11:15:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T12:15:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991102949309944077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1757256163564118016",
+          "start": 3,
+          "username": "yqsod47292"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991102949309944077",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991088570241556572",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yqsod47292: 大家好～我是沉黎可以叫我小黎っ ̫ ‹ \n涉略 地雷/清楚/量產 女孩子擴列大歡迎♡\n歡迎任何人找我聊天哇 但請不要傳奇怪的照片給我Σ(*oωo*)!?我會很困擾的꒰՞ɞ̴̶̷̥⩊ɞ̴̶̷̥꒱֯\n無任何任何線下跟門檻 但歡迎好心人投餵～\n822…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_1991088562553712640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6HEf5dbcAAJ0t4.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "1991102949309944077",
+        "created_at": "2025-11-19T11:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T12:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991102949309944077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1757256163564118016",
+              "start": 3,
+              "username": "yqsod47292"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991102949309944077",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991088570241556572",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yqsod47292: 大家好～我是沉黎可以叫我小黎っ ̫ ‹ \n涉略 地雷/清楚/量產 女孩子擴列大歡迎♡\n歡迎任何人找我聊天哇 但請不要傳奇怪的照片給我Σ(*oωo*)!?我會很困擾的꒰՞ɞ̴̶̷̥⩊ɞ̴̶̷̥꒱֯\n無任何任何線下跟門檻 但歡迎好心人投餵～\n822…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991088562553712640"
+          ]
+        },
+        "author_id": "1757256163564118016",
+        "conversation_id": "1991088570241556572",
+        "created_at": "2025-11-19T10:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T11:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991088570241556572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yay9uHElfA",
+              "end": 198,
+              "expanded_url": "https://x.com/yqsod47292/status/1991088570241556572/photo/1",
+              "media_key": "3_1991088562553712640",
+              "start": 175,
+              "url": "https://t.co/yay9uHElfA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991088570241556572",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 359,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "大家好～我是沉黎可以叫我小黎っ ̫ ‹ \n涉略 地雷/清楚/量產 女孩子擴列大歡迎♡\n歡迎任何人找我聊天哇 但請不要傳奇怪的照片給我Σ(*oωo*)!?我會很困擾的꒰՞ɞ̴̶̷̥⩊ɞ̴̶̷̥꒱֯\n無任何任何線下跟門檻 但歡迎好心人投餵～\n822 521540384192\n因為是我朋友的帳戶所以投餵後記得告知( ꜆ᵒ̴̶̷̥́ㅿᵒ̴̶̷̣̥̀ )꜆ https://t.co/yay9uHElfA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "pinned_tweet_id": "1984216096094962091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 449,
+          "like_count": 781,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 482
+        },
+        "username": "Reinai_",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-13T04:11:56.000Z",
+        "description": "長期接塔羅及各種儀式 接各種二次元夢女夢占",
+        "id": "1757256163564118016",
+        "location": "喵",
+        "name": "沉黎（接塔羅版",
+        "pinned_tweet_id": "1991088570241556572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990377721965473792/Ci2rar8u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1584,
+          "following_count": 78,
+          "like_count": 1200,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 540
+        },
+        "username": "yqsod47292",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "2088301813887807768",
+    "created_at": "2026-08-14T16:58:44.000Z",
+    "display_text_range": [
+      14,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T17:58:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088309357528461355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2027785341495873540",
+          "start": 0,
+          "username": "Zhouzhou28ep"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088309357528461355",
+    "in_reply_to_user_id": "2027785341495873540",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088301813887807768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zhouzhou28ep 🎍比我好看的没我骚🌻🌕比我骚的没我好看👿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "2088301813887807768",
+        "created_at": "2026-08-14T16:58:44.000Z",
+        "display_text_range": [
+          14,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T17:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088309357528461355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2027785341495873540",
+              "start": 0,
+              "username": "Zhouzhou28ep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088309357528461355",
+        "in_reply_to_user_id": "2027785341495873540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088301813887807768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhouzhou28ep 🎍比我好看的没我骚🌻🌕比我骚的没我好看👿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027785341495873540",
+        "conversation_id": "2088301813887807768",
+        "created_at": "2026-08-14T16:28:45.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T17:28:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088301813887807768"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088301813887807768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的福不黑不信你看😍"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "聽團 | 查成分回fo回私信\n不聊騷不賣福不約",
+        "id": "1668234754125344768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088309357528461355",
+        "name": "魚",
+        "pinned_tweet_id": "2088014202200068324",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1668234754125344768/1756263536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087966983476436992/PFSRGZXf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 536,
+          "like_count": 1648,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 510
+        },
+        "url": "",
+        "username": "Reinai_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-28T16:39:01.000Z",
+        "description": "本人没素质傻逼一个此账号发表的所有言论,意在取悦自己,并通过文字或图片强制干预他人的思想,如果翻阅之后出现不适等症状,恭喜你,你怀了我的孩子 查成分回fo 非互关扩列🚪5",
+        "id": "2027785341495873540",
+        "is_identity_verified": false,
+        "location": "地狱",
+        "most_recent_tweet_id": "2088301813887807768",
+        "name": "zhou",
+        "pinned_tweet_id": "2087256331161936304",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2027785341495873540/1786110842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085726540848152576/cmX7prxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 117,
+          "like_count": 708,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 268
+        },
+        "url": "",
+        "username": "Zhouzhou28ep",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

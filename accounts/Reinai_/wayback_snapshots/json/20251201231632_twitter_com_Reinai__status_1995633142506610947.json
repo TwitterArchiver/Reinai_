@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "1995633142506610947",
+    "created_at": "2025-12-01T23:16:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T00:16:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995633142506610947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1960187829687885824",
+          "start": 3,
+          "username": "huaxuejilebaike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995633142506610947",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995463102775669058",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huaxuejilebaike: 小药娘划个表皮，评论区哭哭抱抱\n地雷女割破脂肪层，评论区无人问津"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "1995633142506610947",
+        "created_at": "2025-12-01T23:16:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T00:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995633142506610947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1960187829687885824",
+              "start": 3,
+              "username": "huaxuejilebaike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995633142506610947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995463102775669058",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huaxuejilebaike: 小药娘划个表皮，评论区哭哭抱抱\n地雷女割破脂肪层，评论区无人问津"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960187829687885824",
+        "conversation_id": "1995463102775669058",
+        "created_at": "2025-12-01T12:00:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T13:00:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995463102775669058"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995463102775669058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 31389,
+          "like_count": 424,
+          "quote_count": 2,
+          "reply_count": 28,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "小药娘划个表皮，评论区哭哭抱抱\n地雷女割破脂肪层，评论区无人问津"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "pinned_tweet_id": "1984216096094962091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 462,
+          "like_count": 913,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 527
+        },
+        "username": "Reinai_",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-26T03:49:38.000Z",
+        "description": "官方网站:https://t.co/ZQnAUQtDTs\n交流群:https://t.co/FvFWw9JRYc\n社区:https://t.co/JwQ9mOUfK6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 28,
+                "expanded_url": "https://overdose.day",
+                "start": 5,
+                "url": "https://t.co/ZQnAUQtDTs"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaik…",
+                "end": 56,
+                "expanded_url": "https://t.me/huaxuejilebaike666",
+                "start": 33,
+                "url": "https://t.co/FvFWw9JRYc"
+              },
+              {
+                "display_url": "pr80.bid",
+                "end": 83,
+                "expanded_url": "https://pr80.bid/",
+                "start": 60,
+                "url": "https://t.co/JwQ9mOUfK6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://overdose.day/",
+                "start": 0,
+                "url": "https://t.co/DM4fmdhL9V"
+              }
+            ]
+          }
+        },
+        "id": "1960187829687885824",
+        "name": "化学极乐百科🍥",
+        "pinned_tweet_id": "1989571076804989237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988121341233606656/UFOxlPsN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3593,
+          "following_count": 1190,
+          "like_count": 622,
+          "listed_count": 2,
+          "media_count": 171,
+          "tweet_count": 1025
+        },
+        "url": "https://t.co/DM4fmdhL9V",
+        "username": "huaxuejilebaike",
+        "verified": false
+      }
+    ]
+  }
+}

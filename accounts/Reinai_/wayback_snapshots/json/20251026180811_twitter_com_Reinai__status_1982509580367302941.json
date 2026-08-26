@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "1981109686977044793",
+    "created_at": "2025-10-26T18:08:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T19:08:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982509580367302941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1486755570694729729",
+          "start": 0,
+          "username": "inks_chain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982509580367302941",
+    "in_reply_to_user_id": "1486755570694729729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981109686977044793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@inks_chain 誰開疼痛共享了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 54106,
+        "height": 1280,
+        "media_key": "7_1981109566042464256",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1981109566042464256/pu/img/GFEqEXPXY2UCX-O1.jpg",
+        "public_metrics": {
+          "view_count": 34
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1981109566042464256/pu/vid/avc1/320x568/IDk1Y8gdj62CjjoC.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1981109566042464256/pu/vid/avc1/480x852/5_m9FWqrcfnMI9PE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1981109566042464256/pu/vid/avc1/720x1280/gA0Mw8yyNf3Rpj_X.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1981109566042464256/pu/pl/FxFCVhM_TXPfZA4O.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "1981109686977044793",
+        "created_at": "2025-10-26T18:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T19:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982509580367302941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1486755570694729729",
+              "start": 0,
+              "username": "inks_chain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982509580367302941",
+        "in_reply_to_user_id": "1486755570694729729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981109686977044793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inks_chain 誰開疼痛共享了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1981109566042464256"
+          ]
+        },
+        "author_id": "1486755570694729729",
+        "conversation_id": "1981109686977044793",
+        "created_at": "2025-10-22T21:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T22:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981109686977044793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jNH6Jv42xN",
+              "end": 43,
+              "expanded_url": "https://x.com/inks_chain/status/1981109686977044793/video/1",
+              "media_key": "7_1981109566042464256",
+              "start": 20,
+              "url": "https://t.co/jNH6Jv42xN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981109686977044793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好爽喵，酒精泼洒到伤口上，又是一次舒爽 https://t.co/jNH6Jv42xN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 403,
+          "like_count": 605,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 385
+        },
+        "username": "Reinai_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-27T17:38:56.000Z",
+        "description": "05/od/自残/自杀倾向/CS：GO/三角洲行动/MC/音游/舟/其他也会玩只要有人陪/基本不见证/99%性冷淡/减肥中/有自己的小天使/日常活动区域：重庆/四川/（以后可能有广东和上海） 。号主完全以天使中心性格恶劣大家不要被坏男人骗了（欢迎找我要天使赞赏码并期待给她的口令红包）小天使@angeldust_g",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "angeldust_g"
+              }
+            ]
+          }
+        },
+        "id": "1486755570694729729",
+        "name": "ヰ世界优泠",
+        "pinned_tweet_id": "1968515087435530611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971357818285613056/uztkWkW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 345,
+          "like_count": 4309,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 1693
+        },
+        "username": "inks_chain",
+        "verified": true
+      }
+    ]
+  }
+}

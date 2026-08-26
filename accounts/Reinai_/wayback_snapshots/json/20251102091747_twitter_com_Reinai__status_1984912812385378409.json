@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "1984912812385378409",
+    "created_at": "2025-11-02T09:17:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T10:17:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984912812385378409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1880306944784887811",
+          "start": 3,
+          "username": "yuyuYYUU0901"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984912812385378409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984841282297217110",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuyuYYUU0901: 離家出走了誰在台北能收留我新北也行呃歐最壞桃園也行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "1984912812385378409",
+        "created_at": "2025-11-02T09:17:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T10:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984912812385378409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1880306944784887811",
+              "start": 3,
+              "username": "yuyuYYUU0901"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984912812385378409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984841282297217110",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuyuYYUU0901: 離家出走了誰在台北能收留我新北也行呃歐最壞桃園也行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880306944784887811",
+        "conversation_id": "1984841282297217110",
+        "created_at": "2025-11-02T04:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T05:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984841282297217110"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984841282297217110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 215,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "離家出走了誰在台北能收留我新北也行呃歐最壞桃園也行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "pinned_tweet_id": "1984216096094962091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 422,
+          "like_count": 663,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 414
+        },
+        "username": "Reinai_",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-17T17:31:36.000Z",
+        "description": "跨性別者，憂鬱症，焦慮症，擬似被害妄想症\ncoser/大量吃谷/缺愛/缺錢/od/飲血/自殺未遂/自殘/休學/mtf/性取向女/地雷/INFP\n求找我約純綠拜託拜託拜託\n這就是魚魚\n沒人愛沒人在意的魚魚",
+        "id": "1880306944784887811",
+        "location": "New Taipei City, Taiwan",
+        "name": "凍鱼",
+        "pinned_tweet_id": "1982508384818778372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971540131166535680/ICkAyUwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 694,
+          "like_count": 4285,
+          "listed_count": 0,
+          "media_count": 354,
+          "tweet_count": 4837
+        },
+        "username": "yuyuYYUU0901",
+        "verified": false
+      }
+    ]
+  }
+}

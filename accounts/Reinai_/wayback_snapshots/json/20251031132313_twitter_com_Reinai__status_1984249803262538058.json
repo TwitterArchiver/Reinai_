@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "1984249383827980702",
+    "created_at": "2025-10-31T13:23:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T14:23:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984249803262538058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1486755570694729729",
+          "start": 0,
+          "username": "inks_chain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984249803262538058",
+    "in_reply_to_user_id": "1486755570694729729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984249383827980702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@inks_chain 媽媽我沒錢了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_1984249375376412674",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4l4Sz0aEAIEpV9.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "1984249383827980702",
+        "created_at": "2025-10-31T13:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T14:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984249803262538058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1486755570694729729",
+              "start": 0,
+              "username": "inks_chain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984249803262538058",
+        "in_reply_to_user_id": "1486755570694729729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984249383827980702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inks_chain 媽媽我沒錢了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984249375376412674"
+          ]
+        },
+        "author_id": "1486755570694729729",
+        "conversation_id": "1984249383827980702",
+        "created_at": "2025-10-31T13:21:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T14:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984249383827980702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 33,
+              "id": "1360522586317348865",
+              "start": 22,
+              "username": "nanami_mua"
+            },
+            {
+              "end": 50,
+              "id": "1926785911011811328",
+              "start": 34,
+              "username": "rAi9Nobi5m57545"
+            },
+            {
+              "end": 69,
+              "id": "1916128320103890944",
+              "start": 57,
+              "username": "Angeldust_g"
+            },
+            {
+              "end": 90,
+              "id": "1639894055948816387",
+              "start": 76,
+              "username": "sakumamutsuki"
+            },
+            {
+              "end": 99,
+              "id": "1668234754125344768",
+              "start": 91,
+              "username": "Reinai_"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infintytweet.me/family-tree?la…",
+              "end": 127,
+              "expanded_url": "https://infintytweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1981772101838417922/SXlSe65L?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1981772101838417922/SXlSe65L?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 104,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infintytweet.me/family-tree?lang=zh",
+              "url": "https://t.co/em00klYMuj"
+            },
+            {
+              "display_url": "pic.x.com/3Klrtdh8IU",
+              "end": 151,
+              "expanded_url": "https://x.com/inks_chain/status/1984249383827980702/photo/1",
+              "media_key": "3_1984249375376412674",
+              "start": 128,
+              "url": "https://t.co/3Klrtdh8IU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984249383827980702",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @nanami_mua @rAi9Nobi5m57545\n👰 配偶: @Angeldust_g\n👶 孩子: @sakumamutsuki @Reinai_\n\n➡️ https://t.co/em00klYMuj https://t.co/3Klrtdh8IU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "pinned_tweet_id": "1984216096094962091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 419,
+          "like_count": 656,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 410
+        },
+        "username": "Reinai_",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-27T17:38:56.000Z",
+        "description": "05/od/自残/自杀倾向/CS：GO/三角洲行动/MC/音游/舟/其他也会玩只要有人陪/基本不见证/99%性冷淡/减肥中/有自己的小天使。/号主完全以天使中心性格恶劣大家不要被坏男人骗了（欢迎找我要天使赞赏码并期待给她的口令红包）小天使@angeldust_g",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 119,
+                "username": "angeldust_g"
+              }
+            ]
+          }
+        },
+        "id": "1486755570694729729",
+        "name": "ヰ世界优泠_8964",
+        "pinned_tweet_id": "1968515087435530611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983866493860528128/CtbYMhHm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 357,
+          "like_count": 4431,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1727
+        },
+        "username": "inks_chain",
+        "verified": true
+      }
+    ]
+  }
+}

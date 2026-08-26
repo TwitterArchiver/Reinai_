@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "1954068585447665989",
+    "created_at": "2025-08-09T06:33:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T07:33:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954068585447665989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1863473278247141376",
+          "start": 3,
+          "username": "qaq5777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954068585447665989",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953738845285204171",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qaq5777: 被骂好爽  被吃醋好爽 被占有好爽 被质问好爽  被控制好爽  被逼问好爽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "1954068585447665989",
+        "created_at": "2025-08-09T06:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T07:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954068585447665989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1863473278247141376",
+              "start": 3,
+              "username": "qaq5777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954068585447665989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953738845285204171",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qaq5777: 被骂好爽  被吃醋好爽 被占有好爽 被质问好爽  被控制好爽  被逼问好爽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863473278247141376",
+        "conversation_id": "1953738845285204171",
+        "created_at": "2025-08-08T08:43:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T09:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953738845285204171"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953738845285204171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10185,
+          "like_count": 83,
+          "quote_count": 5,
+          "reply_count": 15,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "被骂好爽  被吃醋好爽 被占有好爽 被质问好爽  被控制好爽  被逼问好爽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952648141670350848/gqswgxe__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 247,
+          "like_count": 217,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 96
+        },
+        "username": "Reinai_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T06:40:37.000Z",
+        "description": "日记本 ｜我爱故我在｜自用🪜 https://t.co/clDC5C127S",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kbg.mi.le.mileoffice.com/index.php#/reg…",
+                "end": 38,
+                "expanded_url": "https://kbg.mi.le.mileoffice.com/index.php#/register?code=0xQPXqQf",
+                "start": 15,
+                "url": "https://t.co/clDC5C127S"
+              }
+            ]
+          }
+        },
+        "id": "1863473278247141376",
+        "location": "置顶关评推广自辨",
+        "name": "不加冰",
+        "pinned_tweet_id": "1953443779530350682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895054154084564992/SkRpTx_F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38846,
+          "following_count": 309,
+          "like_count": 10747,
+          "listed_count": 72,
+          "media_count": 153,
+          "tweet_count": 4369
+        },
+        "username": "qaq5777",
+        "verified": false
+      }
+    ]
+  }
+}

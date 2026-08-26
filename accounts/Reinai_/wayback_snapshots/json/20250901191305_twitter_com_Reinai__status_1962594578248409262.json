@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "1962551183106806013",
+    "created_at": "2025-09-01T19:13:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T20:13:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962594578248409262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845491203124441093",
+          "start": 0,
+          "username": "yu_huacs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962594578248409262",
+    "in_reply_to_user_id": "1845491203124441093",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962551183106806013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu_huacs 抱抱余華"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3655,
+        "height": 720,
+        "media_key": "7_1962551162626064384",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1962551162626064384/pu/img/PLk7_R7Rq5l9jPv1.jpg",
+        "public_metrics": {
+          "view_count": 36
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1962551162626064384/pu/vid/avc1/480x270/6P9NtS0uvb2Zz0Ue.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1962551162626064384/pu/vid/avc1/640x360/ounF4PI83xf2q0x-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1962551162626064384/pu/vid/avc1/1280x720/7ZUcHW8kVOgD8fga.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1962551162626064384/pu/pl/Ks5AZikZT1ju2GAz.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "1962551183106806013",
+        "created_at": "2025-09-01T19:13:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T20:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962594578248409262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845491203124441093",
+              "start": 0,
+              "username": "yu_huacs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962594578248409262",
+        "in_reply_to_user_id": "1845491203124441093",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962551183106806013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu_huacs 抱抱余華"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1962551162626064384"
+          ]
+        },
+        "author_id": "1845491203124441093",
+        "conversation_id": "1962551183106806013",
+        "created_at": "2025-09-01T16:20:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T17:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962551183106806013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3NeYXKpvmx",
+              "end": 23,
+              "expanded_url": "https://x.com/yu_huacs/status/1962551183106806013/video/1",
+              "media_key": "7_1962551162626064384",
+              "start": 0,
+              "url": "https://t.co/3NeYXKpvmx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962551183106806013",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3NeYXKpvmx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 327,
+          "like_count": 357,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 197
+        },
+        "username": "Reinai_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T15:46:25.000Z",
+        "description": "不知名的yu huacs \n友所有群体 最喜欢的是朋友们\n\n成分复杂 双相治疗中 overdose lain 公路车\n第二人格 @yuhuacs5570\n最好の兄弟@Lizzy6315",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 64,
+                "username": "yuhuacs5570"
+              },
+              {
+                "end": 92,
+                "start": 82,
+                "username": "Lizzy6315"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yu_huacs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yu_huacs",
+                "start": 0,
+                "url": "https://t.co/fGARwmdWCT"
+              }
+            ]
+          }
+        },
+        "id": "1845491203124441093",
+        "location": "你的心里",
+        "name": "余华成霜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962121961225793536/84wpXl9U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 989,
+          "following_count": 976,
+          "like_count": 85003,
+          "listed_count": 11,
+          "media_count": 1640,
+          "tweet_count": 14378
+        },
+        "url": "https://t.co/fGARwmdWCT",
+        "username": "yu_huacs",
+        "verified": false
+      }
+    ]
+  }
+}

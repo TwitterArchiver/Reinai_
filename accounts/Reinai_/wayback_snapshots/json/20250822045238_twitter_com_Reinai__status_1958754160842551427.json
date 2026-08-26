@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "1957879047268233656",
+    "created_at": "2025-08-22T04:52:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T05:52:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958754160842551427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1819265456928350208",
+          "start": 0,
+          "username": "bwfyzwy2024"
+        },
+        {
+          "end": 24,
+          "id": "1124658845664653314",
+          "start": 13,
+          "username": "CY_Mystica"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958754160842551427",
+    "in_reply_to_user_id": "1819265456928350208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958714731851882930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bwfyzwy2024 @CY_Mystica 真可憐 生活挺不如意吧只能在這看見誰都吠兩下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "1957879047268233656",
+        "created_at": "2025-08-22T04:52:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T05:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958754160842551427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1819265456928350208",
+              "start": 0,
+              "username": "bwfyzwy2024"
+            },
+            {
+              "end": 24,
+              "id": "1124658845664653314",
+              "start": 13,
+              "username": "CY_Mystica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958754160842551427",
+        "in_reply_to_user_id": "1819265456928350208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958714731851882930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bwfyzwy2024 @CY_Mystica 真可憐 生活挺不如意吧只能在這看見誰都吠兩下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819265456928350208",
+        "conversation_id": "1957879047268233656",
+        "created_at": "2025-08-22T02:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T03:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958714731851882930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1668234754125344768",
+              "start": 0,
+              "username": "Reinai_"
+            },
+            {
+              "end": 20,
+              "id": "1124658845664653314",
+              "start": 9,
+              "username": "CY_Mystica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958714731851882930",
+        "in_reply_to_user_id": "1668234754125344768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958587585250644276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reinai_ @CY_Mystica 你死前面哦 废物东西 我把你全家给杀了 司马烂蛆货色"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952648141670350848/gqswgxe__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 291,
+          "like_count": 275,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 142
+        },
+        "username": "Reinai_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-02T06:54:29.000Z",
+        "description": "",
+        "id": "1819265456928350208",
+        "name": "jy9810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819267475303018496/AhqLksZQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 27
+        },
+        "username": "bwfyzwy2024",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "弦月是世界上最不安的人 | od |ed |自伤 | 中文/Eng/Ita/ESP🤍#shtwt #drugtwt @kagengetsu_1备用🩵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 48,
+                "start": 42,
+                "tag": "shtwt"
+              },
+              {
+                "end": 57,
+                "start": 49,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 71,
+                "start": 58,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "1954639888181252378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1207,
+          "following_count": 269,
+          "like_count": 1354,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 1619
+        },
+        "username": "CY_Mystica",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "2087649185495667155",
+    "created_at": "2026-08-13T07:21:34.000Z",
+    "display_text_range": [
+      14,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T08:21:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087801721426739304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2065114684957868033",
+          "start": 0,
+          "username": "i_no_ri_2739"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087801721426739304",
+    "in_reply_to_user_id": "2065114684957868033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087770376973787169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@i_no_ri_2739 我沒有很想享受這場雨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "2087649185495667155",
+        "created_at": "2026-08-13T07:21:34.000Z",
+        "display_text_range": [
+          14,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T08:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087801721426739304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2065114684957868033",
+              "start": 0,
+              "username": "i_no_ri_2739"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087801721426739304",
+        "in_reply_to_user_id": "2065114684957868033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087770376973787169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@i_no_ri_2739 我沒有很想享受這場雨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065114684957868033",
+        "conversation_id": "2087649185495667155",
+        "created_at": "2026-08-13T05:17:01.000Z",
+        "display_text_range": [
+          9,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T06:17:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087770376973787169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1668234754125344768",
+              "start": 0,
+              "username": "Reinai_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087770376973787169",
+        "in_reply_to_user_id": "1668234754125344768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087649185495667155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reinai_ 降雨機率唱兩次 還大雨 浪漫了都"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "聽團 | 查成分回fo\n不聊騷不賣福不約",
+        "id": "1668234754125344768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087801721426739304",
+        "name": "魚",
+        "pinned_tweet_id": "1984216096094962091",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1668234754125344768/1756263536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087066267199143936/q9jo3pQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 455,
+          "like_count": 1470,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 496
+        },
+        "url": "",
+        "username": "Reinai_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-11T16:53:13.000Z",
+        "description": "唸一NO粒｜聽團｜從沒感覺到自己過得好｜前帳號有事燒香｜「感性外溢 理性癫狂」",
+        "id": "2065114684957868033",
+        "is_identity_verified": false,
+        "location": "我們、在、偽",
+        "most_recent_tweet_id": "2087799371467518167",
+        "name": "暴風雨中還能有誰",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065117126575468544/qqGWaXqn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 123,
+          "like_count": 917,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 345
+        },
+        "url": "",
+        "username": "i_no_ri_2739",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

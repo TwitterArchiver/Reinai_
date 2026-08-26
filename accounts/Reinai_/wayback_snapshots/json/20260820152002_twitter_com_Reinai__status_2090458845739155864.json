@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "2090458845739155864",
+    "created_at": "2026-08-20T15:20:02.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T16:20:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090458845739155864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1668234754125344768",
+          "start": 3,
+          "username": "Reinai_"
+        }
+      ],
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/yu36625",
+          "end": 45,
+          "expanded_url": "https://ngl.link/yu36625",
+          "start": 22,
+          "status": 200,
+          "title": "@yu: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/yu36625",
+          "url": "https://t.co/Wuv0oCORvs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090458845739155864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088014202200068324",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Reinai_: 太無聊了搞了匿名\nhttps://t.co/Wuv0oCORvs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "2090458845739155864",
+        "created_at": "2026-08-20T15:20:02.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T16:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090458845739155864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1668234754125344768",
+              "start": 3,
+              "username": "Reinai_"
+            }
+          ],
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/yu36625",
+              "end": 45,
+              "expanded_url": "https://ngl.link/yu36625",
+              "start": 22,
+              "status": 200,
+              "title": "@yu: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/yu36625",
+              "url": "https://t.co/Wuv0oCORvs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090458845739155864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088014202200068324",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @Reinai_: 太無聊了搞了匿名\nhttps://t.co/Wuv0oCORvs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "2088014202200068324",
+        "created_at": "2026-08-13T21:25:53.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T22:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088014202200068324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/yu36625",
+              "end": 32,
+              "expanded_url": "https://ngl.link/yu36625",
+              "start": 9,
+              "status": 200,
+              "title": "@yu: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/yu36625",
+              "url": "https://t.co/Wuv0oCORvs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088014202200068324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3751,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "太無聊了搞了匿名\nhttps://t.co/Wuv0oCORvs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "🇹🇼|2011|生理女|🩸💊\n查成分回fo回私信\n不聊騷不賣福不約\n直fo就是喜歡你",
+        "id": "1668234754125344768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090458845739155864",
+        "name": "魚",
+        "pinned_tweet_id": "2088014202200068324",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1668234754125344768/1756263536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087966983476436992/PFSRGZXf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 688,
+          "like_count": 1974,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 596
+        },
+        "url": "",
+        "username": "Reinai_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

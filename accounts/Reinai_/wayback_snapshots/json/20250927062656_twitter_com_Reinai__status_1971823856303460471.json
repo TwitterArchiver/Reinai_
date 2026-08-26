@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "1971624718160802105",
+    "created_at": "2025-09-27T06:26:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T07:26:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971823856303460471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1572252869923057664",
+          "start": 0,
+          "username": "h1kari_t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971823856303460471",
+    "in_reply_to_user_id": "1572252869923057664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971624718160802105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@h1kari_t 好萌好萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1971624710682316800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1yeOm6aEAAWr0o.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "1971624718160802105",
+        "created_at": "2025-09-27T06:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T07:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971823856303460471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1572252869923057664",
+              "start": 0,
+              "username": "h1kari_t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971823856303460471",
+        "in_reply_to_user_id": "1572252869923057664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971624718160802105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h1kari_t 好萌好萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971624710682316800"
+          ]
+        },
+        "author_id": "1572252869923057664",
+        "conversation_id": "1971624718160802105",
+        "created_at": "2025-09-26T17:15:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T18:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971624718160802105"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q99pPQizoj",
+              "end": 31,
+              "expanded_url": "https://x.com/h1kari_t/status/1971624718160802105/photo/1",
+              "media_key": "3_1971624710682316800",
+              "start": 8,
+              "url": "https://t.co/q99pPQizoj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971624718160802105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 313,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "關係變成沒關係 https://t.co/q99pPQizoj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 359,
+          "like_count": 481,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 282
+        },
+        "username": "Reinai_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-20T15:54:40.000Z",
+        "description": "光ひかり，也有可能消失了",
+        "id": "1572252869923057664",
+        "location": "天国",
+        "name": "⭐︎未来電波基地",
+        "pinned_tweet_id": "1958824887302123888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971687231493722113/VXWzVhWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 113,
+          "like_count": 9284,
+          "listed_count": 1,
+          "media_count": 191,
+          "tweet_count": 1331
+        },
+        "username": "h1kari_t",
+        "verified": false
+      }
+    ]
+  }
+}

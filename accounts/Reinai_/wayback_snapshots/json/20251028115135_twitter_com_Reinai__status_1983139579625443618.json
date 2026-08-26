@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982733028477554688"
+      ],
+      "media_source_tweet_id": [
+        "1982733031850049662"
+      ]
+    },
+    "author_id": "1668234754125344768",
+    "conversation_id": "1983139579625443618",
+    "created_at": "2025-10-28T11:51:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T12:51:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983139579625443618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1709089394387542016",
+          "start": 3,
+          "username": "xqnglng546419"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aCWhwvR37T",
+          "end": 59,
+          "expanded_url": "https://x.com/xqnglng546419/status/1982733031850049662/photo/1",
+          "media_key": "3_1982733028477554688",
+          "start": 36,
+          "url": "https://t.co/aCWhwvR37T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983139579625443618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 133
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982733031850049662",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xqnglng546419: 我只是想找个能和我一直说话的人。 https://t.co/aCWhwvR37T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1007,
+        "media_key": "3_1982733028477554688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4QVLzbW0AAeJoy.jpg",
+        "width": 1007
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982733028477554688"
+          ],
+          "media_source_tweet_id": [
+            "1982733031850049662"
+          ]
+        },
+        "author_id": "1668234754125344768",
+        "conversation_id": "1983139579625443618",
+        "created_at": "2025-10-28T11:51:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T12:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983139579625443618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1709089394387542016",
+              "start": 3,
+              "username": "xqnglng546419"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aCWhwvR37T",
+              "end": 59,
+              "expanded_url": "https://x.com/xqnglng546419/status/1982733031850049662/photo/1",
+              "media_key": "3_1982733028477554688",
+              "start": 36,
+              "url": "https://t.co/aCWhwvR37T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983139579625443618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 133
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982733031850049662",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xqnglng546419: 我只是想找个能和我一直说话的人。 https://t.co/aCWhwvR37T"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982733028477554688"
+          ]
+        },
+        "author_id": "1709089394387542016",
+        "conversation_id": "1982733031850049662",
+        "created_at": "2025-10-27T08:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T09:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982733031850049662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aCWhwvR37T",
+              "end": 40,
+              "expanded_url": "https://x.com/xqnglng546419/status/1982733031850049662/photo/1",
+              "media_key": "3_1982733028477554688",
+              "start": 17,
+              "url": "https://t.co/aCWhwvR37T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982733031850049662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 142633,
+          "like_count": 1464,
+          "quote_count": 20,
+          "reply_count": 181,
+          "retweet_count": 133
+        },
+        "reply_settings": "everyone",
+        "text": "我只是想找个能和我一直说话的人。 https://t.co/aCWhwvR37T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 406,
+          "like_count": 612,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 389
+        },
+        "username": "Reinai_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-03T06:14:07.000Z",
+        "description": "于是他跌倒似的，跪下双膝   他猛然真切地感受到 全世界苦难无边｜高三在校｜私信基本都会回（平常很忙回的比较慢）｜单取随意｜我是个坏人烂人",
+        "id": "1709089394387542016",
+        "name": "XQ",
+        "pinned_tweet_id": "1969710843534467156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948442501364547590/lbYfjWEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6194,
+          "following_count": 106,
+          "like_count": 16739,
+          "listed_count": 11,
+          "media_count": 191,
+          "tweet_count": 791
+        },
+        "username": "xqnglng546419",
+        "verified": false
+      }
+    ]
+  }
+}

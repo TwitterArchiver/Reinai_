@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "1973774998134509714",
+    "created_at": "2025-10-02T17:10:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-02T18:10:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973797676140646900"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 11,
+          "normalized_text": "萌萌",
+          "probability": 0.6085,
+          "start": 10,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845491203124441093",
+          "start": 0,
+          "username": "yu_huacs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973797676140646900",
+    "in_reply_to_user_id": "1845491203124441093",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973774998134509714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu_huacs 萌萌的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1919,
+        "media_key": "3_1973774994846220288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2RB5npbgAAUaWo.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "1973774998134509714",
+        "created_at": "2025-10-02T17:10:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T18:10:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973797676140646900"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "萌萌",
+              "probability": 0.6085,
+              "start": 10,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845491203124441093",
+              "start": 0,
+              "username": "yu_huacs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973797676140646900",
+        "in_reply_to_user_id": "1845491203124441093",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973774998134509714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu_huacs 萌萌的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973774994846220288"
+          ]
+        },
+        "author_id": "1845491203124441093",
+        "conversation_id": "1973774998134509714",
+        "created_at": "2025-10-02T15:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T16:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973774998134509714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5EnuD6fSJq",
+              "end": 23,
+              "expanded_url": "https://x.com/yu_huacs/status/1973774998134509714/photo/1",
+              "media_key": "3_1973774994846220288",
+              "start": 0,
+              "url": "https://t.co/5EnuD6fSJq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973774998134509714",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 139,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5EnuD6fSJq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 362,
+          "like_count": 481,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 292
+        },
+        "username": "Reinai_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T15:46:25.000Z",
+        "description": "不知名的yu huacs \n友所有群体 最喜欢的自己也不知道\n   成分复杂 双相焦虑   精神分裂治疗中 overdose lain     公路车\n第二人格 @yuhuacs5570\n最好の兄弟 @Lizzy6315\n路边一条 @DOGYeah3376",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "yuhuacs5570"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "Lizzy6315"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "DOGYeah3376"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yu_huacs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yu_huacs",
+                "start": 0,
+                "url": "https://t.co/fGARwmdWCT"
+              }
+            ]
+          }
+        },
+        "id": "1845491203124441093",
+        "location": "你的心里",
+        "name": "余华成霜",
+        "pinned_tweet_id": "1964136320097538290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962121961225793536/84wpXl9U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1074,
+          "following_count": 1032,
+          "like_count": 90471,
+          "listed_count": 10,
+          "media_count": 1665,
+          "tweet_count": 15083
+        },
+        "url": "https://t.co/fGARwmdWCT",
+        "username": "yu_huacs",
+        "verified": false
+      }
+    ]
+  }
+}

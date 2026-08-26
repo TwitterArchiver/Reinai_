@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "1962788792554922227",
+    "created_at": "2025-09-02T09:49:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T10:49:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962815074726453417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1880306944784887811",
+          "start": 0,
+          "username": "yuyuYYUU0901"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962815074726453417",
+    "in_reply_to_user_id": "1880306944784887811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962796855819149363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuyuYYUU0901 好好笑我拿刀片在底下偷偷劃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "1962788792554922227",
+        "created_at": "2025-09-02T09:49:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T10:49:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962815074726453417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1880306944784887811",
+              "start": 0,
+              "username": "yuyuYYUU0901"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962815074726453417",
+        "in_reply_to_user_id": "1880306944784887811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962796855819149363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyuYYUU0901 好好笑我拿刀片在底下偷偷劃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880306944784887811",
+        "conversation_id": "1962788792554922227",
+        "created_at": "2025-09-02T08:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T09:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962796855819149363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1668234754125344768",
+              "start": 0,
+              "username": "Reinai_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962796855819149363",
+        "in_reply_to_user_id": "1668234754125344768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962788792554922227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reinai_ 求教程"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 328,
+          "like_count": 363,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 204
+        },
+        "username": "Reinai_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T17:31:36.000Z",
+        "description": "跨性別者，憂鬱症，焦慮症，擬似被害妄想症\ncoser/大量吃谷/缺愛/缺錢/od/飲血/自殺未遂/自殘/休學/mtf/性取向女/地雷/INFP\n求找我約純綠拜託拜託拜託\n這就是魚魚\n沒人愛沒人在意的魚魚",
+        "id": "1880306944784887811",
+        "location": "New Taipei City, Taiwan",
+        "name": "死鱼",
+        "pinned_tweet_id": "1961770503523434971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954133901695488000/kYRCO1qB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 511,
+          "like_count": 3546,
+          "listed_count": 1,
+          "media_count": 267,
+          "tweet_count": 3619
+        },
+        "username": "yuyuYYUU0901",
+        "verified": false
+      }
+    ]
+  }
+}

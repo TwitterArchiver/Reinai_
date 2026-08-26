@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "2091327642738012419",
+    "created_at": "2026-08-23T00:52:19.000Z",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T01:52:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091327642738012419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2038068774981533697",
+          "start": 3,
+          "username": "l0vely_juni"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091327642738012419",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 891
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091051354307367047",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @l0vely_juni: having a gf who’s sad all the time must be exhausting"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "2091327642738012419",
+        "created_at": "2026-08-23T00:52:19.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T01:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091327642738012419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2038068774981533697",
+              "start": 3,
+              "username": "l0vely_juni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091327642738012419",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 891
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091051354307367047",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @l0vely_juni: having a gf who’s sad all the time must be exhausting"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038068774981533697",
+        "conversation_id": "2091051354307367047",
+        "created_at": "2026-08-22T06:34:27.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T07:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091051354307367047"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091051354307367047",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 293,
+          "impression_count": 123988,
+          "like_count": 4746,
+          "quote_count": 412,
+          "reply_count": 96,
+          "retweet_count": 891
+        },
+        "reply_settings": "everyone",
+        "text": "having a gf who’s sad all the time must be exhausting"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "🇹🇼|2011|生理女|🩸💊\n查成分回fo回私信\n不聊騷不賣福不約\n直fo就是喜歡你",
+        "id": "1668234754125344768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091327642738012419",
+        "name": "魚",
+        "pinned_tweet_id": "2088014202200068324",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1668234754125344768/1756263536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087966983476436992/PFSRGZXf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 709,
+          "like_count": 2119,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 623
+        },
+        "url": "",
+        "username": "Reinai_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-29T01:40:46.000Z",
+        "description": "chronically online so feel free to interact \ni luv my gf\nshe / her , fifteen , bi , I follow back\ndiscord @l1ttleb0dybigheart\n#shtwt #recoverytwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 132,
+                "start": 126,
+                "tag": "shtwt"
+              },
+              {
+                "end": 145,
+                "start": 133,
+                "tag": "recoverytwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 125,
+                "start": 106,
+                "username": "l1ttleb0dybigheart"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lovelyjuni.straw.page",
+                "end": 23,
+                "expanded_url": "https://lovelyjuni.straw.page",
+                "start": 0,
+                "url": "https://t.co/NFgjScXbQU"
+              }
+            ]
+          }
+        },
+        "id": "2038068774981533697",
+        "is_identity_verified": false,
+        "location": "shtwt",
+        "most_recent_tweet_id": "2091306079334420623",
+        "name": "juniper 🐾🤍!",
+        "pinned_tweet_id": "2081098218700443785",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2038068774981533697/1785210697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090272743879020544/IuFidK2E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 645,
+          "like_count": 1350,
+          "listed_count": 9,
+          "media_count": 116,
+          "tweet_count": 703
+        },
+        "url": "https://t.co/NFgjScXbQU",
+        "username": "l0vely_juni",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

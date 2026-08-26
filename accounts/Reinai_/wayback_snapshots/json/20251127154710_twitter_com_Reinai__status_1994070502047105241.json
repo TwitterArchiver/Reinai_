@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993691955965165569"
+      ],
+      "media_source_tweet_id": [
+        "1993691970292867450"
+      ]
+    },
+    "author_id": "1668234754125344768",
+    "conversation_id": "1994070502047105241",
+    "created_at": "2025-11-27T15:47:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T16:47:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994070502047105241"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 23,
+          "tag": "자해"
+        },
+        {
+          "end": 35,
+          "start": 27,
+          "tag": "우울계_𝕏친소"
+        },
+        {
+          "end": 43,
+          "start": 36,
+          "tag": "우울계𝕏친소"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1635598250853167104",
+          "start": 3,
+          "username": "subagkkoch54179"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4zJu4tBivr",
+          "end": 67,
+          "expanded_url": "https://x.com/subagkkoch54179/status/1993691970292867450/photo/1",
+          "media_key": "3_1993691955965165569",
+          "start": 44,
+          "url": "https://t.co/4zJu4tBivr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994070502047105241",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 589
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993691970292867450",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @subagkkoch54179: 🩹\n#자해 #우울계_𝕏친소 #우울계𝕏친소 https://t.co/4zJu4tBivr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993691955965165569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6sERVrbgAE9C8D.jpg",
+        "width": 1463
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993691955965165569"
+          ],
+          "media_source_tweet_id": [
+            "1993691970292867450"
+          ]
+        },
+        "author_id": "1668234754125344768",
+        "conversation_id": "1994070502047105241",
+        "created_at": "2025-11-27T15:47:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T16:47:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994070502047105241"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "자해"
+            },
+            {
+              "end": 35,
+              "start": 27,
+              "tag": "우울계_𝕏친소"
+            },
+            {
+              "end": 43,
+              "start": 36,
+              "tag": "우울계𝕏친소"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1635598250853167104",
+              "start": 3,
+              "username": "subagkkoch54179"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4zJu4tBivr",
+              "end": 67,
+              "expanded_url": "https://x.com/subagkkoch54179/status/1993691970292867450/photo/1",
+              "media_key": "3_1993691955965165569",
+              "start": 44,
+              "url": "https://t.co/4zJu4tBivr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994070502047105241",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 589
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993691970292867450",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @subagkkoch54179: 🩹\n#자해 #우울계_𝕏친소 #우울계𝕏친소 https://t.co/4zJu4tBivr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993691955965165569"
+          ]
+        },
+        "author_id": "1635598250853167104",
+        "conversation_id": "1993691970292867450",
+        "created_at": "2025-11-26T14:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T15:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993691970292867450"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 2,
+              "tag": "자해"
+            },
+            {
+              "end": 14,
+              "start": 6,
+              "tag": "우울계_𝕏친소"
+            },
+            {
+              "end": 22,
+              "start": 15,
+              "tag": "우울계𝕏친소"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4zJu4tBivr",
+              "end": 46,
+              "expanded_url": "https://x.com/subagkkoch54179/status/1993691970292867450/photo/1",
+              "media_key": "3_1993691955965165569",
+              "start": 23,
+              "url": "https://t.co/4zJu4tBivr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993691970292867450",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 335,
+          "impression_count": 35879,
+          "like_count": 6469,
+          "quote_count": 5,
+          "reply_count": 11,
+          "retweet_count": 589
+        },
+        "reply_settings": "everyone",
+        "text": "🩹\n#자해 #우울계_𝕏친소 #우울계𝕏친소 https://t.co/4zJu4tBivr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "pinned_tweet_id": "1984216096094962091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 458,
+          "like_count": 875,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 514
+        },
+        "username": "Reinai_",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-14T11:06:58.000Z",
+        "description": "2011",
+        "id": "1635598250853167104",
+        "name": "なつき",
+        "pinned_tweet_id": "1991052816933425242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992299540893007872/T-xnMelW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1317,
+          "following_count": 69,
+          "like_count": 218,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 81
+        },
+        "username": "subagkkoch54179",
+        "verified": false
+      }
+    ]
+  }
+}

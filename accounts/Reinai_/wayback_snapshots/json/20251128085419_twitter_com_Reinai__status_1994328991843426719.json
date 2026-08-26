@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1994169639148945408"
+      ],
+      "media_source_tweet_id": [
+        "1994169687676998020"
+      ]
+    },
+    "author_id": "1668234754125344768",
+    "conversation_id": "1994328991843426719",
+    "created_at": "2025-11-28T08:54:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T09:54:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994328991843426719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1752018101825060865",
+          "start": 3,
+          "username": "Dakaraven"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0e51pLoEso",
+          "end": 42,
+          "expanded_url": "https://x.com/Dakaraven/status/1994169687676998020/video/1",
+          "media_key": "7_1994169639148945408",
+          "start": 19,
+          "url": "https://t.co/0e51pLoEso"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994328991843426719",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 683
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994169687676998020",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dakaraven: ñam https://t.co/0e51pLoEso"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12564,
+        "height": 1280,
+        "media_key": "7_1994169639148945408",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1994169639148945408/pu/img/XcIuZeSbxu3llHMG.jpg",
+        "public_metrics": {
+          "view_count": 17578
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994169639148945408/pu/vid/avc1/320x568/S5XoUURPXaxJOxUK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994169639148945408/pu/vid/avc1/480x852/SQ0RR1zwkvs_0GJP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994169639148945408/pu/vid/avc1/720x1280/6Syz13EqIU5kA6Qb.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1994169639148945408/pu/pl/zblgWyiv5JZyfXNt.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1994169639148945408"
+          ],
+          "media_source_tweet_id": [
+            "1994169687676998020"
+          ]
+        },
+        "author_id": "1668234754125344768",
+        "conversation_id": "1994328991843426719",
+        "created_at": "2025-11-28T08:54:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T09:54:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994328991843426719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1752018101825060865",
+              "start": 3,
+              "username": "Dakaraven"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0e51pLoEso",
+              "end": 42,
+              "expanded_url": "https://x.com/Dakaraven/status/1994169687676998020/video/1",
+              "media_key": "7_1994169639148945408",
+              "start": 19,
+              "url": "https://t.co/0e51pLoEso"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994328991843426719",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 683
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994169687676998020",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dakaraven: ñam https://t.co/0e51pLoEso"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1994169639148945408"
+          ]
+        },
+        "author_id": "1752018101825060865",
+        "conversation_id": "1994169687676998020",
+        "created_at": "2025-11-27T22:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T23:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994169687676998020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0e51pLoEso",
+              "end": 27,
+              "expanded_url": "https://x.com/Dakaraven/status/1994169687676998020/video/1",
+              "media_key": "7_1994169639148945408",
+              "start": 4,
+              "url": "https://t.co/0e51pLoEso"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994169687676998020",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 666,
+          "impression_count": 24856,
+          "like_count": 5688,
+          "quote_count": 30,
+          "reply_count": 30,
+          "retweet_count": 683
+        },
+        "reply_settings": "everyone",
+        "text": "ñam https://t.co/0e51pLoEso"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "pinned_tweet_id": "1984216096094962091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 459,
+          "like_count": 876,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 515
+        },
+        "username": "Reinai_",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-29T17:17:44.000Z",
+        "description": "═──⭒⛧ 𝟭𝟴 𝓎𝓇𝓈  • he/him • 𝒃𝒊𝒔𝒆𝒙 • ENTJ ⛧⭒──═\n\n                                   ◛⑅·˚ ༘ ♡ @wohukim\n\n °•☆@tilininsanoxd10☆•°\n\nhttps://t.co/42uBjBLfvA•",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 89,
+                "username": "wohukim"
+              },
+              {
+                "end": 119,
+                "start": 103,
+                "username": "tilininsanoxd10"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drakii2",
+                "end": 147,
+                "expanded_url": "https://ngl.link/drakii2",
+                "start": 124,
+                "url": "https://t.co/42uBjBLfvA"
+              }
+            ]
+          }
+        },
+        "id": "1752018101825060865",
+        "location": "*ੈ✩‧₊˚ sh / ed / obs ✦",
+        "name": "Drakven ⛧",
+        "pinned_tweet_id": "1994169687676998020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965650221045567488/ZTXCCrST_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5017,
+          "following_count": 1792,
+          "like_count": 53133,
+          "listed_count": 54,
+          "media_count": 3533,
+          "tweet_count": 54818
+        },
+        "username": "Dakaraven",
+        "verified": false
+      }
+    ]
+  }
+}

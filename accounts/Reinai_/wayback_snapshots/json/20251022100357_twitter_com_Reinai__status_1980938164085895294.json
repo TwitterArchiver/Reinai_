@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980938155340574720"
+      ]
+    },
+    "author_id": "1668234754125344768",
+    "conversation_id": "1980938164085895294",
+    "created_at": "2025-10-22T10:03:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T11:03:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980938164085895294"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/S5gi6BvLVO",
+          "end": 23,
+          "expanded_url": "https://x.com/Reinai_/status/1980938164085895294/photo/1",
+          "media_key": "3_1980938155340574720",
+          "start": 0,
+          "url": "https://t.co/S5gi6BvLVO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980938164085895294",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/S5gi6BvLVO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1980938155340574720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G320wb8XsAAjKjl.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980938155340574720"
+          ]
+        },
+        "author_id": "1668234754125344768",
+        "conversation_id": "1980938164085895294",
+        "created_at": "2025-10-22T10:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T11:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980938164085895294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S5gi6BvLVO",
+              "end": 23,
+              "expanded_url": "https://x.com/Reinai_/status/1980938164085895294/photo/1",
+              "media_key": "3_1980938155340574720",
+              "start": 0,
+              "url": "https://t.co/S5gi6BvLVO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980938164085895294",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/S5gi6BvLVO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 389,
+          "like_count": 580,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 371
+        },
+        "username": "Reinai_",
+        "verified": false
+      }
+    ]
+  }
+}

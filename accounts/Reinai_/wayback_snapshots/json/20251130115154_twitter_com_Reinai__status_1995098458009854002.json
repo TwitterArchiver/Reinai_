@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "1995098458009854002",
+    "created_at": "2025-11-30T11:51:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T12:51:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995098458009854002"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1995098458009854002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "玩遊戲我媽進來忘擋了被看見新傷了\n他就又罵我還踹我了我操你媽呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "1995098458009854002",
+        "created_at": "2025-11-30T11:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T12:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995098458009854002"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995098458009854002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "玩遊戲我媽進來忘擋了被看見新傷了\n他就又罵我還踹我了我操你媽呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "pinned_tweet_id": "1984216096094962091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 463,
+          "like_count": 907,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 524
+        },
+        "username": "Reinai_",
+        "verified": true
+      }
+    ]
+  }
+}

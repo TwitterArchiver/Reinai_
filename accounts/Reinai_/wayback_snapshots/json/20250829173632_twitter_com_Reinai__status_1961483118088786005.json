@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "1961483118088786005",
+    "created_at": "2025-08-29T17:36:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T18:36:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961483118088786005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1880306944784887811",
+          "start": 3,
+          "username": "yuyuYYUU0901"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961483118088786005",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961427831059046414",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuyuYYUU0901: 求不自卑教程求不焦慮教程求不缺乏安全感教程求不依賴教程求被愛教程"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "1961483118088786005",
+        "created_at": "2025-08-29T17:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T18:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961483118088786005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1880306944784887811",
+              "start": 3,
+              "username": "yuyuYYUU0901"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961483118088786005",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961427831059046414",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuyuYYUU0901: 求不自卑教程求不焦慮教程求不缺乏安全感教程求不依賴教程求被愛教程"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880306944784887811",
+        "conversation_id": "1961427831059046414",
+        "created_at": "2025-08-29T13:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T14:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961427831059046414"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961427831059046414",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求不自卑教程求不焦慮教程求不缺乏安全感教程求不依賴教程求被愛教程"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 298,
+          "like_count": 304,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 168
+        },
+        "username": "Reinai_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T17:31:36.000Z",
+        "description": "跨性別者，憂鬱症，焦慮症，擬似被害妄想症\ncoser/大量吃谷/缺愛/缺錢/od/飲血/自殺未遂/自殘/休學/mtf/性取向女/地雷/INFP\n求找我約純綠拜託拜託拜託\n這就是魚魚\n沒人愛沒人在意的魚魚",
+        "id": "1880306944784887811",
+        "location": "New Taipei City, Taiwan",
+        "name": "死鱼",
+        "pinned_tweet_id": "1956638812828000646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954133901695488000/kYRCO1qB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 507,
+          "like_count": 3511,
+          "listed_count": 1,
+          "media_count": 256,
+          "tweet_count": 3550
+        },
+        "username": "yuyuYYUU0901",
+        "verified": false
+      }
+    ]
+  }
+}

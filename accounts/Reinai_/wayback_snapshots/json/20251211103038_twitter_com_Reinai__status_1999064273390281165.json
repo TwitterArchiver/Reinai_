@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1998752768102998017"
+      ],
+      "media_source_tweet_id": [
+        "1998753048001392881"
+      ]
+    },
+    "author_id": "1668234754125344768",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1999064273390281165",
+    "created_at": "2025-12-11T10:30:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T11:30:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999064273390281165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1861464904584306688",
+          "start": 3,
+          "username": "qun_xing_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/t70mAAIFzj",
+          "end": 48,
+          "expanded_url": "https://x.com/qun_xing_/status/1998753048001392881/video/1",
+          "media_key": "7_1998752768102998017",
+          "start": 25,
+          "url": "https://t.co/t70mAAIFzj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999064273390281165",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 155
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998753048001392881",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qun_xing_: 再尝试一下发布视频 https://t.co/t70mAAIFzj"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1999064273390281165].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1999064273390281165",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1999064273390281165"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18368,
+        "height": 1280,
+        "media_key": "7_1998752768102998017",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1998752768102998017/pu/img/QAQZDOwQLbBY34DZ.jpg",
+        "public_metrics": {
+          "view_count": 1918
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1998752768102998017/pu/vid/avc1/320x568/6-ddqyElI3oUaTuk.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1998752768102998017/pu/vid/avc1/480x852/MCxVa1NTSuYR3fVZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1998752768102998017/pu/vid/avc1/720x1280/UWkqg22dMFKymwqp.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1998752768102998017/pu/pl/i6C2O6KCt27nriws.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1998752768102998017"
+          ]
+        },
+        "author_id": "1861464904584306688",
+        "conversation_id": "1998753048001392881",
+        "created_at": "2025-12-10T13:53:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T14:53:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998753048001392881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t70mAAIFzj",
+              "end": 33,
+              "expanded_url": "https://x.com/qun_xing_/status/1998753048001392881/video/1",
+              "media_key": "7_1998752768102998017",
+              "start": 10,
+              "url": "https://t.co/t70mAAIFzj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998753048001392881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 147,
+          "impression_count": 5689,
+          "like_count": 851,
+          "quote_count": 5,
+          "reply_count": 6,
+          "retweet_count": 155
+        },
+        "reply_settings": "everyone",
+        "text": "再尝试一下发布视频 https://t.co/t70mAAIFzj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "pinned_tweet_id": "1984216096094962091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 457,
+          "like_count": 968,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 542
+        },
+        "username": "Reinai_",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-26T17:41:12.000Z",
+        "description": "我也可以爱重庆",
+        "id": "1861464904584306688",
+        "location": "渝州江州",
+        "name": "群星闪耀天际",
+        "pinned_tweet_id": "1931389685684723834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907009011276263424/K895wnyp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2648,
+          "following_count": 26,
+          "like_count": 1489,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 1129
+        },
+        "username": "qun_xing_",
+        "verified": false
+      }
+    ]
+  }
+}
