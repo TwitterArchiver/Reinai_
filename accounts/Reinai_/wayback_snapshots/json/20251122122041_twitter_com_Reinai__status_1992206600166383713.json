@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "1992206600166383713",
+    "created_at": "2025-11-22T12:20:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T13:20:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992206600166383713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1667965451325046784",
+          "start": 3,
+          "username": "Xaonaii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992206600166383713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991878100293226503",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xaonaii: 這裡小茉&gt;𖥦&lt;\n日系 宅女子 二次元 \n喜歡可愛的事物！՞ ̳o̴̶̷̤  ̫ o̴̶̷̤ ̳՞\n\n重鬰 焦慮 被害妄想 \n思覺失調 躁鬱 自傷 od\n-\n歡迎互fo 互轉直接轉 會回~\n門檻如下圖！｡› ·̫ ‹｡\n匯款入門後可+哀居 或 微信\n#門…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1992206600166383713].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1992206600166383713",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1992206600166383713"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1919,
+        "media_key": "3_1991878096191160320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6SSkzdbAAAPbPu.jpg",
+        "width": 1439
+      },
+      {
+        "height": 1553,
+        "media_key": "3_1991878095608143872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6SSkxSa4AAoGic.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1991878096140828672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6SSkzRbAAAo5OD.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1991878097701158912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6SSk5FbwAA86pf.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991878096191160320",
+            "3_1991878095608143872",
+            "3_1991878096140828672",
+            "3_1991878097701158912"
+          ]
+        },
+        "author_id": "1667965451325046784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1991878100293226503",
+        "created_at": "2025-11-21T14:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T15:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991878100293226503"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "門檻"
+            },
+            {
+              "end": 138,
+              "start": 134,
+              "tag": "門檻妹"
+            },
+            {
+              "end": 143,
+              "start": 139,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 147,
+              "start": 144,
+              "tag": "门槛"
+            },
+            {
+              "end": 151,
+              "start": 148,
+              "tag": "纯绿"
+            },
+            {
+              "end": 155,
+              "start": 152,
+              "tag": "純綠"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H44CO4pKi6",
+              "end": 179,
+              "expanded_url": "https://x.com/Xaonaii/status/1991878100293226503/photo/1",
+              "media_key": "3_1991878096191160320",
+              "start": 156,
+              "url": "https://t.co/H44CO4pKi6"
+            },
+            {
+              "display_url": "pic.x.com/H44CO4pKi6",
+              "end": 179,
+              "expanded_url": "https://x.com/Xaonaii/status/1991878100293226503/photo/1",
+              "media_key": "3_1991878095608143872",
+              "start": 156,
+              "url": "https://t.co/H44CO4pKi6"
+            },
+            {
+              "display_url": "pic.x.com/H44CO4pKi6",
+              "end": 179,
+              "expanded_url": "https://x.com/Xaonaii/status/1991878100293226503/photo/1",
+              "media_key": "3_1991878096140828672",
+              "start": 156,
+              "url": "https://t.co/H44CO4pKi6"
+            },
+            {
+              "display_url": "pic.x.com/H44CO4pKi6",
+              "end": 179,
+              "expanded_url": "https://x.com/Xaonaii/status/1991878100293226503/photo/1",
+              "media_key": "3_1991878097701158912",
+              "start": 156,
+              "url": "https://t.co/H44CO4pKi6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991878100293226503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1305,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "這裡小茉&gt;𖥦&lt;\n日系 宅女子 二次元 \n喜歡可愛的事物！՞ ̳o̴̶̷̤  ̫ o̴̶̷̤ ̳՞\n\n重鬰 焦慮 被害妄想 \n思覺失調 躁鬱 自傷 od\n-\n歡迎互fo 互轉直接轉 會回~\n門檻如下圖！｡› ·̫ ‹｡\n匯款入門後可+哀居 或 微信\n#門檻 #門檻妹 #门槛妹 #门槛 #纯绿 #純綠 https://t.co/H44CO4pKi6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "",
+        "id": "1668234754125344768",
+        "name": "^^",
+        "pinned_tweet_id": "1984216096094962091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960536977650147334/ZmJqih7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 450,
+          "like_count": 813,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 491
+        },
+        "username": "Reinai_",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-11T18:42:23.000Z",
+        "description": "不混圈 歡迎抖內  備用帳 @Sakuno_61 哪天消失可以去備用帳看看。🚪600/800/1000 詳細置頂也可私",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "Sakuno_61"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xaonaii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xaonaii",
+                "start": 0,
+                "url": "https://t.co/WqBGZB12e2"
+              }
+            ]
+          }
+        },
+        "id": "1667965451325046784",
+        "name": "默許已成常態",
+        "pinned_tweet_id": "1991878100293226503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990425946801983488/szfDyrrU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 101,
+          "like_count": 88,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 611
+        },
+        "url": "https://t.co/WqBGZB12e2",
+        "username": "Xaonaii",
+        "verified": false
+      }
+    ]
+  }
+}

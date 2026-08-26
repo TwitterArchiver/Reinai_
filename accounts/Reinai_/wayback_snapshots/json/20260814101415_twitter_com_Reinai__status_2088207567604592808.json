@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088207540022902784",
+        "3_2088207548243677184",
+        "3_2088207560319094784"
+      ]
+    },
+    "author_id": "1668234754125344768",
+    "conversation_id": "2088207567604592808",
+    "created_at": "2026-08-14T10:14:15.000Z",
+    "display_text_range": [
+      0,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T11:14:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088207567604592808"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/r4wlIo7azQ",
+          "end": 49,
+          "expanded_url": "https://x.com/Reinai_/status/2088207567604592808/photo/1",
+          "media_key": "3_2088207540022902784",
+          "start": 26,
+          "url": "https://t.co/r4wlIo7azQ"
+        },
+        {
+          "display_url": "pic.x.com/r4wlIo7azQ",
+          "end": 49,
+          "expanded_url": "https://x.com/Reinai_/status/2088207567604592808/photo/1",
+          "media_key": "3_2088207548243677184",
+          "start": 26,
+          "url": "https://t.co/r4wlIo7azQ"
+        },
+        {
+          "display_url": "pic.x.com/r4wlIo7azQ",
+          "end": 49,
+          "expanded_url": "https://x.com/Reinai_/status/2088207567604592808/photo/1",
+          "media_key": "3_2088207560319094784",
+          "start": 26,
+          "url": "https://t.co/r4wlIo7azQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088207567604592808",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088207540022902784"
+      },
+      {
+        "media_key": "3_2088207548243677184"
+      },
+      {
+        "media_key": "3_2088207560319094784"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1不願意\n2有人給我發我也割\n3最主要還是不開心呀 https://t.co/r4wlIo7azQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1060,
+        "media_key": "3_2088207540022902784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrNsaBbgAA42F4.jpg",
+        "width": 1079
+      },
+      {
+        "height": 1047,
+        "media_key": "3_2088207548243677184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrNs4pakAAisMR.jpg",
+        "width": 1079
+      },
+      {
+        "height": 1041,
+        "media_key": "3_2088207560319094784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrNtloa0AA6hLP.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088207540022902784",
+            "3_2088207548243677184",
+            "3_2088207560319094784"
+          ]
+        },
+        "author_id": "1668234754125344768",
+        "conversation_id": "2088207567604592808",
+        "created_at": "2026-08-14T10:14:15.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T11:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088207567604592808"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r4wlIo7azQ",
+              "end": 49,
+              "expanded_url": "https://x.com/Reinai_/status/2088207567604592808/photo/1",
+              "media_key": "3_2088207540022902784",
+              "start": 26,
+              "url": "https://t.co/r4wlIo7azQ"
+            },
+            {
+              "display_url": "pic.x.com/r4wlIo7azQ",
+              "end": 49,
+              "expanded_url": "https://x.com/Reinai_/status/2088207567604592808/photo/1",
+              "media_key": "3_2088207548243677184",
+              "start": 26,
+              "url": "https://t.co/r4wlIo7azQ"
+            },
+            {
+              "display_url": "pic.x.com/r4wlIo7azQ",
+              "end": 49,
+              "expanded_url": "https://x.com/Reinai_/status/2088207567604592808/photo/1",
+              "media_key": "3_2088207560319094784",
+              "start": 26,
+              "url": "https://t.co/r4wlIo7azQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088207567604592808",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088207540022902784"
+          },
+          {
+            "media_key": "3_2088207548243677184"
+          },
+          {
+            "media_key": "3_2088207560319094784"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1不願意\n2有人給我發我也割\n3最主要還是不開心呀 https://t.co/r4wlIo7azQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "聽團 | 查成分回fo回私信\n不聊騷不賣福不約",
+        "id": "1668234754125344768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088207567604592808",
+        "name": "魚",
+        "pinned_tweet_id": "2088014202200068324",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1668234754125344768/1756263536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087966983476436992/PFSRGZXf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 519,
+          "like_count": 1611,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 504
+        },
+        "url": "",
+        "username": "Reinai_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

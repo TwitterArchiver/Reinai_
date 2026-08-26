@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "2087489280402960501",
+    "created_at": "2026-08-12T21:11:45.000Z",
+    "display_text_range": [
+      8,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T22:11:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087648255706628210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2085725342107672576",
+          "start": 0,
+          "username": "Qofq5o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087648255706628210",
+    "in_reply_to_user_id": "2085725342107672576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087515736629813642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qofq5o 吃到你媽骨灰了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "2087489280402960501",
+        "created_at": "2026-08-12T21:11:45.000Z",
+        "display_text_range": [
+          8,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T22:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087648255706628210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2085725342107672576",
+              "start": 0,
+              "username": "Qofq5o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087648255706628210",
+        "in_reply_to_user_id": "2085725342107672576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087515736629813642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qofq5o 吃到你媽骨灰了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085725342107672576",
+        "conversation_id": "2087489280402960501",
+        "created_at": "2026-08-12T12:25:10.000Z",
+        "display_text_range": [
+          9,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T13:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087515736629813642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1668234754125344768",
+              "start": 0,
+              "username": "Reinai_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087515736629813642",
+        "in_reply_to_user_id": "1668234754125344768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087489280402960501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reinai_ 吃🐔原因？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "聽團 | 查成分回fo\n不聊騷不賣福不約",
+        "id": "1668234754125344768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087648255706628210",
+        "name": "魚",
+        "pinned_tweet_id": "1984216096094962091",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1668234754125344768/1756263536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087066267199143936/q9jo3pQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 451,
+          "like_count": 1405,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 487
+        },
+        "url": "",
+        "username": "Reinai_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-07T13:52:01.000Z",
+        "description": "✈️ 8673156792\n灰产卡商金融背债搬u",
+        "id": "2085725342107672576",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087546864308785241",
+        "name": "Q",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085725342107672576/1786360881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085728352040824833/SUun41MF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 154,
+          "like_count": 267,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 231
+        },
+        "url": "",
+        "username": "Qofq5o",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
