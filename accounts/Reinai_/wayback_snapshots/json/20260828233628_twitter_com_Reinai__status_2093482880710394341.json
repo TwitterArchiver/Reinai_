@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "2093482880710394341",
+    "created_at": "2026-08-28T23:36:28.000Z",
+    "display_text_range": [
+      0,
+      96
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T00:36:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093482880710394341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2070820071912636416",
+          "start": 3,
+          "username": "R1nn_3x33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093482880710394341",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1036
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093209263141449879",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @R1nn_3x33: Why is smoking in public acceptable but walking around with HEALED scars isn't ??"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "2093482880710394341",
+        "created_at": "2026-08-28T23:36:28.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T00:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093482880710394341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2070820071912636416",
+              "start": 3,
+              "username": "R1nn_3x33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093482880710394341",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1036
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093209263141449879",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @R1nn_3x33: Why is smoking in public acceptable but walking around with HEALED scars isn't ??"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070820071912636416",
+        "conversation_id": "2093209263141449879",
+        "created_at": "2026-08-28T05:29:12.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T06:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093209263141449879"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093209263141449879",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 106,
+          "impression_count": 42060,
+          "like_count": 7137,
+          "quote_count": 29,
+          "reply_count": 47,
+          "retweet_count": 1036
+        },
+        "reply_settings": "everyone",
+        "text": "Why is smoking in public acceptable but walking around with HEALED scars isn't ??"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "🇹🇼|2011|生理女|🩸💊\n查成分回fo回私信\n不聊騷不賣福不約\n直fo就是喜歡你",
+        "id": "1668234754125344768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093482880710394341",
+        "name": "魚",
+        "pinned_tweet_id": "2088014202200068324",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1668234754125344768/1756263536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087966983476436992/PFSRGZXf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 715,
+          "like_count": 2268,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 663
+        },
+        "url": "",
+        "username": "Reinai_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T10:46:31.000Z",
+        "description": "𝑏𝑙𝑜𝑐𝑘 𝑑𝑜𝑛'𝑡 𝑟𝑒𝑝𝑜𝑟𝑡 ! ^^\n\n      𝑖𝑓𝑏 𝑏𝑙𝑖𝑛𝑑𝑙𝑦",
+        "id": "2070820071912636416",
+        "is_identity_verified": false,
+        "location": "𝘩𝘦/𝘵𝘩𝘦𝘺",
+        "most_recent_tweet_id": "2093417278222328154",
+        "name": "𝘳𝘪𝘯𝘯 𝘰𝘧 𝘪𝘺𝘬𝘺𝘬𝘵𝘸𝘵 ʚ♡⃛ɞ",
+        "pinned_tweet_id": "2088096012053389429",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070820071912636416/1786989528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089411636541161472/rzkk-soo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 773,
+          "like_count": 14103,
+          "listed_count": 17,
+          "media_count": 95,
+          "tweet_count": 774
+        },
+        "url": "",
+        "username": "R1nn_3x33",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

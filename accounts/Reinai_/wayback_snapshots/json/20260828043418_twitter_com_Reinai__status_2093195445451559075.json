@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "2093195445451559075",
+    "created_at": "2026-08-28T04:34:18.000Z",
+    "display_text_range": [
+      0,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T05:34:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093195445451559075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2092599528553877504",
+          "start": 3,
+          "username": "tyu111222R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093195445451559075",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 233
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092805438576480288",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tyu111222R: 你别难过了，把所有哭字改成射字试试，我要射了，我好想射啊，我一直在射，我射个不停了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "2093195445451559075",
+        "created_at": "2026-08-28T04:34:18.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T05:34:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093195445451559075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2092599528553877504",
+              "start": 3,
+              "username": "tyu111222R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093195445451559075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 233
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092805438576480288",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tyu111222R: 你别难过了，把所有哭字改成射字试试，我要射了，我好想射啊，我一直在射，我射个不停了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2092599528553877504",
+        "conversation_id": "2092805438576480288",
+        "created_at": "2026-08-27T02:44:33.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T03:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092805438576480288"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092805438576480288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 107,
+          "impression_count": 108119,
+          "like_count": 3083,
+          "quote_count": 30,
+          "reply_count": 441,
+          "retweet_count": 233
+        },
+        "reply_settings": "everyone",
+        "text": "你别难过了，把所有哭字改成射字试试，我要射了，我好想射啊，我一直在射，我射个不停了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "🇹🇼|2011|生理女|🩸💊\n查成分回fo回私信\n不聊騷不賣福不約\n直fo就是喜歡你",
+        "id": "1668234754125344768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093195445451559075",
+        "name": "魚",
+        "pinned_tweet_id": "2088014202200068324",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1668234754125344768/1756263536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087966983476436992/PFSRGZXf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 714,
+          "like_count": 2238,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 643
+        },
+        "url": "",
+        "username": "Reinai_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-26T13:07:54.000Z",
+        "description": "我坠落了……\n叫我RR／芊芊",
+        "id": "2092599528553877504",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093173506980884720",
+        "name": "只有你存在的世界",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092599528553877504/1787749825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093156690271346688/RS0-si70_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 6,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 27
+        },
+        "url": "",
+        "username": "tyu111222R",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

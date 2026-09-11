@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "2093936232883691631",
+    "created_at": "2026-08-30T05:37:56.000Z",
+    "display_text_range": [
+      0,
+      114
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T06:37:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093936232883691631"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2093936232883691631",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨天聽團聽一聽應該是低血糖了吧我那時候第一次超級不舒服我撐了一下比較好一點我直接蹲下了 然後後面又不舒服三四次我都蹲了一下 希望周圍的人不會覺得我怎樣怎樣的😭我那時候撐到館青完我直接快走出去 然後我覺得我那時候是有可能直接倒那的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "2093936232883691631",
+        "created_at": "2026-08-30T05:37:56.000Z",
+        "display_text_range": [
+          0,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T06:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093936232883691631"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093936232883691631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天聽團聽一聽應該是低血糖了吧我那時候第一次超級不舒服我撐了一下比較好一點我直接蹲下了 然後後面又不舒服三四次我都蹲了一下 希望周圍的人不會覺得我怎樣怎樣的😭我那時候撐到館青完我直接快走出去 然後我覺得我那時候是有可能直接倒那的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "🇹🇼|2011|生理女|🩸💊\n查成分回fo回私信\n不聊騷不賣福不約\n直fo就是喜歡你",
+        "id": "1668234754125344768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093936232883691631",
+        "name": "魚",
+        "pinned_tweet_id": "2088014202200068324",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1668234754125344768/1756263536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087966983476436992/PFSRGZXf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 737,
+          "like_count": 2304,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 671
+        },
+        "url": "",
+        "username": "Reinai_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

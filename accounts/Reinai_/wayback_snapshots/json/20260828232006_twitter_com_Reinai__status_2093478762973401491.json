@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "2093478762973401491",
+    "created_at": "2026-08-28T23:20:06.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T00:20:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093478762973401491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2062389617500762112",
+          "start": 3,
+          "username": "lom4ra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093478762973401491",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 939
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093184812836167701",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lom4ra: quiero cortarme\nquiero cortarme\nquiero cortarme\nquiero cortarme\nquiero cortarme\nquiero cortarme\nquiero cortarme\nquiero cortarme…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "2093478762973401491",
+        "created_at": "2026-08-28T23:20:06.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T00:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093478762973401491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2062389617500762112",
+              "start": 3,
+              "username": "lom4ra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093478762973401491",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 939
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093184812836167701",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lom4ra: quiero cortarme\nquiero cortarme\nquiero cortarme\nquiero cortarme\nquiero cortarme\nquiero cortarme\nquiero cortarme\nquiero cortarme…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062389617500762112",
+        "conversation_id": "2093184812836167701",
+        "created_at": "2026-08-28T03:52:03.000Z",
+        "display_text_range": [
+          0,
+          270
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T04:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093184812836167701"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 263,
+              "start": 256,
+              "tag": "shetwt"
+            },
+            {
+              "end": 270,
+              "start": 264,
+              "tag": "shtwt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093184812836167701",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 12914,
+          "like_count": 2186,
+          "quote_count": 7,
+          "reply_count": 12,
+          "retweet_count": 939
+        },
+        "reply_settings": "everyone",
+        "text": "quiero cortarme\nquiero cortarme\nquiero cortarme\nquiero cortarme\nquiero cortarme\nquiero cortarme\nquiero cortarme\nquiero cortarme\nquiero cortarme\nquiero cortarme\nquiero cortarme\nquiero cortarme\nquiero cortarme\nquiero cortarme\nquiero cortarme\nquiero cortarme\n#shetwt #shtwt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "🇹🇼|2011|生理女|🩸💊\n查成分回fo回私信\n不聊騷不賣福不約\n直fo就是喜歡你",
+        "id": "1668234754125344768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093478762973401491",
+        "name": "魚",
+        "pinned_tweet_id": "2088014202200068324",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1668234754125344768/1756263536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087966983476436992/PFSRGZXf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 714,
+          "like_count": 2254,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 654
+        },
+        "url": "",
+        "username": "Reinai_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-04T04:23:31.000Z",
+        "description": "Mariguanero profesional #weed",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 29,
+                "start": 24,
+                "tag": "weed"
+              }
+            ]
+          }
+        },
+        "id": "2062389617500762112",
+        "is_identity_verified": false,
+        "location": "#subtw #shetwt #edtwt",
+        "most_recent_tweet_id": "2093450367019164087",
+        "name": "lol",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2062389617500762112/1786310133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091960215335755777/KB2C-rj6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 19,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 32
+        },
+        "url": "",
+        "username": "lom4ra",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

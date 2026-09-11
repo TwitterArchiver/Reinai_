@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "2093292517357703638",
+    "created_at": "2026-08-28T23:34:20.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T00:34:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093482343231303939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1962302660541079552",
+          "start": 0,
+          "username": "by_yueeeer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093482343231303939",
+    "in_reply_to_user_id": "1962302660541079552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093292517357703638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@by_yueeeer 窩出軌啦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1315,
+        "media_key": "3_2093201881896210432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQyMBXWaUAADXGP.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "2093292517357703638",
+        "created_at": "2026-08-28T23:34:20.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T00:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093482343231303939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1962302660541079552",
+              "start": 0,
+              "username": "by_yueeeer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093482343231303939",
+        "in_reply_to_user_id": "1962302660541079552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093292517357703638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@by_yueeeer 窩出軌啦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093201881896210432"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "conversation_id": "2093292517357703638",
+        "created_at": "2026-08-28T11:00:02.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T12:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093292517357703638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NpkY1hyKrs",
+              "end": 31,
+              "expanded_url": "https://x.com/by_yuneeeer/status/2093292517357703638/photo/1",
+              "media_key": "3_2093201881896210432",
+              "start": 8,
+              "url": "https://t.co/NpkY1hyKrs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093292517357703638",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093201881896210432"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 43945,
+          "like_count": 668,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "犹抱琵琶半遮面 https://t.co/NpkY1hyKrs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "🇹🇼|2011|生理女|🩸💊\n查成分回fo回私信\n不聊騷不賣福不約\n直fo就是喜歡你",
+        "id": "1668234754125344768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093482343231303939",
+        "name": "魚",
+        "pinned_tweet_id": "2088014202200068324",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1668234754125344768/1756263536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087966983476436992/PFSRGZXf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 714,
+          "like_count": 2266,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 661
+        },
+        "url": "",
+        "username": "Reinai_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "GAHT：26.4.17🍥/18岁🥲/180-54/幼稚小孩🎈/或许是小天残党😭/梗图号/两个世界的公民🌠/性别不清✨/我还有我自己：@ling_qyu1314 💌/\n『坎通_江门⛅』\n——如果我在这儿，那么你在哪儿呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ling_qyu1314"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "is_identity_verified": false,
+        "location": "最后的思绪",
+        "most_recent_tweet_id": "2093461561126109515",
+        "name": "🌆小白羽🌈⛅",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962302660541079552/1787727905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093342351821504514/hFKp9Nxf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3592,
+          "following_count": 1591,
+          "like_count": 17396,
+          "listed_count": 4,
+          "media_count": 1509,
+          "tweet_count": 5283
+        },
+        "url": "",
+        "username": "by_yueeeer",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

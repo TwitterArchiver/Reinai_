@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "2094633095362400673",
+    "created_at": "2026-09-01T11:37:43.000Z",
+    "display_text_range": [
+      14,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T12:37:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094751552351433100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2016812945377021953",
+          "start": 0,
+          "username": "yanzhong0824"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094751552351433100",
+    "in_reply_to_user_id": "2016812945377021953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094738459634372752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanzhong0824 看看哥哥的實力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "2094633095362400673",
+        "created_at": "2026-09-01T11:37:43.000Z",
+        "display_text_range": [
+          14,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T12:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094751552351433100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2016812945377021953",
+              "start": 0,
+              "username": "yanzhong0824"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094751552351433100",
+        "in_reply_to_user_id": "2016812945377021953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094738459634372752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanzhong0824 看看哥哥的實力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016812945377021953",
+        "conversation_id": "2094633095362400673",
+        "created_at": "2026-09-01T10:45:41.000Z",
+        "display_text_range": [
+          9,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T11:45:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094738459634372752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1668234754125344768",
+              "start": 0,
+              "username": "Reinai_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094738459634372752",
+        "in_reply_to_user_id": "1668234754125344768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094633095362400673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reinai_ 加油💪這種想法通常在沒事做時才會出現\n想辦法讓自己忙起來，看看有沒有變好\n需要聊聊也能跟我說說看～"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "🇹🇼|2011|🩸💊\n查成分回fo回私信\n不聊騷不賣福不約\n直fo就是喜歡你",
+        "id": "1668234754125344768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094751552351433100",
+        "name": "y",
+        "pinned_tweet_id": "2088014202200068324",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1668234754125344768/1756263536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087966983476436992/PFSRGZXf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 853,
+          "following_count": 750,
+          "like_count": 2507,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 689
+        },
+        "url": "",
+        "username": "Reinai_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-29T09:58:20.000Z",
+        "description": "𝐓𝐰𝐞𝐧𝐭𝐲 𝐲𝐞𝐚𝐫𝐬 𝐨𝐥𝐝👻\n🎧 ｜ ☕️ ｜ 🚬\n．\n上班陪笑，下班鬼叫。\n只是個在生活裡硬撐的觀察者。\n．\n把 X 當 Threads 發的清水日常 ✍🏻\n🙅🏻‍♂️ 不約\n💬 歡迎私訊亂聊，是個優秀的陪聊廢物",
+        "id": "2016812945377021953",
+        "is_identity_verified": false,
+        "location": "嘉義",
+        "most_recent_tweet_id": "2094750027692585242",
+        "name": "小妹你別慌",
+        "pinned_tweet_id": "2093944429895983514",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2016812945377021953/1787408391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093939968301576192/Rh-hF2r__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 327,
+          "like_count": 2812,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 33
+        },
+        "url": "",
+        "username": "yanzhong0824",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

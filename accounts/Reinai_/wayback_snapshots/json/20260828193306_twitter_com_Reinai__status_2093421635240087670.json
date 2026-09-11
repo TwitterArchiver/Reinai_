@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "2093226092694065576",
+    "created_at": "2026-08-28T19:33:06.000Z",
+    "display_text_range": [
+      8,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T20:33:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093421635240087670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1491785487383609348",
+          "start": 0,
+          "username": "yofunb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093421635240087670",
+    "in_reply_to_user_id": "1491785487383609348",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093416089703383110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yofunb 我沒招了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "2093226092694065576",
+        "created_at": "2026-08-28T19:33:06.000Z",
+        "display_text_range": [
+          8,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T20:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093421635240087670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1491785487383609348",
+              "start": 0,
+              "username": "yofunb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093421635240087670",
+        "in_reply_to_user_id": "1491785487383609348",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093416089703383110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yofunb 我沒招了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491785487383609348",
+        "conversation_id": "2093226092694065576",
+        "created_at": "2026-08-28T19:11:04.000Z",
+        "display_text_range": [
+          22,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T20:11:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093416089703383110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2092972300673114113",
+              "start": 0,
+              "username": "Zhininghkqd"
+            },
+            {
+              "end": 21,
+              "id": "1668234754125344768",
+              "start": 13,
+              "username": "Reinai_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093416089703383110",
+        "in_reply_to_user_id": "2092972300673114113",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093400488750518460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhininghkqd @Reinai_ 人家未成年哥，你真沙比啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "🇹🇼|2011|生理女|🩸💊\n查成分回fo回私信\n不聊騷不賣福不約\n直fo就是喜歡你",
+        "id": "1668234754125344768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093421635240087670",
+        "name": "魚",
+        "pinned_tweet_id": "2088014202200068324",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1668234754125344768/1756263536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087966983476436992/PFSRGZXf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 709,
+          "like_count": 2245,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 647
+        },
+        "url": "",
+        "username": "Reinai_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-10T14:46:01.000Z",
+        "description": "",
+        "id": "1491785487383609348",
+        "is_identity_verified": false,
+        "location": "New York, USA",
+        "most_recent_tweet_id": "2093420299836698782",
+        "name": "雨",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083285369639059456/nqZ1vZBr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 323,
+          "like_count": 321,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 249
+        },
+        "url": "",
+        "username": "yofunb",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-27T13:48:09.000Z",
+        "description": "",
+        "id": "2092972300673114113",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093412386824933530",
+        "name": "Zhining",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 17,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "Zhininghkqd",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

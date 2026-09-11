@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "2093483374908449174",
+    "created_at": "2026-08-28T23:38:26.000Z",
+    "display_text_range": [
+      0,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T00:38:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093483374908449174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "361316606",
+          "start": 3,
+          "username": "soysabil"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093483374908449174",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5812
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092976065769828499",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @soysabil: sorry i ruin everything i have the everything ruining disorder"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "2093483374908449174",
+        "created_at": "2026-08-28T23:38:26.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T00:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093483374908449174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "361316606",
+              "start": 3,
+              "username": "soysabil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093483374908449174",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5812
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092976065769828499",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @soysabil: sorry i ruin everything i have the everything ruining disorder"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "361316606",
+        "conversation_id": "2092976065769828499",
+        "created_at": "2026-08-27T14:02:34.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T15:02:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092976065769828499"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092976065769828499",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 726,
+          "impression_count": 205775,
+          "like_count": 19995,
+          "quote_count": 81,
+          "reply_count": 10,
+          "retweet_count": 5812
+        },
+        "reply_settings": "everyone",
+        "text": "sorry i ruin everything i have the everything ruining disorder"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "🇹🇼|2011|生理女|🩸💊\n查成分回fo回私信\n不聊騷不賣福不約\n直fo就是喜歡你",
+        "id": "1668234754125344768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093483374908449174",
+        "name": "魚",
+        "pinned_tweet_id": "2088014202200068324",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1668234754125344768/1756263536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087966983476436992/PFSRGZXf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 716,
+          "like_count": 2273,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 665
+        },
+        "url": "",
+        "username": "Reinai_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-08-24T16:06:42.000Z",
+        "description": "",
+        "id": "361316606",
+        "is_identity_verified": false,
+        "location": "water seven",
+        "most_recent_tweet_id": "2093243067885351232",
+        "name": "໊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/361316606/1776308155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089606932135079936/fc2ARZER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4868,
+          "following_count": 344,
+          "like_count": 70,
+          "listed_count": 95,
+          "media_count": 13,
+          "tweet_count": 150
+        },
+        "url": "",
+        "username": "soysabil",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

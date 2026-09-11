@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096899237229608961"
+      ]
+    },
+    "author_id": "1668234754125344768",
+    "conversation_id": "2096899246981357587",
+    "created_at": "2026-09-07T09:51:53.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T10:51:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096899246981357587"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PNfZbObm00",
+          "end": 69,
+          "expanded_url": "https://x.com/Reinai_/status/2096899246981357587/photo/1",
+          "media_key": "3_2096899237229608961",
+          "start": 46,
+          "url": "https://t.co/PNfZbObm00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096899246981357587",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096899237229608961"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天買了100顆\n花了四百 其實有兩百二十顆但是我最近要努力存錢買新手機所以只買了100⋯ https://t.co/PNfZbObm00"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096899237229608961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRmuvxTbwAEORH4.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096899237229608961"
+          ]
+        },
+        "author_id": "1668234754125344768",
+        "conversation_id": "2096899246981357587",
+        "created_at": "2026-09-07T09:51:53.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T10:51:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096899246981357587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PNfZbObm00",
+              "end": 69,
+              "expanded_url": "https://x.com/Reinai_/status/2096899246981357587/photo/1",
+              "media_key": "3_2096899237229608961",
+              "start": 46,
+              "url": "https://t.co/PNfZbObm00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096899246981357587",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096899237229608961"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天買了100顆\n花了四百 其實有兩百二十顆但是我最近要努力存錢買新手機所以只買了100⋯ https://t.co/PNfZbObm00"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "🇹🇼|2011|🩸💊\n查成分回fo回私信\n不聊騷不賣福不約\n直fo就是喜歡你",
+        "id": "1668234754125344768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096899246981357587",
+        "name": "y",
+        "pinned_tweet_id": "2088014202200068324",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1668234754125344768/1756263536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087966983476436992/PFSRGZXf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 876,
+          "following_count": 748,
+          "like_count": 2718,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 712
+        },
+        "url": "",
+        "username": "Reinai_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
