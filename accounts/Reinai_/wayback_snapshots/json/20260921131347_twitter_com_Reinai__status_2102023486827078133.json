@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "2102023486827078133",
+    "created_at": "2026-09-21T13:13:47.000Z",
+    "display_text_range": [
+      0,
+      79
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T14:13:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102023486827078133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2038743854703128576",
+          "start": 3,
+          "username": "oorangeugladd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102023486827078133",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2114
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101515522311356439",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oorangeugladd: good news: i can be happy\nbad news: probably substance abuse"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "2102023486827078133",
+        "created_at": "2026-09-21T13:13:47.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T14:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102023486827078133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2038743854703128576",
+              "start": 3,
+              "username": "oorangeugladd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102023486827078133",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2114
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101515522311356439",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oorangeugladd: good news: i can be happy\nbad news: probably substance abuse"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038743854703128576",
+        "conversation_id": "2101515522311356439",
+        "created_at": "2026-09-20T03:35:19.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T04:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101515522311356439"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101515522311356439",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 282,
+          "impression_count": 89748,
+          "like_count": 9566,
+          "quote_count": 61,
+          "reply_count": 11,
+          "retweet_count": 2114
+        },
+        "reply_settings": "everyone",
+        "text": "good news: i can be happy\nbad news: probably substance abuse"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "🇹🇼|2011|🩸💊\n查成分回fo回私信\n不聊騷不賣福不約\n直fo就是喜歡你",
+        "id": "1668234754125344768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102023486827078133",
+        "name": "y",
+        "pinned_tweet_id": "2088014202200068324",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1668234754125344768/1756263536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087966983476436992/PFSRGZXf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 748,
+          "like_count": 2801,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 782
+        },
+        "url": "",
+        "username": "Reinai_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-30T22:23:31.000Z",
+        "description": "i like to play in the sun",
+        "id": "2038743854703128576",
+        "is_identity_verified": false,
+        "location": "20",
+        "most_recent_tweet_id": "2102018656674664954",
+        "name": "່͏ ͏ ͏͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏",
+        "pinned_tweet_id": "2053945839567974791",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2038743854703128576/1774909974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072235036292595712/h4AHwJuv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 495,
+          "like_count": 96527,
+          "listed_count": 11,
+          "media_count": 471,
+          "tweet_count": 5896
+        },
+        "url": "",
+        "username": "oorangeugladd",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

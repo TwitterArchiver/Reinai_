@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "2103483415375040526",
+    "created_at": "2026-09-25T13:55:01.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T14:55:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103483415375040526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1396129154920222723",
+          "start": 3,
+          "username": "rjmxrell"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103483415375040526",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 483
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103213129346007070",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rjmxrell: i miss you more than what u think"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "2103483415375040526",
+        "created_at": "2026-09-25T13:55:01.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T14:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103483415375040526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1396129154920222723",
+              "start": 3,
+              "username": "rjmxrell"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103483415375040526",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 483
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103213129346007070",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rjmxrell: i miss you more than what u think"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1396129154920222723",
+        "conversation_id": "2103213129346007070",
+        "created_at": "2026-09-24T20:01:00.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T21:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103213129346007070"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103213129346007070",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 22482,
+          "like_count": 1158,
+          "quote_count": 11,
+          "reply_count": 5,
+          "retweet_count": 483
+        },
+        "reply_settings": "everyone",
+        "text": "i miss you more than what u think"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "🇹🇼|2011|🩸💊\n查成分回fo回私信\n不聊騷不賣福不約\n直fo就是喜歡你",
+        "id": "1668234754125344768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103483415375040526",
+        "name": "魚",
+        "pinned_tweet_id": "2088014202200068324",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1668234754125344768/1756263536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087966983476436992/PFSRGZXf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 786,
+          "like_count": 3005,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 858
+        },
+        "url": "",
+        "username": "Reinai_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-22T15:43:46.000Z",
+        "description": "𝘄⃥𝗼⃥𝗿⃥𝗱⃥𝘀⃥ 𝗶⃥ 𝘄⃥𝗮⃥𝗻⃥𝘁⃥𝗲⃥𝗱⃥ 𝘁⃥𝗼⃥ 𝘀⃥𝗮⃥𝘆⃥ 𝗯⃥𝘂⃥𝘁⃥ 𝗻⃥𝗲⃥𝘃⃥𝗲⃥𝗿⃥ 𝗱⃥𝗶⃥𝗱⃥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/arjmxrell",
+                "end": 23,
+                "expanded_url": "https://x.com/arjmxrell",
+                "start": 0,
+                "url": "https://t.co/AzPepeWKCA"
+              }
+            ]
+          }
+        },
+        "id": "1396129154920222723",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103468814675607859",
+        "name": "⋆｡𖦹 °",
+        "pinned_tweet_id": "2096312157197754512",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1396129154920222723/1782064346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043046905161093120/mIdCzL5d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346105,
+          "following_count": 1,
+          "like_count": 266831,
+          "listed_count": 554,
+          "media_count": 57,
+          "tweet_count": 5228
+        },
+        "url": "https://t.co/AzPepeWKCA",
+        "username": "rjmxrell",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

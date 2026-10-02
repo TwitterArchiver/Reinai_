@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "2103116532260000009",
+    "created_at": "2026-09-24T13:37:09.000Z",
+    "display_text_range": [
+      0,
+      122
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T14:37:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103116532260000009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2042025127831826432",
+          "start": 3,
+          "username": "whyamI4liv3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103116532260000009",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2899
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102804817450340618",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyamI4liv3: \"I wanna cut\"\n*Too lazy*\n\"I wanna cut\"\n*Procrastinates\"\n\"I wanna cut\"\n*Fell asleep*\n\"I wanna cut\"\nForgets"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "2103116532260000009",
+        "created_at": "2026-09-24T13:37:09.000Z",
+        "display_text_range": [
+          0,
+          122
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T14:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103116532260000009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042025127831826432",
+              "start": 3,
+              "username": "whyamI4liv3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103116532260000009",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2899
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102804817450340618",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyamI4liv3: \"I wanna cut\"\n*Too lazy*\n\"I wanna cut\"\n*Procrastinates\"\n\"I wanna cut\"\n*Fell asleep*\n\"I wanna cut\"\nForgets"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042025127831826432",
+        "conversation_id": "2102804817450340618",
+        "created_at": "2026-09-23T16:58:31.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T17:58:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102804817450340618"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102804817450340618",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 237,
+          "impression_count": 43955,
+          "like_count": 7697,
+          "quote_count": 34,
+          "reply_count": 21,
+          "retweet_count": 2899
+        },
+        "reply_settings": "everyone",
+        "text": "\"I wanna cut\"\n*Too lazy*\n\"I wanna cut\"\n*Procrastinates\"\n\"I wanna cut\"\n*Fell asleep*\n\"I wanna cut\"\nForgets"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "🇹🇼|2011|🩸💊\n查成分回fo回私信\n不聊騷不賣福不約\n直fo就是喜歡你",
+        "id": "1668234754125344768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103116532260000009",
+        "name": "魚",
+        "pinned_tweet_id": "2088014202200068324",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1668234754125344768/1756263536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087966983476436992/PFSRGZXf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 783,
+          "like_count": 2916,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 820
+        },
+        "url": "",
+        "username": "Reinai_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-08T23:42:11.000Z",
+        "description": "Fuck my life \ngw:35 ugw:💀 cw:40\n#bsdshedtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 32,
+                "tag": "bsdshedtwt"
+              }
+            ]
+          }
+        },
+        "id": "2042025127831826432",
+        "is_identity_verified": false,
+        "location": "OUT OF 41-45kg kg jail",
+        "most_recent_tweet_id": "2103112444310896880",
+        "name": "𝕱𝖞𝖔𝖉𝖔𝖗 𝖔𝖋 𝖘𝖍𝖊𝖉𝖙𝖜𝖙",
+        "pinned_tweet_id": "2087193091660746860",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042025127831826432/1776313486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056942789427085312/L00_ryGi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 131,
+          "like_count": 11063,
+          "listed_count": 2,
+          "media_count": 246,
+          "tweet_count": 1928
+        },
+        "url": "",
+        "username": "whyamI4liv3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

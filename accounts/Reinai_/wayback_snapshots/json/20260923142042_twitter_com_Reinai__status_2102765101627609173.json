@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "2102762824070259197",
+    "created_at": "2026-09-23T14:20:42.000Z",
+    "display_text_range": [
+      10,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T15:20:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102765101627609173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1934688760723329025",
+          "start": 0,
+          "username": "bldgysst"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102765101627609173",
+    "in_reply_to_user_id": "1934688760723329025",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102764401602199703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bldgysst 喜歡你呀！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "2102762824070259197",
+        "created_at": "2026-09-23T14:20:42.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T15:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102765101627609173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1934688760723329025",
+              "start": 0,
+              "username": "bldgysst"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102765101627609173",
+        "in_reply_to_user_id": "1934688760723329025",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102764401602199703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bldgysst 喜歡你呀！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934688760723329025",
+        "conversation_id": "2102762824070259197",
+        "created_at": "2026-09-23T14:17:55.000Z",
+        "display_text_range": [
+          9,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T15:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102764401602199703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1668234754125344768",
+              "start": 0,
+              "username": "Reinai_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102764401602199703",
+        "in_reply_to_user_id": "1668234754125344768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102762824070259197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reinai_ 寶寶一定有人覺得你很好的！\n我就是！請不要自卑٩(◦`꒳´◦)۶"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "🇹🇼|2011|🩸💊\n查成分回fo回私信\n不聊騷不賣福不約\n直fo就是喜歡你",
+        "id": "1668234754125344768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102765101627609173",
+        "name": "魚",
+        "pinned_tweet_id": "2088014202200068324",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1668234754125344768/1756263536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087966983476436992/PFSRGZXf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 776,
+          "like_count": 2903,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 808
+        },
+        "url": "",
+        "username": "Reinai_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-16T19:05:41.000Z",
+        "description": "討厭☄指手畫腳的人\n‼️ღ詳介見置頂*੭\n🔪💊❤️\n友+(⁎˃ᆺ˂)沒看到回fo的寶寶請私哦♡⁠\n\n帳→抱怨、視姦、發瘋、看老婆🩷\n\n好習慣→常點❤️\n壞習慣→不常留言\n希望大家也有好習慣哦❤️\n\n網上活躍*੭什麼都沒回肯定是被鎖了(๑´ㅁ`)\n情緒保護☂\n\n(´ω｀)ゞ因為其實不太會聊天的\n尤其不會開話題(◞‸◟)",
+        "id": "1934688760723329025",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102764401602199703",
+        "name": "菲yan*੭",
+        "pinned_tweet_id": "2100367223932301610",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934688760723329025/1789144097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100002095265120256/giY7bFLx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 20,
+          "like_count": 4311,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 97
+        },
+        "url": "",
+        "username": "bldgysst",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

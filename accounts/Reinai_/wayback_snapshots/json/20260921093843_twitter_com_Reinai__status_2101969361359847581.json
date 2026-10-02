@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "2101622156513644589",
+    "created_at": "2026-09-21T09:38:43.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T10:38:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101969361359847581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2000147069177298945",
+          "start": 0,
+          "username": "ljsjsj8091h4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101969361359847581",
+    "in_reply_to_user_id": "2000147069177298945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101622156513644589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ljsjsj8091h4 對不起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "2101622156513644589",
+        "created_at": "2026-09-21T09:38:43.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T10:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101969361359847581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2000147069177298945",
+              "start": 0,
+              "username": "ljsjsj8091h4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101969361359847581",
+        "in_reply_to_user_id": "2000147069177298945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101622156513644589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ljsjsj8091h4 對不起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000147069177298945",
+        "conversation_id": "2101622156513644589",
+        "created_at": "2026-09-20T10:39:03.000Z",
+        "display_text_range": [
+          0,
+          118
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T11:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101622156513644589"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101622156513644589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 237,
+          "impression_count": 66866,
+          "like_count": 1959,
+          "quote_count": 89,
+          "reply_count": 215,
+          "retweet_count": 365
+        },
+        "reply_settings": "everyone",
+        "text": "有没有一种可能？你忍着不联系别人的时候，对方在庆幸，你个傻逼终于闭嘴了，也许人家根本就没把你当回事，而你还每天多愁善感的不行，永远高估自己在别人心里地位，其实你啥也不是，你别再自作多情了，人家没在想你，更不会忍着不联系你，人家过得挺好的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "🇹🇼|2011|🩸💊\n查成分回fo回私信\n不聊騷不賣福不約\n直fo就是喜歡你",
+        "id": "1668234754125344768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101969361359847581",
+        "name": "y",
+        "pinned_tweet_id": "2088014202200068324",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1668234754125344768/1756263536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087966983476436992/PFSRGZXf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 748,
+          "like_count": 2792,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 778
+        },
+        "url": "",
+        "username": "Reinai_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-14T10:13:59.000Z",
+        "description": "你觉得我是什么样的人，我就是什么样的人\n愿你被世界温柔对待",
+        "id": "2000147069177298945",
+        "is_identity_verified": false,
+        "location": "海特洛",
+        "most_recent_tweet_id": "2101948516495180138",
+        "name": "万",
+        "pinned_tweet_id": "2100048164938006752",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2000147069177298945/1788328860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092310992554266624/9fdqZXMH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 82,
+          "like_count": 2635,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 417
+        },
+        "url": "",
+        "username": "ljsjsj8091h4",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1668234754125344768",
+    "conversation_id": "2098710502784569689",
+    "created_at": "2026-09-12T14:50:43.000Z",
+    "display_text_range": [
+      15,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T15:50:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098786391446683892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1782889638283096064",
+          "start": 0,
+          "username": "Asamylove____"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098786391446683892",
+    "in_reply_to_user_id": "1782889638283096064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098710502784569689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Asamylove____ 噁男退散噁男退散"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "2098710502784569689",
+        "created_at": "2026-09-12T14:50:43.000Z",
+        "display_text_range": [
+          15,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T15:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098786391446683892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1782889638283096064",
+              "start": 0,
+              "username": "Asamylove____"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098786391446683892",
+        "in_reply_to_user_id": "1782889638283096064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098710502784569689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Asamylove____ 噁男退散噁男退散"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782889638283096064",
+        "conversation_id": "2098710502784569689",
+        "created_at": "2026-09-12T09:49:10.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T10:49:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098710502784569689"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098710502784569689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 195,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "澄清\n我是男生\n我是男生\n我是男生\n如果你以為我是女生想關心我\n然後想騙砲的可以走了\n真的想關心的很歡迎\n謝謝"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "🇹🇼|2011|🩸💊\n查成分回fo回私信\n不聊騷不賣福不約\n直fo就是喜歡你",
+        "id": "1668234754125344768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098786391446683892",
+        "name": "y",
+        "pinned_tweet_id": "2088014202200068324",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1668234754125344768/1756263536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087966983476436992/PFSRGZXf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 751,
+          "like_count": 2778,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 749
+        },
+        "url": "",
+        "username": "Reinai_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-23T21:49:53.000Z",
+        "description": "@19981029A\n前世RIP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "19981029A"
+              }
+            ]
+          }
+        },
+        "id": "1782889638283096064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098743801749901615",
+        "name": "yunmnnnnnnn2.0",
+        "pinned_tweet_id": "2088602052771590547",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097056627589574656/uL-dVHUH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 16,
+          "like_count": 1741,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1139
+        },
+        "url": "",
+        "username": "Asamylove____",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
